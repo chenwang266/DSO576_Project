@@ -1,4 +1,4 @@
-Chen wang (chenwang266)
+Chen Wang (chenwang266)
 Christos Georgaklis (christosgeorgaklis)
 Riley Lyu (ruininglyu7326)
 Vincent Liang (liang-jianyuan)
