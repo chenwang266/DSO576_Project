@@ -1,6 +1,6 @@
 # Project Starting Point
 
-Provisional team record. Items marked [To confirm] need team input before submission.
+Provisional team record.
 
 ## Selected project area
 
@@ -8,25 +8,27 @@ Short-Term Rental Marketplace Health
 
 ## Why our team is interested in it
 
-[To confirm: Write 2–3 sentences explaining the team's genuine interest in this area and why the decisions below are worth investigating.]
+Our team is interested in how short-term rental platforms can use marketplace data to make better pricing and supply decisions. We want to explore how differences across neighborhoods, property types, prices, availability, and marketplace activity can help Airbnb identify where pricing guidance may be useful and where additional host recruitment may be worth considering.
 
 ## Candidate Vision A
 
-[To confirm: Person or role] at [specific organization] must decide [one concrete decision].
+A Marketplace Strategy Manager at Airbnb must decide which neighborhood-property segments should be prioritized for pricing guidance to improve marketplace performance.
 
 ## Candidate Vision B
 
-[To confirm: Person or role] at [specific organization] must decide [a distinct concrete decision within the same project area].
+A Marketplace Growth Manager at Airbnb must decide which neighborhood-property segments should be prioritized for host recruitment to strengthen marketplace supply.
 
 ## Core data source we confirmed we can access
 
-- Source: [To confirm: Name and owner of the core data source.]
-- Link: [To confirm: Direct source URL.]
-- What opened: [To confirm: File, table, source page, or small sample actually opened, and what was inspected.]
-- Access status: No successful access check or access blocker has been documented in the available project notes yet.
+- Source: Inside Airbnb
+- Link: https://insideairbnb.com/get-the-data/
+- What opened: We successfully accessed the Inside Airbnb data page and inspected a city-level data package containing detailed listings, calendar, reviews, neighbourhood, and geographic boundary files. The available files provide listing-level characteristics, prices, availability, reviews, and geographic information that could support investigation of both candidate Visions.
+- Access status: Accessible. We confirmed that city-level Inside Airbnb datasets can be downloaded and inspected. The final city or cities, time periods, and specific files used for the project still need to be determined.
 
 ## Three questions we still need to resolve
 
-1. For each candidate Vision, what evidence would show that the proposed audience considers this decision important, and what outcome would count as success?
-2. Which observed rows, fields, locations, and time periods in the core data can support each decision, and which conclusions would go beyond the data?
-3. What decision-important input is missing for each candidate, and can we obtain and connect it to the core data within the project's constraints?
+1. For the pricing-guidance Vision, which pricing and marketplace-performance indicators should be used to identify neighborhood-property segments that may benefit from pricing guidance?
+
+2. For the host-recruitment Vision, can the available public data provide enough evidence of both supply and market demand to identify promising recruitment opportunities, or will additional demand-related data be necessary?
+
+3. What geographic scope and time period should we use so that the analysis is both meaningful for the stakeholder and feasible with the available Inside Airbnb data?
