@@ -1,6 +1,0 @@
-id,field,original,expected,actual,reason,matches
-2708,price_numeric,$67.22,67.22,67.22,Currency conversion,True
-2436587,price_numeric,$72.30,72.3,72.3,Currency conversion; minimum_nights stays missing,True
-6764023,review_scores_value,0.0,0.0,0.0,Zero score retained,True
-25870842,price_numeric,"$20,583.33",20583.33,20583.33,Extreme price retained,True
-607365253103904668,price_numeric,$3.77,3.77,3.77,Low price retained; monthly quote flagged,True

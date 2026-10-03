@@ -1,4 +1,4 @@
-# Full downloaded Inside Airbnb sources, including the old root files
+# Full downloads
 /group data/
 /data/
 /listings.csv
@@ -8,14 +8,11 @@
 /neighbourhoods.csv
 /neighbourhoods.geojson
 *.csv.gz
-# Local environments and caches
+# Environments and caches
 .venv/
 __pycache__/
 .ipynb_checkpoints/
 .uv-cache/
-# Local execution logs
-cleaning_outputs/*.log
-# cleaning_outputs/*.csv remain available for evidence and the 50-row sample.
-
+# Only the sample is required
 cleaning_outputs/*
 !cleaning_outputs/cleaned_listings_sample_50.csv

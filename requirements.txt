@@ -1,4 +1,2 @@
-# Tested with Python 3.13
 pandas==3.0.6
-# Required to run the notebook kernel; script only needs pandas.
 ipykernel==7.4.0
