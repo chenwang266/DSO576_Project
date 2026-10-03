@@ -1,0 +1,41 @@
+listing_id,snapshot_name,snapshot_date,neighbourhood,room_type,bedrooms,bedroom_segment,property_type,accommodates,price_usd,has_valid_price,availability_90,number_of_reviews_ltm,review_scores_rating,segment_key
+2708,june_2026,2026-06-15,Hollywood,Private room,,Unknown,Private room in rental unit,1,67.22,True,33,3,4.87,Hollywood | Private room | Unknown
+6033,june_2026,2026-06-15,Woodland Hills,Entire home/apt,1.0,1 bedroom,Entire bungalow,3,99.63,True,90,0,4.38,Woodland Hills | Entire home/apt | 1 bedroom
+9140,june_2026,2026-06-15,Long Beach,Private room,1.0,1 bedroom,Private room in loft,2,,False,0,0,4.77,Long Beach | Private room | 1 bedroom
+19311232,june_2026,2026-06-15,East Hollywood,Private room,2.0,2 bedroom,Private room in home,4,353.67,True,37,60,4.96,East Hollywood | Private room | 2 bedroom
+25352402,june_2026,2026-06-15,Westwood,Entire home/apt,2.0,2 bedroom,Entire rental unit,5,373.13,True,65,0,5.0,Westwood | Entire home/apt | 2 bedroom
+38405853,june_2026,2026-06-15,Baldwin Hills/Crenshaw,Entire home/apt,1.0,1 bedroom,Entire guest suite,2,160.0,True,25,82,4.88,Baldwin Hills/Crenshaw | Entire home/apt | 1 bedroom
+41564057,june_2026,2026-06-15,Pasadena,Entire home/apt,1.0,1 bedroom,Entire rental unit,2,144.65,True,37,3,4.92,Pasadena | Entire home/apt | 1 bedroom
+561307760609246617,june_2026,2026-06-15,Windsor Square,Entire home/apt,1.0,1 bedroom,Entire rental unit,2,146.94,True,90,0,,Windsor Square | Entire home/apt | 1 bedroom
+957559560544947153,june_2026,2026-06-15,Mid-City,Entire home/apt,1.0,1 bedroom,Entire rental unit,2,136.31,True,15,0,5.0,Mid-City | Entire home/apt | 1 bedroom
+1025625826638548600,june_2026,2026-06-15,East Pasadena,Entire home/apt,2.0,2 bedroom,Entire home,4,226.0,True,9,40,4.87,East Pasadena | Entire home/apt | 2 bedroom
+1050896897253928155,june_2026,2026-06-15,West Covina,Private room,1.0,1 bedroom,Room in hotel,2,115.0,True,13,15,4.72,West Covina | Private room | 1 bedroom
+1187058382485144162,june_2026,2026-06-15,Hollywood Hills,Entire home/apt,1.0,1 bedroom,Entire rental unit,4,153.77,True,89,0,,Hollywood Hills | Entire home/apt | 1 bedroom
+1225633023050419879,june_2026,2026-06-15,Chatsworth,Entire home/apt,3.0,3 bedroom,Entire home,6,370.88,True,44,9,4.85,Chatsworth | Entire home/apt | 3 bedroom
+1258774328050134663,june_2026,2026-06-15,Gardena,Entire home/apt,3.0,3 bedroom,Entire home,8,186.81,True,35,1,5.0,Gardena | Entire home/apt | 3 bedroom
+1272481423676821583,june_2026,2026-06-15,Lakewood,Entire home/apt,3.0,3 bedroom,Entire home,5,270.09,True,74,0,5.0,Lakewood | Entire home/apt | 3 bedroom
+1527945447107761906,june_2026,2026-06-15,Paramount,Entire home/apt,1.0,1 bedroom,Entire rental unit,5,302.5,True,81,2,5.0,Paramount | Entire home/apt | 1 bedroom
+1629293075288421541,june_2026,2026-06-15,Whittier,Entire home/apt,3.0,3 bedroom,Entire home,5,209.29,True,15,0,,Whittier | Entire home/apt | 3 bedroom
+1658269918877531652,june_2026,2026-06-15,Central-Alameda,Entire home/apt,6.0,6+ bedrooms,Entire rental unit,12,371.0,True,62,1,5.0,Central-Alameda | Entire home/apt | 6+ bedrooms
+1692771849246092309,june_2026,2026-06-15,San Fernando,Entire home/apt,1.0,1 bedroom,Tiny home,3,230.0,True,49,2,5.0,San Fernando | Entire home/apt | 1 bedroom
+6033,march_2026,2026-03-16,Woodland Hills,Entire home/apt,1.0,1 bedroom,Entire bungalow,3,95.13,True,90,0,4.38,Woodland Hills | Entire home/apt | 1 bedroom
+49731,march_2026,2026-03-16,Glendale,Entire home/apt,,Unknown,Entire rental unit,1,114.14,True,7,18,4.99,Glendale | Entire home/apt | Unknown
+21843308,march_2026,2026-03-16,Monrovia,Entire home/apt,1.0,1 bedroom,Entire rental unit,2,207.33,True,52,17,4.95,Monrovia | Entire home/apt | 1 bedroom
+25870842,march_2026,2026-03-16,Beverly Hills,Entire home/apt,7.0,6+ bedrooms,Entire villa,12,20583.33,True,89,0,5.0,Beverly Hills | Entire home/apt | 6+ bedrooms
+31021784,march_2026,2026-03-16,Glendora,Entire home/apt,3.0,3 bedroom,Entire home,6,316.11,True,48,27,4.85,Glendora | Entire home/apt | 3 bedroom
+42375946,march_2026,2026-03-16,Long Beach,Entire home/apt,2.0,2 bedroom,Entire guest suite,4,153.77,True,45,0,4.91,Long Beach | Entire home/apt | 2 bedroom
+577935878641978419,march_2026,2026-03-16,Burbank,Entire home/apt,2.0,2 bedroom,Entire home,4,251.47,True,84,12,4.84,Burbank | Entire home/apt | 2 bedroom
+791637569698582132,march_2026,2026-03-16,Atwater Village,Entire home/apt,2.0,2 bedroom,Entire townhouse,6,216.62,True,0,2,5.0,Atwater Village | Entire home/apt | 2 bedroom
+913037118442643069,march_2026,2026-03-16,Vernon,Entire home/apt,3.0,3 bedroom,Entire loft,7,339.88,True,74,39,4.92,Vernon | Entire home/apt | 3 bedroom
+958521982035697762,march_2026,2026-03-16,Burbank,Private room,1.0,1 bedroom,Private room in home,2,188.5,True,88,0,4.89,Burbank | Private room | 1 bedroom
+1018970041159929328,march_2026,2026-03-16,Beverly Hills,Entire home/apt,2.0,2 bedroom,Entire rental unit,4,376.59,True,71,1,4.67,Beverly Hills | Entire home/apt | 2 bedroom
+1129420972954443240,march_2026,2026-03-16,West Adams,Entire home/apt,2.0,2 bedroom,Entire home,3,128.83,True,46,0,5.0,West Adams | Entire home/apt | 2 bedroom
+1200216915373346033,march_2026,2026-03-16,Marina del Rey,Private room,1.0,1 bedroom,Private room in home,2,246.04,True,90,0,,Marina del Rey | Private room | 1 bedroom
+1369102055975860834,march_2026,2026-03-16,West Hollywood,Entire home/apt,1.0,1 bedroom,Entire rental unit,2,156.11,True,22,107,4.83,West Hollywood | Entire home/apt | 1 bedroom
+1385795546423827984,march_2026,2026-03-16,Walnut,Entire home/apt,2.0,2 bedroom,Entire home,6,200.69,True,14,2,5.0,Walnut | Entire home/apt | 2 bedroom
+1419262900118780721,march_2026,2026-03-16,Westmont,Entire home/apt,2.0,2 bedroom,Entire home,5,315.0,True,72,15,4.87,Westmont | Entire home/apt | 2 bedroom
+1452068118494812958,march_2026,2026-03-16,Echo Park,Entire home/apt,1.0,1 bedroom,Entire rental unit,2,,False,67,1,5.0,Echo Park | Entire home/apt | 1 bedroom
+1452093968341982976,march_2026,2026-03-16,Santa Monica,Entire home/apt,0.0,Studio,Entire rental unit,2,315.0,True,87,5,4.8,Santa Monica | Entire home/apt | Studio
+1583489863571246626,march_2026,2026-03-16,West Hollywood,Entire home/apt,2.0,2 bedroom,Entire rental unit,5,261.5,True,81,2,5.0,West Hollywood | Entire home/apt | 2 bedroom
+1630718154949369914,march_2026,2026-03-16,Hollywood,Entire home/apt,2.0,2 bedroom,Entire rental unit,4,237.5,True,73,3,4.67,Hollywood | Entire home/apt | 2 bedroom
+1630768506520186326,march_2026,2026-03-16,South Pasadena,Entire home/apt,2.0,2 bedroom,Entire rental unit,5,270.0,True,53,0,,South Pasadena | Entire home/apt | 2 bedroom

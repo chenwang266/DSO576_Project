@@ -2,6 +2,7 @@
 data/
 downloads/
 *.csv
+!sample_data/listings_sample.csv
 *.csv.gz
 *.parquet
 *.geojson
