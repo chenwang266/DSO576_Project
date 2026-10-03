@@ -9,6 +9,8 @@ This project uses Inside Airbnb's Los Angeles detailed-listings data from these 
 
 The raw files were downloaded on October 2, 2026.
 
+(December 4, 2025 was inspected during Phase 1 but excluded from the pricing cleaning pipeline because its detailed-listings file contained no usable price values.)
+
 ## Raw data
 
 Place the downloaded source files at:
@@ -52,4 +54,4 @@ During validation, rerunning the pipeline from the raw files reproduced all five
 
 - Branch name: `vincent_liang`
 - Branch URL: https://github.com/chenwang266/DSO576_Project/tree/vincent_liang
-- Submitted cleaning-work commit ID: [to be added after the cleaning-work commit]
+- Submitted cleaning-work commit ID: `ebbe07cece3f00f25a67fd5628d0b35019869416`
