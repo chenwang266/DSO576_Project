@@ -1,0 +1,10 @@
+rule,reason,check,type,status
+Price numeric conversion,Currency text cannot support numerical price comparisons,0 failures; missing mask preserved; original price unchanged,Type conversion,Implemented
+Explicit date parsing,Support date windows while retaining actual scrape dates,0 failures and 0 round-trip mismatches,Type conversion,Implemented
+Retain missing values,Unknown bedroom/price/score is not zero; no justified imputation,Missing counts before and after identical,Missing-data decision,Implemented: keep
+Retain unique source records,All four table keys are unique,Exact duplicates and repeated keys checked separately,Duplicate decision,Implemented: keep
+Eligibility indicators only,State metric denominators and unknown bedroom coverage without deleting records,Flags equal the stated nonmissing conditions on every row,Analysis scope,Apply below
+Monthly quote investigation flag,Extreme low prices include ambiguous Average monthly price quotes,Flag matches the literal quote text; raw price remains unchanged,Limitation flag,Apply below; interpretation unresolved
+Retain extremes and zero scores,Some extremes are plausible; correction lacks source evidence,Raw columns identical; examples retained,Validation / limitation,"Keep, investigate"
+Keep unmatched Calendar and extended windows,181 unmatched IDs and 14 extended windows are not proven errors,No row-count change; coverage/window evidence retained,Limitation,Keep
+Do not repair host_profile_id from float,Possible integer precision loss needs original text verification,Not used as a merge or analytical key,Limitation,Unresolved

@@ -1,0 +1,5 @@
+table,starting_rows,final_rows,row_difference,original_columns_unchanged,added_columns
+Listings,43751,43751,0,True,"price_numeric, last_scraped_dt, has_observed_price, has_bedroom_segment, eligible_price_bedroom_segment, monthly_quote_review_flag"
+Calendar,16035198,16035198,0,True,date_dt
+Reviews,1856294,1856294,0,True,date_dt
+Neighborhoods,270,270,0,True,
