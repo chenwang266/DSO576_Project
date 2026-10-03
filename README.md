@@ -4,8 +4,8 @@ DSO 576 Module 6 — individual data cleaning submission.
 
 - Student: Riley Lyu
 - Personal branch: cleaning-rileylyu
-- Branch URL: [URL]
-- Submitted commit ID: [commit SHA]
+- Branch URL: https://github.com/chenwang266/DSO576_Project/tree/cleaning-rileylyu
+- Submitted commit ID: a7017c78a62b4496a36180bfa0176cd9905b31bb
 
 ## Source and scope
 
