@@ -16,3 +16,6 @@ __pycache__/
 # Local execution logs
 cleaning_outputs/*.log
 # cleaning_outputs/*.csv remain available for evidence and the 50-row sample.
+
+cleaning_outputs/*
+!cleaning_outputs/cleaned_listings_sample_50.csv
