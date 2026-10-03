@@ -1,0 +1,5 @@
+table,rows,columns,missing_key_rows,duplicate_keys
+Listings,43751,90,0,0
+Calendar,16035198,5,0,0
+Reviews,1856294,6,0,0
+Neighborhoods,270,2,0,0

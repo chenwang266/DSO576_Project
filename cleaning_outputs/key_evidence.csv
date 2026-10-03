@@ -1,0 +1,5 @@
+table,key,missing_key_rows,duplicate_keys
+Listings,id,0,0
+Calendar,listing_id + date,0,0
+Reviews,id,0,0
+Neighborhoods,neighbourhood,0,0
