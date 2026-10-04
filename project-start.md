@@ -18,8 +18,6 @@ A Marketplace Strategy Manager at Airbnb must decide which neighborhood-property
 
 A Marketplace Growth Manager at Airbnb must decide which neighborhood-property segments should be prioritized for host recruitment to strengthen marketplace supply.
 
-#hhddryhd
-
 ## Core data source we confirmed we can access
 
 - Source: Inside Airbnb
