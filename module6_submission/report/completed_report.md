@@ -1,6 +1,7 @@
 # Module 6 - Project Data Cleaning Checklist
 
 Project: Short-Term Rental Marketplace Health | Student: chenwang266 | Branch: chenwang
+GitHub branch: [chenwang](https://github.com/chenwang266/DSO576_Project/tree/chenwang)
 Individual report, October 5, 2026. Team reconciliation and stakeholder confirmation remain pending.
 
 ## 1. State the vision along with a specific analysis question

@@ -10,6 +10,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, Tabl
 
 ROOT=Path(__file__).resolve().parents[1]
 E=ROOT/'data_and_evidence'
+BRANCH_URL='https://github.com/chenwang266/DSO576_Project/tree/chenwang'
 
 def build():
     a=json.loads((E/'full_data_checks.json').read_text())
@@ -38,6 +39,7 @@ def build():
     verification=(f"Codex verification response: I checked the submitted cleaning implementation and full-data evidence against the assignment. Independent validation passed on {a['clean_rows']:,} rows, including source-price parsing, key/row reconciliation, outer-join membership, group denominators, bounds, and sample membership. Five documented record checks passed. Fresh-process hashes matched all {len(repro['compared_files'])} pipeline outputs; the notebook ran all code cells successfully. This supports the working descriptive question using the selected fields. It does not establish correctness of excluded source columns, random sample representativeness, stakeholder approval, or group consensus. The student remains responsible for reviewing the rules and interpretation.")
     md=['# Module 6 - Project Data Cleaning Checklist','',
         'Project: Short-Term Rental Marketplace Health | Student: chenwang266 | Branch: chenwang',
+        f'GitHub branch: [chenwang]({BRANCH_URL})',
         'Individual report, October 5, 2026. Team reconciliation and stakeholder confirmation remain pending.','']
     for i,(title,status,body) in enumerate(items,1):md += [f'## {i}. {title}',f'Status: {status}',body,'']
     md += ['## Five record checks','']
@@ -52,6 +54,7 @@ def build():
     styles.add(ParagraphStyle('LogBody',parent=styles['BodyText'],fontSize=9,leading=11))
     def para(s,style='BodyText'):return Paragraph(escape(str(s)),styles[style])
     story=[para('Project Data Cleaning','Title'),para('DSO 576 | Module 6 | chenwang266 | branch chenwang'),
+           Paragraph(f'GitHub branch: <link href="{BRANCH_URL}" color="#1557a0">{BRANCH_URL}</link>',styles['BodyText']),
            para('Short-Term Rental Marketplace Health','Heading2'),
            para('Individual report - October 5, 2026. All 14 items have documented individual evidence. Team reconciliation and stakeholder confirmation remain pending.'),Spacer(1,12)]
     for i,(title,status,body) in enumerate(items,1):
