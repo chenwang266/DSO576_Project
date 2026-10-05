@@ -1,0 +1,23 @@
+{
+  "README.md": "cc97ae482502fad3750844dfc7ca217b820602b2dc6c3b7a229ee68437220541",
+  "code/build_report.py": "d3ce9d07b43a1ee340f668f72b064501d70be0c44112e26bac6df78adb680171",
+  "code/clean_data.py": "da7abd500ee29a6ae62da91abf5f59c3bea175da6db6b323f12c2231259fc42c",
+  "code/data_cleaning.ipynb": "ec7469a16435215c6cba970746b843bb22470800535a417ee8521df1837ede7d",
+  "code/environment-lock.txt": "9f8297a2e60559eb917bdb934ef0021a8e1d4e5042cf58228f10573da1339b24",
+  "code/requirements.txt": "06135b708b44e2213c6f13630ed8d63afb2e7c0d2f42abe69781672a275d83ae",
+  "code/validate_data.py": "9ee1a47678740aeda3e7d9036d1288a975b8d2db89d66da55083dc634539f59f",
+  "data_and_evidence/cleaned_listings.csv": "acab369b76ba633ae37e7b555c8748256aba4a2094fe64e6123931839edd3eb1",
+  "data_and_evidence/column_audit.csv": "ecbac00316d3c7162ec8618716eae3546137e4c98c867c4fd3ba16557e1f8ada",
+  "data_and_evidence/full_data_checks.json": "b1213f6279ead99a8d5963170b2142e4801a481004c7e3882de9a3733eca76ee",
+  "data_and_evidence/independent_validation.json": "a88d068988029268714e19f1591305337a3a5081962f8eafef30e8334c7b11eb",
+  "data_and_evidence/listing_comparison.csv": "1efb2151322151ed46ba8945e8853ce888bc5af50c266727ece661577f683bcb",
+  "data_and_evidence/neighbourhood_metrics.csv": "2230efab75779c65f0a2cc19953c498503db5d3241977b98a152a7ca0e9a0f82",
+  "data_and_evidence/notebook_execution.json": "abf57631b9e6314ca7046c54e7bfe170a2e5bb1355d05332b4ea1aa38666d2fc",
+  "data_and_evidence/record_checks.json": "064e9bbaac4a7bd05ced2aa2a46ee4ea49bc95f0f67333679f2912d5042b1020",
+  "data_and_evidence/reproducibility.json": "df603dd63239ae2b479c8bf1ecb5fd7d8a776c7c2df33d7ffaf281a966f7966a",
+  "data_and_evidence/sample_cleaned_50.csv": "8fecb01827959cc4eb65d0ff935419464f86ed1e346503924350ffdb586c8e2f",
+  "data_and_evidence/text_examples.csv": "a6baa3f2a719f3efbdb97769964c0a84fdf000820b3c16bf925d64cf832b797c",
+  "report/cleaning_decision_log.md": "a45c2d82b6abeee751b4fe0429e3a8ef2216a5284e80009c84442ba564e01468",
+  "report/completed_report.md": "590236012cc986a5928d6f6f39a5a39a1d72be016f705edd965a4e4a22684a85",
+  "report/completed_report.pdf": "81809b6de01369735347f0b03bf3284f9936d5867967c87c1aabd7ab6172c554"
+}

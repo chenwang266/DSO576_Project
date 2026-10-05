@@ -1,0 +1,62 @@
+[
+  {
+    "case": "missing price",
+    "snapshot_date": "2026-03-16",
+    "id": "1452068118494812958",
+    "source_row": 2,
+    "field": "price",
+    "original": "",
+    "expected": null,
+    "actual": null,
+    "reason": "retain missing; never invent a zero",
+    "matches": true
+  },
+  {
+    "case": "currency price",
+    "snapshot_date": "2026-03-16",
+    "id": "1452093968341982976",
+    "source_row": 3,
+    "field": "price",
+    "original": "$315.00",
+    "expected": 315.0,
+    "actual": 315.0,
+    "reason": "remove dollar sign and thousands separator",
+    "matches": true
+  },
+  {
+    "case": "missing rating",
+    "snapshot_date": "2026-03-16",
+    "id": "1453392869063399506",
+    "source_row": 8,
+    "field": "review_scores_rating",
+    "original": "",
+    "expected": null,
+    "actual": null,
+    "reason": "retain missing; absence of rating is not a zero score",
+    "matches": true
+  },
+  {
+    "case": "boolean label",
+    "snapshot_date": "2026-03-16",
+    "id": "1452149405821816967",
+    "source_row": 4,
+    "field": "host_is_superhost",
+    "original": "f",
+    "expected": false,
+    "actual": false,
+    "reason": "f means False",
+    "matches": true
+  },
+  {
+    "case": "high advertised price",
+    "snapshot_date": "2026-03-16",
+    "id": "98284",
+    "source_row": 167,
+    "field": "price",
+    "original": "$2,081.00",
+    "expected": 2081.0,
+    "actual": 2081.0,
+    "reason": "retain extreme positive price and flag it for sensitivity analysis",
+    "matches": true
+  }
+]

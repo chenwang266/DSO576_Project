@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "method": "Two separate Python processes from originals into different directories; byte-for-byte SHA-256 comparison",
+  "command": "python code/clean_data.py --source-dir /path/to/project --output-dir /path/to/fresh-output",
+  "compared_files": {
+    "cleaned_listings.csv": "acab369b76ba633ae37e7b555c8748256aba4a2094fe64e6123931839edd3eb1",
+    "column_audit.csv": "ecbac00316d3c7162ec8618716eae3546137e4c98c867c4fd3ba16557e1f8ada",
+    "full_data_checks.json": "b1213f6279ead99a8d5963170b2142e4801a481004c7e3882de9a3733eca76ee",
+    "listing_comparison.csv": "1efb2151322151ed46ba8945e8853ce888bc5af50c266727ece661577f683bcb",
+    "neighbourhood_metrics.csv": "2230efab75779c65f0a2cc19953c498503db5d3241977b98a152a7ca0e9a0f82",
+    "record_checks.json": "064e9bbaac4a7bd05ced2aa2a46ee4ea49bc95f0f67333679f2912d5042b1020",
+    "sample_cleaned_50.csv": "8fecb01827959cc4eb65d0ff935419464f86ed1e346503924350ffdb586c8e2f",
+    "text_examples.csv": "a6baa3f2a719f3efbdb97769964c0a84fdf000820b3c16bf925d64cf832b797c"
+  }
+}

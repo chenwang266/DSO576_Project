@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "records_checked": 89839,
+  "checks": [
+    "source/output row and ID reconciliation",
+    "all exported prices equal independently parsed source prices",
+    "numeric bounds",
+    "outer-merge union and intersection",
+    "group and price denominators",
+    "sample size, columns, and key membership",
+    "five record results"
+  ]
+}

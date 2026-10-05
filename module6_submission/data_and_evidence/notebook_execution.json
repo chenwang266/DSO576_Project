@@ -1,0 +1,5 @@
+{
+  "status": "PASS",
+  "code_cells": 4,
+  "procedure": "Fresh kernel; execute every cell in order with nbclient; no errors"
+}
