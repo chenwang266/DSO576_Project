@@ -1,0 +1,898 @@
+
+============================== 2026-03  (data/raw/3_15.csv.gz) ==============================
+shape: (46088, 90)
+exact duplicate rows: 0 | duplicated id: 0
+
+--- dtypes / nulls / uniques ---
+                                             inferred_dtype  null_or_blank  null_pct  n_unique
+id                                                    int64              0      0.00     46088
+listing_url                                          object              0      0.00     46088
+scrape_id                                             int64              0      0.00         1
+last_scraped                                         object              0      0.00         3
+source                                               object              0      0.00         2
+name                                                 object              0      0.00     44742
+description                                          object           1312      2.85     38854
+neighborhood_overview                               float64          46088    100.00         1
+picture_url                                          object              0      0.00     44987
+host_id                                               int64              0      0.00     23427
+host_url                                             object              0      0.00     23427
+host_profile_id                                     float64            356      0.77     22982
+host_profile_url                                     object            357      0.77     23066
+host_name                                            object            355      0.77      8565
+host_since                                          float64          46088    100.00         1
+hosts_time_as_user_years                            float64            356      0.77        19
+hosts_time_as_user_months                           float64            356      0.77        13
+hosts_time_as_host_years                            float64            356      0.77        17
+hosts_time_as_host_months                           float64            356      0.77        13
+host_location                                        object          11075     24.03       878
+host_about                                           object          20485     44.45     11734
+host_response_time                                  float64          46088    100.00         1
+host_response_rate                                  float64          46088    100.00         1
+host_acceptance_rate                                float64          46088    100.00         1
+host_is_superhost                                    object            356      0.77         3
+host_thumbnail_url                                  float64          46088    100.00         1
+host_picture_url                                     object            356      0.77     22078
+host_neighbourhood                                  float64          46088    100.00         1
+host_listings_count                                 float64            356      0.77       142
+host_total_listings_count                           float64          46088    100.00         1
+host_verifications                                  float64              0      0.00         1
+host_has_profile_pic                                 object            356      0.77         3
+host_identity_verified                               object            356      0.77         3
+neighbourhood                                       float64          46088    100.00         1
+neighbourhood_cleansed                               object              0      0.00       266
+neighbourhood_group_cleansed                         object              0      0.00         3
+latitude                                            float64              0      0.00     34117
+longitude                                           float64              0      0.00     36687
+property_type                                        object              0      0.00        96
+room_type                                            object              0      0.00         4
+accommodates                                          int64              0      0.00        16
+bathrooms                                           float64          10288     22.32        35
+bathrooms_text                                       object            102      0.22        55
+bedrooms                                            float64           3196      6.93        21
+beds                                                float64          10439     22.65        25
+amenities                                            object              0      0.00     42926
+price                                                object           8910     19.33     16884
+price_quote_checkin_date                             object           8088     17.55       337
+price_quote_checkout_date                            object           8088     17.55       359
+price_quote_total_price                             float64           8913     19.34     17175
+price_quote_price_per_night                         float64           8913     19.34     16883
+price_quote_raw                                      object           8088     17.55     34060
+minimum_nights                                      float64              7      0.02       113
+maximum_nights                                      float64              7      0.02       259
+minimum_minimum_nights                              float64              7      0.02       113
+maximum_minimum_nights                              float64              7      0.02       122
+minimum_maximum_nights                              float64              7      0.02       259
+maximum_maximum_nights                              float64              7      0.02       259
+minimum_nights_avg_ntm                              float64              0      0.00       481
+maximum_nights_avg_ntm                              float64              0      0.00       972
+calendar_updated                                    float64          46088    100.00         1
+has_availability                                     object           3574      7.75         3
+availability_30                                       int64              0      0.00        31
+availability_60                                       int64              0      0.00        61
+availability_90                                       int64              0      0.00        91
+availability_365                                      int64              0      0.00       366
+calendar_last_scraped                                object              0      0.00         3
+number_of_reviews                                     int64              0      0.00       697
+number_of_reviews_ltm                                 int64              0      0.00       152
+number_of_reviews_l30d                                int64              0      0.00        26
+availability_eoy                                      int64              0      0.00       292
+number_of_reviews_ly                                  int64              0      0.00       146
+estimated_occupancy_l365d                             int64              0      0.00        95
+estimated_revenue_l365d                             float64           8910     19.33     15036
+first_review                                         object          12519     27.16      4581
+last_review                                          object          12519     27.16      3102
+review_scores_rating                                float64          12519     27.16       150
+review_scores_accuracy                              float64          12524     27.17       146
+review_scores_cleanliness                           float64          12524     27.17       162
+review_scores_checkin                               float64          12530     27.19       132
+review_scores_communication                         float64          12525     27.18       133
+review_scores_location                              float64          12531     27.19       153
+review_scores_value                                 float64          12532     27.19       157
+license                                              object          32988     71.58      7719
+instant_bookable                                    float64          46088    100.00         1
+calculated_host_listings_count                        int64              0      0.00        76
+calculated_host_listings_count_entire_homes           int64              0      0.00        64
+calculated_host_listings_count_private_rooms          int64              0      0.00        43
+calculated_host_listings_count_shared_rooms           int64              0      0.00        17
+reviews_per_month                                   float64          12519     27.16       919
+
+--- numeric ranges (inferred numeric columns) ---
+                                                count          mean           std           min            1%           25%           50%           75%           99%           max
+id                                            46088.0  7.593994e+17  6.299498e+17  2.708000e+03  1.044804e+06  4.003895e+07  8.938137e+17  1.356842e+18  1.632721e+18  1.641714e+18
+scrape_id                                     46088.0  2.026032e+13  0.000000e+00  2.026032e+13  2.026032e+13  2.026032e+13  2.026032e+13  2.026032e+13  2.026032e+13  2.026032e+13
+neighborhood_overview                             0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_id                                       46088.0  2.290880e+08  2.266524e+08  7.670000e+02  3.069733e+05  3.085048e+07  1.344465e+08  4.196150e+08  7.316484e+08  7.513183e+08
+host_profile_id                               45732.0  1.469996e+18  2.016509e+16  1.462506e+18  1.462514e+18  1.462928e+18  1.466841e+18  1.469740e+18  1.591350e+18  1.641419e+18
+host_since                                        0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+hosts_time_as_user_years                      45732.0  7.522391e+00  3.918201e+00  0.000000e+00  0.000000e+00  4.000000e+00  8.000000e+00  1.000000e+01  1.500000e+01  1.700000e+01
+hosts_time_as_user_months                     45732.0  5.579113e+00  3.433671e+00  0.000000e+00  0.000000e+00  3.000000e+00  6.000000e+00  9.000000e+00  1.100000e+01  1.100000e+01
+hosts_time_as_host_years                      45732.0  5.579660e+00  3.815492e+00  0.000000e+00  0.000000e+00  2.000000e+00  5.000000e+00  9.000000e+00  1.400000e+01  1.500000e+01
+hosts_time_as_host_months                     45732.0  5.450800e+00  3.430165e+00  0.000000e+00  0.000000e+00  2.000000e+00  5.000000e+00  8.000000e+00  1.100000e+01  1.100000e+01
+host_response_time                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_response_rate                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_acceptance_rate                              0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_thumbnail_url                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_neighbourhood                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_listings_count                           45732.0  9.899329e+01  6.004534e+02  0.000000e+00  1.000000e+00  1.000000e+00  3.000000e+00  1.300000e+01  4.850000e+03  5.640000e+03
+host_total_listings_count                         0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_verifications                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+neighbourhood                                     0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+latitude                                      46088.0  3.405570e+01  1.458415e-01  3.333854e+01  3.374135e+01  3.399824e+01  3.406149e+01  3.411010e+01  3.464331e+01  3.481118e+01
+longitude                                     46088.0 -1.183110e+02  1.716667e-01 -1.189171e+02 -1.187005e+02 -1.184133e+02 -1.183406e+02 -1.182226e+02 -1.178386e+02 -1.176523e+02
+accommodates                                  46088.0  4.063813e+00  2.862457e+00  1.000000e+00  1.000000e+00  2.000000e+00  3.000000e+00  6.000000e+00  1.400000e+01  1.600000e+01
+bathrooms                                     35800.0  1.669399e+00  1.211138e+00  0.000000e+00  1.000000e+00  1.000000e+00  1.000000e+00  2.000000e+00  6.500000e+00  3.250000e+01
+bedrooms                                      42892.0  1.817915e+00  1.320182e+00  0.000000e+00  0.000000e+00  1.000000e+00  1.000000e+00  2.000000e+00  6.000000e+00  2.400000e+01
+beds                                          35649.0  2.267525e+00  1.731578e+00  0.000000e+00  0.000000e+00  1.000000e+00  2.000000e+00  3.000000e+00  8.000000e+00  5.000000e+01
+price_quote_total_price                       37175.0  4.463528e+03  1.478188e+04  1.600000e+01  7.400000e+01  4.496200e+02  1.577000e+03  4.221310e+03  4.957148e+04  1.147679e+06
+price_quote_price_per_night                   37175.0  3.493277e+02  6.175852e+02  3.310000e+00  3.288480e+01  1.127700e+02  2.054100e+02  3.630000e+02  2.663970e+03  2.058333e+04
+minimum_nights                                46081.0  1.867069e+01  3.176857e+01  1.000000e+00  1.000000e+00  2.000000e+00  2.500000e+01  3.000000e+01  9.000000e+01  1.124000e+03
+maximum_nights                                46081.0  9.378692e+04  1.414748e+07  1.000000e+00  7.000000e+00  3.650000e+02  3.650000e+02  1.125000e+03  1.125000e+03  2.147484e+09
+minimum_minimum_nights                        46081.0  1.867069e+01  3.176857e+01  1.000000e+00  1.000000e+00  2.000000e+00  2.500000e+01  3.000000e+01  9.000000e+01  1.124000e+03
+maximum_minimum_nights                        46081.0  2.129806e+01  4.000701e+01  1.000000e+00  1.000000e+00  2.000000e+00  3.000000e+01  3.000000e+01  1.830000e+02  1.124000e+03
+minimum_maximum_nights                        46081.0  4.716217e+04  1.000389e+07  1.000000e+00  2.000000e+00  3.000000e+02  3.650000e+02  1.125000e+03  1.125000e+03  2.147484e+09
+maximum_maximum_nights                        46081.0  9.378692e+04  1.414748e+07  1.000000e+00  7.000000e+00  3.650000e+02  3.650000e+02  1.125000e+03  1.125000e+03  2.147484e+09
+minimum_nights_avg_ntm                        46088.0  1.947338e+01  3.296078e+01  1.000000e+00  1.000000e+00  2.000000e+00  2.800000e+01  3.000000e+01  9.000000e+01  1.124000e+03
+maximum_nights_avg_ntm                        46088.0  5.112100e+04  1.003912e+07  1.000000e+00  7.000000e+00  3.650000e+02  3.650000e+02  1.125000e+03  1.125000e+03  2.147484e+09
+calendar_updated                                  0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+availability_30                               46088.0  1.401799e+01  1.212576e+01  0.000000e+00  0.000000e+00  0.000000e+00  1.400000e+01  2.800000e+01  3.000000e+01  3.000000e+01
+availability_60                               46088.0  3.249852e+01  2.382676e+01  0.000000e+00  0.000000e+00  1.000000e+00  3.800000e+01  5.700000e+01  6.000000e+01  6.000000e+01
+availability_90                               46088.0  5.208275e+01  3.510583e+01  0.000000e+00  0.000000e+00  1.300000e+01  6.300000e+01  8.700000e+01  9.000000e+01  9.000000e+01
+availability_365                              46088.0  2.082133e+02  1.356584e+02  0.000000e+00  0.000000e+00  7.800000e+01  2.470000e+02  3.430000e+02  3.650000e+02  3.650000e+02
+number_of_reviews                             46088.0  3.944931e+01  8.805597e+01  0.000000e+00  0.000000e+00  0.000000e+00  6.000000e+00  3.700000e+01  4.310000e+02  3.211000e+03
+number_of_reviews_ltm                         46088.0  8.030355e+00  1.661264e+01  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  8.000000e+00  6.900000e+01  8.150000e+02
+number_of_reviews_l30d                        46088.0  6.584794e-01  1.503444e+00  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  6.000000e+00  7.200000e+01
+availability_eoy                              46088.0  1.719423e+02  1.087639e+02  0.000000e+00  0.000000e+00  7.300000e+01  2.070000e+02  2.710000e+02  2.910000e+02  2.910000e+02
+number_of_reviews_ly                          46088.0  7.543721e+00  1.646352e+01  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  7.000000e+00  6.800000e+01  7.730000e+02
+estimated_occupancy_l365d                     46088.0  6.094066e+01  8.393107e+01  0.000000e+00  0.000000e+00  0.000000e+00  6.000000e+00  1.080000e+02  2.550000e+02  2.550000e+02
+estimated_revenue_l365d                       37178.0  1.983713e+04  3.441808e+04  0.000000e+00  0.000000e+00  0.000000e+00  5.772500e+03  2.674500e+04  1.571390e+05  7.340180e+05
+review_scores_rating                          33569.0  4.778532e+00  4.329842e-01  0.000000e+00  3.000000e+00  4.750000e+00  4.910000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_accuracy                        33564.0  4.800309e+00  4.169836e-01  0.000000e+00  3.000000e+00  4.780000e+00  4.920000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_cleanliness                     33564.0  4.749443e+00  4.486723e-01  0.000000e+00  3.000000e+00  4.700000e+00  4.880000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_checkin                         33558.0  4.854732e+00  3.737909e-01  0.000000e+00  3.000000e+00  4.860000e+00  4.960000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_communication                   33563.0  4.854159e+00  3.900146e-01  0.000000e+00  3.000000e+00  4.870000e+00  4.970000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_location                        33557.0  4.794087e+00  3.886020e-01  0.000000e+00  3.000000e+00  4.750000e+00  4.910000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_value                           33556.0  4.706624e+00  4.580994e-01  0.000000e+00  2.923500e+00  4.660000e+00  4.820000e+00  4.960000e+00  5.000000e+00  5.000000e+00
+instant_bookable                                  0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+calculated_host_listings_count                46088.0  1.806514e+01  5.581198e+01  1.000000e+00  1.000000e+00  1.000000e+00  2.000000e+00  9.000000e+00  4.710000e+02  4.710000e+02
+calculated_host_listings_count_entire_homes   46088.0  1.312081e+01  5.096135e+01  0.000000e+00  0.000000e+00  1.000000e+00  1.000000e+00  5.000000e+00  4.710000e+02  4.710000e+02
+calculated_host_listings_count_private_rooms  46088.0  4.467649e+00  2.208276e+01  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  1.500000e+02  2.220000e+02
+calculated_host_listings_count_shared_rooms   46088.0  1.352196e-01  1.732040e+00  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  3.300000e+01
+reviews_per_month                             33569.0  1.333605e+00  1.690850e+00  1.000000e-02  1.000000e-02  1.800000e-01  6.800000e-01  2.000000e+00  6.910000e+00  5.289000e+01
+
+--- top values of categorical / text columns (<=60 unique shown fully-ish) ---
+
+[listing_url] unique=46088
+listing_url
+https://www.airbnb.com/rooms/1452068118494812958    1
+https://www.airbnb.com/rooms/1147240883109422567    1
+https://www.airbnb.com/rooms/1147290744000655152    1
+https://www.airbnb.com/rooms/1147313444117786529    1
+https://www.airbnb.com/rooms/1222267825214228204    1
+https://www.airbnb.com/rooms/1222538313568524885    1
+https://www.airbnb.com/rooms/1222563782892764138    1
+https://www.airbnb.com/rooms/1222565373408579410    1
+
+[last_scraped] unique=3
+last_scraped
+2026-03-17    29498
+2026-03-16    12928
+2026-03-18     3662
+
+[source] unique=2
+source
+city scrape        35809
+previous scrape    10279
+
+[name] unique=44742
+name
+Private room & bathroom | 5m to USC, Downtown LA      49
+Private room with private bath! Co-Living Near USC    28
+3 Miles to SoCal Beach, Modern & Pet-Friendly Stay    20
+Home away from home                                   17
+Cozy Private Room with Attached Bath                  16
+Private room + bathroom |5 min to USC, Downtown LA    14
+Blueground | Downtown, elevator, nr parks             13
+King Room - 1 bed                                     12
+
+[description] unique=38854
+description
+                                                                                                                                                                                                                                                                                                                                                                                                                               1312
+Keep it simple at this peaceful and centrally-located place.                                                                                                                                                                                                                                                                                                                                                                    193
+Relax with the whole family at this peaceful place to stay.                                                                                                                                                                                                                                                                                                                                                                     189
+Enjoy a stylish experience at this centrally-located place.                                                                                                                                                                                                                                                                                                                                                                     188
+You'll have a great time at this comfortable place to stay.                                                                                                                                                                                                                                                                                                                                                                     171
+✔️ Prime Location 5 min to USC · 10 min to K-Town · Near Exposition & Jefferson Park<br />✔️ Your Space Private room w/ en-suite bath · Shared modern kitchen, living & workspace · Fully furnished & move-in ready<br />✔️ Room Features Secure lock · A/C · Blackout blinds · Closet · Comfortable bed · Fast Wi-Fi · Weekly cleaning of common areas<br />✔️ Requirements<br />Background check required for all tenants     158
+Kick back and relax in this calm, stylish space.                                                                                                                                                                                                                                                                                                                                                                                156
+Your family will be close to everything when you stay at this centrally-located place.                                                                                                                                                                                                                                                                                                                                          143
+
+[picture_url] unique=44987
+picture_url
+https://a0.muscache.com/pictures/miso/Hosting-1269736507120058187/original/c14c6da1-d59f-4877-ad4c-17c319de44c0.png        23
+https://a0.muscache.com/pictures/hosting/Hosting-1589526000859460299/original/0dc6bb3b-628a-45ab-b25d-31bbad603af2.png     21
+https://a0.muscache.com/pictures/hosting/Hosting-1390386844019665503/original/08821609-93f9-4ba0-bac6-7e932776f358.jpeg    15
+https://a0.muscache.com/pictures/miso/Hosting-1371547614518810385/original/b4386fb4-ae0e-46e8-a722-c26fdcf4da2c.jpeg       13
+https://a0.muscache.com/pictures/1b85acde-a9af-4b6f-a291-10c31459b2f9.jpg                                                  13
+https://a0.muscache.com/pictures/miso/Hosting-1293656838440542404/original/7f152bc8-c68c-4b6a-a009-8f49fa5d082c.jpeg       13
+https://a0.muscache.com/pictures/e616305f-946f-4f8c-a27f-978f7d6cdb91.jpg                                                  11
+https://a0.muscache.com/pictures/miso/Hosting-1221161121199838023/original/a270eb1e-88f2-4fe4-9f91-70f8b7f418d8.jpeg       10
+
+[host_url] unique=23427
+host_url
+https://www.airbnb.com/users/show/107434423    471
+https://www.airbnb.com/users/show/668954332    260
+https://www.airbnb.com/users/show/126644161    160
+https://www.airbnb.com/users/show/651318479    155
+https://www.airbnb.com/users/show/30850484     152
+https://www.airbnb.com/users/show/679821480    150
+https://www.airbnb.com/users/show/446820235    136
+https://www.airbnb.com/users/show/72933825     121
+
+[host_profile_url] unique=23066
+host_profile_url
+https://www.airbnb.com/users/profile/1462889176402806013    471
+                                                            357
+https://www.airbnb.com/users/profile/1470677965298429761    260
+https://www.airbnb.com/users/profile/1468379282794046160    168
+https://www.airbnb.com/users/profile/1462931889693449634    160
+https://www.airbnb.com/users/profile/1465454372930558750    152
+https://www.airbnb.com/users/profile/1463935070315356084    150
+https://www.airbnb.com/users/profile/1463723014928495353    136
+
+[host_name] unique=8565
+host_name
+Blueground    471
+              355
+Michael       353
+David         315
+Chosan        260
+RoomPicks     256
+John          231
+Sam           226
+
+[host_location] unique=878
+host_location
+Los Angeles, CA              19502
+                             11075
+Long Beach, CA                 942
+Santa Monica, CA               853
+California, United States      771
+New York, NY                   694
+Beverly Hills, CA              693
+Pasadena, CA                   510
+
+[host_about] unique=11734
+host_about
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            20485
+Blueground is the world’s largest operator of fully furnished, move-in-ready apartments for flexible stays. Our professionally designed homes include fully equipped kitchens, fast Wi-Fi, premium linens, and smart entertainment, with access to gyms, pools, or outdoor spaces in select buildings. Enjoy instant online booking, simple self-check-in, and 24/7 support through the Blueground Guest App. Feel at home anywhere.                          471
+Find your home away from home with CHOSAN. \n\nWe offer beautifully furnished rentals in welcoming neighborhoods across LA, DC, MD, and VA. Move into a space designed for comfort, complete with high-speed Wi-Fi, and relax knowing we handle the details. \n\nMany of our buildings even feature pools, gyms, or weekly housekeeping. Settle in and stay a month, a year, or more.                                                                         260
+Hello! I'm part of a dynamic team working on creating our short-term rental brand called Nespace—where "home" means warmth like a nest. We have listings in Koreatown, and near USC campus area. We're a positive, adventurous bunch that thrives on continuous learning. We aim to enhance your experience, so feel free to reach out if there's anything we can do to make your stay even more enjoyable!                                                   216
+The Maimon Group is trusted by elite travelers looking for effortless luxury. As a family-owned company, we manage luxury and ultra-luxury homes and provide personalized concierge services. Our team creates Inspired Experiences tailored to each guest, offering unique escapes that capture the imagination. Every stay is designed with exceptional care and attention, making it a seamless journey into the world’s most exclusive destinations.      192
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.\n\nWe promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.                                                                                                       167
+Level offers nightly, weekly, and monthly short-term stays in Chicago, Los Angeles, Vancouver, and Seattle, that combines hotel-style services with the comfort of residential living. Our luxurious fully furnished suites are thoughtfully designed, have 24-hour concierge support, and have everything you need while being situated in the most vibrant city neighborhoods. Stay well, stay level.                                                       152
+Hey there! Welcome to Zuma Housing! We’re new to Airbnb, but we’ve spent over a decade hosting tens of thousands of UCLA students, international students, and young professionals. Our fully furnished homes in Westwood are cozy, convenient, and made for smooth landings in LA. Whether you’re here to study, intern, or explore, we’ve got the space, the vibe, and the experience to make you feel at home.                                             150
+
+[host_is_superhost] unique=3
+host_is_superhost
+f    29165
+t    16567
+       356
+
+[host_picture_url] unique=22078
+host_picture_url
+https://a0.muscache.com/im/pictures/user/d0ad9599-6fc0-4be6-865e-ffe99142517c.jpg?aki_policy=profile_x_medium                                               471
+                                                                                                                                                            356
+https://a0.muscache.com/im/pictures/user/User/original/4707b37b-227c-496c-a3e6-953c8a6dd238.jpeg?aki_policy=profile_x_medium                                260
+https://a0.muscache.com/im/pictures/user/User/original/30f8dfc7-824f-4046-b1e4-75ac0c08eff0.jpeg?aki_policy=profile_x_medium                                216
+https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_t=L&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff    175
+https://a0.muscache.com/im/pictures/user/User-126644161/original/6bfed478-c2a3-441b-9859-bf604dad810a.png?aki_policy=profile_x_medium                       160
+https://a0.muscache.com/im/pictures/user/1b21ecd9-444c-4a62-8bb1-117e57b581a7.jpg?aki_policy=profile_x_medium                                               152
+https://a0.muscache.com/im/pictures/user/User/original/c1aed120-144f-47fe-a343-6743338ea172.jpeg?aki_policy=profile_x_medium                                150
+
+[host_has_profile_pic] unique=3
+host_has_profile_pic
+t    44335
+f     1397
+       356
+
+[host_identity_verified] unique=3
+host_identity_verified
+t    44363
+f     1369
+       356
+
+[neighbourhood_cleansed] unique=266
+neighbourhood_cleansed
+Long Beach        1921
+Hollywood         1820
+Venice            1567
+Santa Monica      1288
+West Hollywood    1247
+Downtown          1173
+Beverly Hills      834
+Pasadena           824
+
+[neighbourhood_group_cleansed] unique=3
+neighbourhood_group_cleansed
+City of Los Angeles     23212
+Other Cities            18642
+Unincorporated Areas     4234
+
+[property_type] unique=96
+property_type
+Entire home                    13548
+Entire rental unit             11106
+Private room in home            5911
+Entire guesthouse               2889
+Private room in rental unit     2763
+Entire condo                    1642
+Room in hotel                   1210
+Entire guest suite              1144
+
+[room_type] unique=4
+room_type
+Entire home/apt    33676
+Private room       11754
+Shared room          391
+Hotel room           267
+
+[bathrooms_text] unique=55
+bathrooms_text
+1 bath            19023
+2 baths            7871
+1 private bath     5574
+1 shared bath      3554
+3 baths            2112
+2.5 baths          1763
+1.5 baths          1425
+3.5 baths           790
+
+[amenities] unique=42926
+amenities
+[]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   87
+["Essentials", "Bed linens", "Extra pillows and blankets", "Shared outdoor pool - available all year, open specific hours, rooftop", "First aid kit", "Paid parking on premises", "Coffee maker", "Hair dryer", "Dedicated workspace", "Air conditioning", "Self check-in", "Smoke alarm", "Iron", "Patio or balcony", "Fire extinguisher", "Hangers", "Carbon monoxide alarm", "Shared gym in building", "Shampoo", "Heating", "Pets allowed", "Building staff", "Wifi", "Refrigerator", "60 inch HDTV with premium cable"]                                                                                                                                                                                                                         39
+["Iron", "Microwave", "Lockbox", "Paid parking on premises", "Bathtub", "Air conditioning", "Dishwasher", "Shampoo", "Hangers", "Washer \u2013\u00a0In unit", "Crib", "Carbon monoxide alarm", "Patio or balcony", "Elevator", "Essentials", "Gym", "Bed linens", "TV", "BBQ grill", "Heating", "Hair dryer", "High chair", "Long term stays allowed", "Refrigerator", "Self check-in", "Oven", "Dryer \u2013\u00a0In unit", "Kitchen", "Pets allowed", "Smoke alarm", "Wifi", "Private entrance", "Cooking basics", "Pool", "Coffee maker", "Hot water"]                                                                                                                                                                                            36
+["Essentials", "Bed linens", "Kitchen", "Paid parking on premises", "Coffee maker", "BBQ grill", "Hair dryer", "Air conditioning", "Crib", "Self check-in", "Hot water", "Smoke alarm", "Private entrance", "TV", "Iron", "Elevator", "Patio or balcony", "Oven", "Hangers", "Dryer \u2013\u00a0In unit", "Bathtub", "Carbon monoxide alarm", "Shampoo", "Microwave", "Lockbox", "Heating", "Gym", "Pets allowed", "Wifi", "Long term stays allowed", "Refrigerator", "Dishwasher", "Cooking basics", "Pool", "Washer \u2013\u00a0In unit", "High chair"]                                                                                                                                                                                            31
+["Iron", "Paid parking on premises", "Air conditioning", "Shampoo", "Hangers", "Carbon monoxide alarm", "Dedicated workspace", "Beach access \u2013 Beachfront", "Building staff", "First aid kit", "Essentials", "Gym", "Bed linens", "TV", "Heating", "Hair dryer", "Self check-in", "Fire extinguisher", "Pets allowed", "Smoke alarm", "Wifi", "Waterfront", "Extra pillows and blankets"]                                                                                                                                                                                                                                                                                                                                                       27
+["Essentials", "Bed linens", "Extra pillows and blankets", "First aid kit", "Paid parking on premises", "Hair dryer", "Dedicated workspace", "Air conditioning", "Self check-in", "Smoke alarm", "TV", "Iron", "Fire extinguisher", "Hangers", "Carbon monoxide alarm", "Shampoo", "Heating", "Pets allowed", "Building staff", "Wifi", "Pool"]                                                                                                                                                                                                                                                                                                                                                                                                      26
+["Microwave", "Air conditioning", "Dishwasher", "Carbon monoxide alarm", "Dedicated workspace", "Dishes and silverware", "Lock on bedroom door", "Stove", "Dryer", "Washer", "Bed linens", "Dining table", "Heating", "Keypad", "Refrigerator", "Self check-in", "Oven", "Fire extinguisher", "Kitchen", "Clothing storage", "Smoke alarm", "Wifi", "Hot water"]                                                                                                                                                                                                                                                                                                                                                                                     25
+["Bed linens", "Kitchen", "Dishes and silverware", "Exterior security cameras on property", "Paid parking on premises", "Coffee maker", "Cleaning products", "Dedicated workspace", "Dining table", "Air conditioning", "Self check-in", "Hot water", "Lock on bedroom door", "Smoke alarm", "TV", "Freezer", "Hot water kettle", "Oven", "Fire extinguisher", "Paid washer \u2013 In building", "Hangers", "Free street parking", "Drying rack for clothing", "Carbon monoxide alarm", "Stove", "Toaster", "Microwave", "Coffee", "Keypad", "Heating", "Pets allowed", "Cleaning available during stay", "Wifi", "Paid dryer \u2013 In building", "Long term stays allowed", "Refrigerator", "Clothing storage", "Cooking basics", "Dishwasher"]    24
+
+[price] unique=16884
+price
+           8910
+$200.00      73
+$194.00      69
+$126.00      65
+$160.00      64
+$120.00      63
+$137.00      61
+$257.00      59
+
+[price_quote_checkin_date] unique=337
+price_quote_checkin_date
+2026-03-17    8254
+              8088
+2026-03-16    3454
+2026-03-18    3209
+2026-03-22    1658
+2026-03-19    1596
+2026-03-23    1402
+2026-03-20    1235
+
+[price_quote_checkout_date] unique=359
+price_quote_checkout_date
+              8088
+2026-04-16    4101
+2026-03-18    2564
+2026-03-19    2203
+2026-04-17    1973
+2026-03-20    1449
+2026-03-23    1323
+2026-03-24    1294
+
+[price_quote_raw] unique=34060
+price_quote_raw
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 8088
+{"quote": {"taxes": null, "currency": null, "date_match": null, "service_fee": null, "total_price": null, "cleaning_fee": null, "is_available": null, "discount_amount": null, "price_per_night": null, "nightly_subtotal": null, "discounted_subtotal": null, "raw_price_line_items": null, "returned_checkin_date": null, "requested_checkin_date": "2026-03-17", "returned_checkout_date": null, "requested_checkout_date": "2026-04-16"}}                                                                                                                                                                                                                                                                                      87
+{"quote": {"taxes": null, "currency": null, "date_match": null, "service_fee": null, "total_price": null, "cleaning_fee": null, "is_available": null, "discount_amount": null, "price_per_night": null, "nightly_subtotal": null, "discounted_subtotal": null, "raw_price_line_items": null, "returned_checkin_date": null, "requested_checkin_date": "2026-03-18", "returned_checkout_date": null, "requested_checkout_date": "2026-04-17"}}                                                                                                                                                                                                                                                                                      41
+{"quote": {"taxes": null, "currency": null, "date_match": null, "service_fee": null, "total_price": null, "cleaning_fee": null, "is_available": null, "discount_amount": null, "price_per_night": null, "nightly_subtotal": null, "discounted_subtotal": null, "raw_price_line_items": null, "returned_checkin_date": null, "requested_checkin_date": "2026-03-17", "returned_checkout_date": null, "requested_checkout_date": "2026-03-18"}}                                                                                                                                                                                                                                                                                      31
+{"quote": {"taxes": null, "currency": "USD", "date_match": null, "service_fee": null, "total_price": "1444", "cleaning_fee": null, "is_available": true, "discount_amount": null, "price_per_night": "48.13333333333333333333333333", "nightly_subtotal": null, "discounted_subtotal": "1443.56", "raw_price_line_items": [{"amount": "1443.56", "item_type": "other", "description": "Average monthly price", "price_string": "$1,443.56"}, {"amount": "1443.56", "item_type": "discounted_subtotal", "description": "Price after discount", "price_string": "$1,443.56"}], "returned_checkin_date": null, "requested_checkin_date": "2026-03-17", "returned_checkout_date": null, "requested_checkout_date": "2026-04-16"}}      30
+{"quote": {"taxes": null, "currency": null, "date_match": null, "service_fee": null, "total_price": null, "cleaning_fee": null, "is_available": null, "discount_amount": null, "price_per_night": null, "nightly_subtotal": null, "discounted_subtotal": null, "raw_price_line_items": null, "returned_checkin_date": null, "requested_checkin_date": "2026-03-19", "returned_checkout_date": null, "requested_checkout_date": "2026-04-18"}}                                                                                                                                                                                                                                                                                      26
+{"quote": {"taxes": null, "currency": "USD", "date_match": null, "service_fee": null, "total_price": "2923", "cleaning_fee": null, "is_available": true, "discount_amount": null, "price_per_night": "97.43333333333333333333333333", "nightly_subtotal": null, "discounted_subtotal": "2922.52", "raw_price_line_items": [{"amount": "2922.52", "item_type": "other", "description": "Average monthly price", "price_string": "$2,922.52"}, {"amount": "2922.52", "item_type": "discounted_subtotal", "description": "Price after discount", "price_string": "$2,922.52"}], "returned_checkin_date": null, "requested_checkin_date": "2026-07-08", "returned_checkout_date": null, "requested_checkout_date": "2026-08-07"}}      24
+{"quote": {"taxes": null, "currency": "USD", "date_match": null, "service_fee": null, "total_price": "1781", "cleaning_fee": null, "is_available": true, "discount_amount": null, "price_per_night": "59.36666666666666666666666667", "nightly_subtotal": null, "discounted_subtotal": "1780.94", "raw_price_line_items": [{"amount": "1780.94", "item_type": "other", "description": "Average monthly price", "price_string": "$1,780.94"}, {"amount": "1780.94", "item_type": "discounted_subtotal", "description": "Price after discount", "price_string": "$1,780.94"}], "returned_checkin_date": null, "requested_checkin_date": "2026-07-08", "returned_checkout_date": null, "requested_checkout_date": "2026-08-07"}}      21
+
+[has_availability] unique=3
+has_availability
+t    42184
+      3574
+f      330
+
+[calendar_last_scraped] unique=3
+calendar_last_scraped
+2026-03-17    29503
+2026-03-16    12928
+2026-03-18     3657
+
+[first_review] unique=4581
+first_review
+              12519
+2026-02-15       90
+2026-02-16       62
+2025-07-06       59
+2025-12-26       58
+2026-03-01       55
+2026-01-02       52
+2025-09-07       50
+
+[last_review] unique=3102
+last_review
+              12519
+2026-03-01     1050
+2026-03-08      753
+2026-02-22      699
+2026-03-02      693
+2026-02-28      637
+2026-03-09      573
+2026-03-15      571
+
+[license] unique=7719
+license
+                                                                        32988
+Exempt                                                                   1471
+Exempt - This listing is a hotel or motel                                 927
+Exempt - This listing is a transient occupancy residential structure      777
+Exempt - This listing is a bed and breakfast                              495
+166412                                                                     74
+HSR19-000000                                                               23
+HSR19-123456                                                               18
+
+============================== 2026-06  (data/raw/6_15.csv.gz) ==============================
+shape: (43751, 90)
+exact duplicate rows: 0 | duplicated id: 0
+
+--- dtypes / nulls / uniques ---
+                                             inferred_dtype  null_or_blank  null_pct  n_unique
+id                                                    int64              0      0.00     43751
+listing_url                                          object              0      0.00     43751
+scrape_id                                             int64              0      0.00         1
+last_scraped                                         object              0      0.00         5
+source                                               object              0      0.00         2
+name                                                 object              0      0.00     42534
+description                                          object            924      2.11     36788
+neighborhood_overview                               float64          43751    100.00         1
+picture_url                                          object              0      0.00     42695
+host_id                                               int64              0      0.00     21024
+host_url                                             object              0      0.00     21024
+host_profile_id                                     float64            203      0.46     20970
+host_profile_url                                     object            214      0.49     20970
+host_name                                            object            203      0.46      8025
+host_since                                          float64          43751    100.00         1
+hosts_time_as_user_years                            float64            203      0.46        19
+hosts_time_as_user_months                           float64            203      0.46        13
+hosts_time_as_host_years                            float64            203      0.46        17
+hosts_time_as_host_months                           float64            203      0.46        13
+host_location                                        object          10662     24.37       778
+host_about                                           object          19043     43.53     11006
+host_response_time                                  float64          43751    100.00         1
+host_response_rate                                  float64          43751    100.00         1
+host_acceptance_rate                                float64          43751    100.00         1
+host_is_superhost                                    object            203      0.46         3
+host_thumbnail_url                                  float64          43751    100.00         1
+host_picture_url                                     object            203      0.46     20178
+host_neighbourhood                                  float64          43751    100.00         1
+host_listings_count                                 float64            203      0.46       145
+host_total_listings_count                           float64          43751    100.00         1
+host_verifications                                  float64              0      0.00         1
+host_has_profile_pic                                 object            203      0.46         3
+host_identity_verified                               object            203      0.46         3
+neighbourhood                                       float64          43751    100.00         1
+neighbourhood_cleansed                               object              0      0.00       265
+neighbourhood_group_cleansed                         object              0      0.00         3
+latitude                                            float64              0      0.00     33363
+longitude                                           float64              0      0.00     35481
+property_type                                        object              0      0.00        90
+room_type                                            object              0      0.00         4
+accommodates                                          int64              0      0.00        16
+bathrooms                                           float64           7761     17.74        33
+bathrooms_text                                       object            168      0.38        53
+bedrooms                                            float64           9572     21.88        20
+beds                                                float64           6631     15.16        24
+amenities                                            object              0      0.00     40386
+price                                                object           5565     12.72     17607
+price_quote_checkin_date                             object           4792     10.95       339
+price_quote_checkout_date                            object           4792     10.95       360
+price_quote_total_price                             float64           5569     12.73     17755
+price_quote_price_per_night                         float64           5569     12.73     17606
+price_quote_raw                                      object           4792     10.95     35330
+minimum_nights                                      float64             11      0.03       101
+maximum_nights                                      float64             11      0.03       247
+minimum_minimum_nights                              float64             11      0.03       101
+maximum_minimum_nights                              float64             11      0.03       114
+minimum_maximum_nights                              float64             11      0.03       242
+maximum_maximum_nights                              float64             11      0.03       247
+minimum_nights_avg_ntm                              float64              0      0.00       467
+maximum_nights_avg_ntm                              float64              0      0.00       912
+calendar_updated                                    float64          43751    100.00         1
+has_availability                                     object            472      1.08         3
+availability_30                                       int64              0      0.00        31
+availability_60                                       int64              0      0.00        61
+availability_90                                       int64              0      0.00        91
+availability_365                                      int64              0      0.00       366
+calendar_last_scraped                                object              0      0.00         5
+number_of_reviews                                     int64              0      0.00       706
+number_of_reviews_ltm                                 int64              0      0.00       150
+number_of_reviews_l30d                                int64              0      0.00        22
+availability_eoy                                      int64              0      0.00       201
+number_of_reviews_ly                                  int64              0      0.00       145
+estimated_occupancy_l365d                             int64              0      0.00        93
+estimated_revenue_l365d                             float64           5565     12.72     15523
+first_review                                         object          11257     25.73      4633
+last_review                                          object          11257     25.73      2889
+review_scores_rating                                float64          11257     25.73       151
+review_scores_accuracy                              float64          11262     25.74       147
+review_scores_cleanliness                           float64          11262     25.74       165
+review_scores_checkin                               float64          11264     25.75       133
+review_scores_communication                         float64          11261     25.74       131
+review_scores_location                              float64          11265     25.75       147
+review_scores_value                                 float64          11266     25.75       160
+license                                              object          30555     69.84      7720
+instant_bookable                                    float64          43751    100.00         1
+calculated_host_listings_count                        int64              0      0.00        83
+calculated_host_listings_count_entire_homes           int64              0      0.00        71
+calculated_host_listings_count_private_rooms          int64              0      0.00        45
+calculated_host_listings_count_shared_rooms           int64              0      0.00        16
+reviews_per_month                                   float64          11257     25.73       901
+
+--- numeric ranges (inferred numeric columns) ---
+                                                count          mean           std           min            1%           25%           50%           75%           99%           max
+id                                            43751.0  8.601313e+17  6.427867e+17  2.708000e+03  1.036238e+06  4.707541e+07  1.015113e+18  1.445818e+18  1.701230e+18  1.707754e+18
+scrape_id                                     43751.0  2.026062e+13  0.000000e+00  2.026062e+13  2.026062e+13  2.026062e+13  2.026062e+13  2.026062e+13  2.026062e+13  2.026062e+13
+neighborhood_overview                             0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_id                                       43751.0  1.037017e+16  1.318502e+17  7.670000e+02  2.887110e+05  3.012027e+07  1.410490e+08  4.403883e+08  7.502438e+08  1.707457e+18
+host_profile_id                               43548.0  1.474994e+18  3.652587e+16  1.462506e+18  1.462513e+18  1.462932e+18  1.466940e+18  1.469887e+18  1.674997e+18  1.707507e+18
+host_since                                        0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+hosts_time_as_user_years                      43548.0  7.568912e+00  4.098446e+00  0.000000e+00  0.000000e+00  4.000000e+00  8.000000e+00  1.100000e+01  1.500000e+01  1.700000e+01
+hosts_time_as_user_months                     43548.0  5.452076e+00  3.519329e+00  0.000000e+00  0.000000e+00  2.000000e+00  5.000000e+00  9.000000e+00  1.100000e+01  1.100000e+01
+hosts_time_as_host_years                      43548.0  5.532470e+00  3.958928e+00  0.000000e+00  0.000000e+00  2.000000e+00  5.000000e+00  9.000000e+00  1.400000e+01  1.500000e+01
+hosts_time_as_host_months                     43548.0  5.320589e+00  3.489245e+00  0.000000e+00  0.000000e+00  2.000000e+00  5.000000e+00  8.000000e+00  1.100000e+01  1.100000e+01
+host_response_time                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_response_rate                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_acceptance_rate                              0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_thumbnail_url                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_neighbourhood                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_listings_count                           43548.0  7.857743e+01  4.768026e+02  1.000000e+00  1.000000e+00  1.000000e+00  3.000000e+00  1.500000e+01  2.961000e+03  5.978000e+03
+host_total_listings_count                         0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+host_verifications                                0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+neighbourhood                                     0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+latitude                                      43751.0  3.405508e+01  1.481549e-01  3.333854e+01  3.373935e+01  3.399750e+01  3.406034e+01  3.411054e+01  3.465298e+01  3.481118e+01
+longitude                                     43751.0 -1.183112e+02  1.715021e-01 -1.189171e+02 -1.187053e+02 -1.184126e+02 -1.183402e+02 -1.182221e+02 -1.178370e+02 -1.176529e+02
+accommodates                                  43751.0  4.156705e+00  2.882696e+00  1.000000e+00  1.000000e+00  2.000000e+00  4.000000e+00  6.000000e+00  1.400000e+01  1.600000e+01
+bathrooms                                     35990.0  1.679675e+00  1.205777e+00  5.000000e-01  1.000000e+00  1.000000e+00  1.000000e+00  2.000000e+00  6.500000e+00  2.400000e+01
+bedrooms                                      34179.0  2.083853e+00  1.308534e+00  0.000000e+00  1.000000e+00  1.000000e+00  2.000000e+00  3.000000e+00  6.000000e+00  2.400000e+01
+beds                                          37120.0  2.310372e+00  1.723602e+00  1.000000e+00  1.000000e+00  1.000000e+00  2.000000e+00  3.000000e+00  8.000000e+00  5.000000e+01
+price_quote_total_price                       38182.0  4.518761e+03  1.392698e+04  1.600000e+01  7.525920e+01  4.918500e+02  1.640000e+03  4.314847e+03  4.853781e+04  1.147679e+06
+price_quote_price_per_night                   38182.0  3.834124e+02  6.638880e+02  3.770000e+00  3.474810e+01  1.158150e+02  2.236700e+02  4.060000e+02  2.917837e+03  2.058333e+04
+minimum_nights                                43740.0  1.769124e+01  2.983146e+01  1.000000e+00  1.000000e+00  1.000000e+00  7.000000e+00  3.000000e+01  8.961000e+01  1.124000e+03
+maximum_nights                                43740.0  9.874574e+04  1.452113e+07  1.000000e+00  1.000000e+01  3.650000e+02  3.650000e+02  1.125000e+03  1.125000e+03  2.147484e+09
+minimum_minimum_nights                        43740.0  1.769124e+01  2.983146e+01  1.000000e+00  1.000000e+00  1.000000e+00  7.000000e+00  3.000000e+01  8.961000e+01  1.124000e+03
+maximum_minimum_nights                        43740.0  2.016630e+01  3.711080e+01  1.000000e+00  1.000000e+00  2.000000e+00  2.100000e+01  3.000000e+01  1.800000e+02  1.124000e+03
+minimum_maximum_nights                        43740.0  4.962771e+04  1.026811e+07  1.000000e+00  1.000000e+00  2.650000e+02  3.650000e+02  1.125000e+03  1.125000e+03  2.147484e+09
+maximum_maximum_nights                        43740.0  9.874574e+04  1.452113e+07  1.000000e+00  1.000000e+01  3.650000e+02  3.650000e+02  1.125000e+03  1.125000e+03  2.147484e+09
+minimum_nights_avg_ntm                        43751.0  1.862346e+01  3.106479e+01  1.000000e+00  1.000000e+00  2.000000e+00  1.470000e+01  3.000000e+01  9.000000e+01  1.124000e+03
+maximum_nights_avg_ntm                        43751.0  6.979316e+04  1.109989e+07  1.000000e+00  1.000000e+01  3.600000e+02  3.650000e+02  1.125000e+03  1.125000e+03  2.147484e+09
+calendar_updated                                  0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+availability_30                               43751.0  1.360837e+01  1.166721e+01  0.000000e+00  0.000000e+00  0.000000e+00  1.200000e+01  2.600000e+01  3.000000e+01  3.000000e+01
+availability_60                               43751.0  3.141576e+01  2.258246e+01  0.000000e+00  0.000000e+00  9.000000e+00  3.300000e+01  5.500000e+01  6.000000e+01  6.000000e+01
+availability_90                               43751.0  5.234950e+01  3.237348e+01  0.000000e+00  0.000000e+00  2.500000e+01  5.800000e+01  8.400000e+01  9.000000e+01  9.000000e+01
+availability_365                              43751.0  2.234899e+02  1.269923e+02  0.000000e+00  0.000000e+00  1.090000e+02  2.610000e+02  3.420000e+02  3.650000e+02  3.650000e+02
+number_of_reviews                             43751.0  4.229179e+01  9.163851e+01  0.000000e+00  0.000000e+00  0.000000e+00  7.000000e+00  4.100000e+01  4.440000e+02  3.240000e+03
+number_of_reviews_ltm                         43751.0  8.538296e+00  1.640105e+01  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  1.000000e+01  6.900000e+01  7.950000e+02
+number_of_reviews_l30d                        43751.0  7.107266e-01  1.490012e+00  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  6.000000e+00  5.200000e+01
+availability_eoy                              43751.0  1.269477e+02  6.893111e+01  0.000000e+00  0.000000e+00  7.800000e+01  1.520000e+02  1.860000e+02  2.000000e+02  2.000000e+02
+number_of_reviews_ly                          43751.0  7.492400e+00  1.626824e+01  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  6.000000e+00  6.800000e+01  7.730000e+02
+estimated_occupancy_l365d                     43751.0  6.446068e+01  8.476463e+01  0.000000e+00  0.000000e+00  0.000000e+00  1.400000e+01  1.200000e+02  2.550000e+02  2.550000e+02
+estimated_revenue_l365d                       38186.0  2.217707e+04  4.070702e+04  0.000000e+00  0.000000e+00  0.000000e+00  5.502500e+03  2.872550e+04  1.863984e+05  9.118390e+05
+review_scores_rating                          32494.0  4.784725e+00  4.233996e-01  0.000000e+00  3.000000e+00  4.750000e+00  4.910000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_accuracy                        32489.0  4.804027e+00  4.072307e-01  0.000000e+00  3.000000e+00  4.780000e+00  4.920000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_cleanliness                     32489.0  4.756880e+00  4.343631e-01  0.000000e+00  3.000000e+00  4.710000e+00  4.890000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_checkin                         32487.0  4.858840e+00  3.609236e-01  0.000000e+00  3.000000e+00  4.860000e+00  4.960000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_communication                   32490.0  4.860027e+00  3.716048e-01  0.000000e+00  3.000000e+00  4.880000e+00  4.970000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_location                        32486.0  4.795713e+00  3.835283e-01  0.000000e+00  3.000000e+00  4.750000e+00  4.910000e+00  5.000000e+00  5.000000e+00  5.000000e+00
+review_scores_value                           32485.0  4.711495e+00  4.459884e-01  0.000000e+00  3.000000e+00  4.660000e+00  4.820000e+00  4.950000e+00  5.000000e+00  5.000000e+00
+instant_bookable                                  0.0           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN           NaN
+calculated_host_listings_count                43751.0  1.669070e+01  4.012837e+01  1.000000e+00  1.000000e+00  1.000000e+00  3.000000e+00  1.100000e+01  2.540000e+02  2.750000e+02
+calculated_host_listings_count_entire_homes   43751.0  1.030735e+01  2.801405e+01  0.000000e+00  0.000000e+00  1.000000e+00  1.000000e+00  6.000000e+00  1.470000e+02  2.540000e+02
+calculated_host_listings_count_private_rooms  43751.0  5.764645e+00  2.754408e+01  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  2.220000e+02  2.330000e+02
+calculated_host_listings_count_shared_rooms   43751.0  1.180544e-01  1.516622e+00  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  0.000000e+00  1.000000e+00  3.200000e+01
+reviews_per_month                             32494.0  1.384972e+00  1.672223e+00  1.000000e-02  1.930000e-02  2.000000e-01  7.500000e-01  2.080000e+00  6.820700e+00  4.735000e+01
+
+--- top values of categorical / text columns (<=60 unique shown fully-ish) ---
+
+[listing_url] unique=43751
+listing_url
+https://www.airbnb.com/rooms/2708                   1
+https://www.airbnb.com/rooms/1333493246744255696    1
+https://www.airbnb.com/rooms/1333487771535531397    1
+https://www.airbnb.com/rooms/1333488073593394902    1
+https://www.airbnb.com/rooms/1324021144234689685    1
+https://www.airbnb.com/rooms/1324035920520666011    1
+https://www.airbnb.com/rooms/1324051942875886645    1
+https://www.airbnb.com/rooms/1324054727049730706    1
+
+[last_scraped] unique=5
+last_scraped
+2026-06-16    17085
+2026-06-17    11999
+2026-06-15     8755
+2026-06-23     4232
+2026-06-22     1680
+
+[source] unique=2
+source
+city scrape        37691
+previous scrape     6060
+
+[name] unique=42534
+name
+Private room & bathroom | 5m to USC, Downtown LA      53
+Private room with private bath! Co-Living Near USC    20
+3 Miles to SoCal Beach, Modern & Pet-Friendly Stay    20
+Cozy Private Room with Attached Bath                  19
+Home away from home                                   14
+Cozy private 1b1b room downtown                       14
+Private room + bathroom |5 min to USC, Downtown LA    12
+Blueground | Downtown, elevator, nr parks             12
+
+[description] unique=36788
+description
+                                                                                                                                                                                                                                                                                                                                                                                                                               924
+Keep it simple at this peaceful and centrally-located place.                                                                                                                                                                                                                                                                                                                                                                   196
+Relax with the whole family at this peaceful place to stay.                                                                                                                                                                                                                                                                                                                                                                    190
+✔️ Prime Location 5 min to USC · 10 min to K-Town · Near Exposition & Jefferson Park<br />✔️ Your Space Private room w/ en-suite bath · Shared modern kitchen, living & workspace · Fully furnished & move-in ready<br />✔️ Room Features Secure lock · A/C · Blackout blinds · Closet · Comfortable bed · Fast Wi-Fi · Weekly cleaning of common areas<br />✔️ Requirements<br />Background check required for all tenants    173
+You'll have a great time at this comfortable place to stay.                                                                                                                                                                                                                                                                                                                                                                    163
+Kick back and relax in this calm, stylish space.                                                                                                                                                                                                                                                                                                                                                                               152
+Enjoy a stylish experience at this centrally-located place.                                                                                                                                                                                                                                                                                                                                                                    152
+Your family will be close to everything when you stay at this centrally-located place.                                                                                                                                                                                                                                                                                                                                         136
+
+[picture_url] unique=42695
+picture_url
+https://a0.muscache.com/pictures/miso/Hosting-1269736507120058187/original/c14c6da1-d59f-4877-ad4c-17c319de44c0.png        25
+https://a0.muscache.com/pictures/hosting/Hosting-1390386844019665503/original/08821609-93f9-4ba0-bac6-7e932776f358.jpeg    16
+https://a0.muscache.com/pictures/hosting/Hosting-1574384311312186164/original/4ddd6d82-83ef-48b5-b8b2-c73552f75baf.jpeg    15
+https://a0.muscache.com/pictures/1b85acde-a9af-4b6f-a291-10c31459b2f9.jpg                                                  13
+https://a0.muscache.com/pictures/e616305f-946f-4f8c-a27f-978f7d6cdb91.jpg                                                  11
+https://a0.muscache.com/pictures/miso/Hosting-1371547614518810385/original/b4386fb4-ae0e-46e8-a722-c26fdcf4da2c.jpeg       11
+https://a0.muscache.com/pictures/miso/Hosting-1221161121199838023/original/a270eb1e-88f2-4fe4-9f91-70f8b7f418d8.jpeg       10
+https://a0.muscache.com/pictures/f6e53287-3bb6-4269-91c9-d852bc42b9be.jpg                                                   9
+
+[host_url] unique=21024
+host_url
+https://www.airbnb.com/users/show/668954332    275
+https://www.airbnb.com/users/show/107434423    254
+https://www.airbnb.com/users/show/651318479    223
+https://www.airbnb.com/users/show/679821480    162
+https://www.airbnb.com/users/show/30850484     154
+https://www.airbnb.com/users/show/126644161    147
+https://www.airbnb.com/users/show/446820235    136
+https://www.airbnb.com/users/show/271118401    125
+
+[host_profile_url] unique=20970
+host_profile_url
+https://www.airbnb.com/users/profile/1470677965298429761    275
+https://www.airbnb.com/users/profile/1462889176402806013    254
+https://www.airbnb.com/users/profile/1468379282794046160    223
+                                                            214
+https://www.airbnb.com/users/profile/1463935070315356084    162
+https://www.airbnb.com/users/profile/1465454372930558750    154
+https://www.airbnb.com/users/profile/1462931889693449634    147
+https://www.airbnb.com/users/profile/1463723014928495353    136
+
+[host_name] unique=8025
+host_name
+Michael         321
+David           284
+RoomPicks       281
+Chosan          275
+Blueground      254
+Shark & Tina    223
+Sam             220
+John            214
+
+[host_location] unique=778
+host_location
+Los Angeles, CA              18557
+                             10662
+Long Beach, CA                 903
+Santa Monica, CA               814
+California, United States      758
+Beverly Hills, CA              701
+Pasadena, CA                   515
+New York, NY                   441
+
+[host_about] unique=11006
+host_about
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            19043
+Find your home away from home with CHOSAN. \n\nWe offer beautifully furnished rentals in welcoming neighborhoods across LA, DC, MD, and VA. Move into a space designed for comfort, complete with high-speed Wi-Fi, and relax knowing we handle the details. \n\nMany of our buildings even feature pools, gyms, or weekly housekeeping. Settle in and stay a month, a year, or more.                                                                         275
+Blueground is the world’s largest operator of fully furnished, move-in-ready apartments for flexible stays. Our professionally designed homes include fully equipped kitchens, fast Wi-Fi, premium linens, and smart entertainment, with access to gyms, pools, or outdoor spaces in select buildings. Enjoy instant online booking, simple self-check-in, and 24/7 support through the Blueground Guest App. Feel at home anywhere.                          254
+Hello! I'm part of a dynamic team working on creating our short-term rental brand called Nespace—where "home" means warmth like a nest. We have listings in Koreatown, and near USC campus area. We're a positive, adventurous bunch that thrives on continuous learning. We aim to enhance your experience, so feel free to reach out if there's anything we can do to make your stay even more enjoyable!                                                   223
+Hey there! Welcome to Zuma Housing! We’re new to Airbnb, but we’ve spent over a decade hosting tens of thousands of UCLA students, international students, and young professionals. Our fully furnished homes in Westwood are cozy, convenient, and made for smooth landings in LA. Whether you’re here to study, intern, or explore, we’ve got the space, the vibe, and the experience to make you feel at home.                                             162
+The Maimon Group is trusted by elite travelers looking for effortless luxury. As a family-owned company, we manage luxury and ultra-luxury homes and provide personalized concierge services. Our team creates Inspired Experiences tailored to each guest, offering unique escapes that capture the imagination. Every stay is designed with exceptional care and attention, making it a seamless journey into the world’s most exclusive destinations.      158
+Level offers nightly, weekly, and monthly short-term stays in Chicago, Los Angeles, Vancouver, and Seattle, that combines hotel-style services with the comfort of residential living. Our luxurious fully furnished suites are thoughtfully designed, have 24-hour concierge support, and have everything you need while being situated in the most vibrant city neighborhoods. Stay well, stay level.                                                       154
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us.\n\nWe promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.                                                                                                       154
+
+[host_is_superhost] unique=3
+host_is_superhost
+f    26596
+t    16952
+       203
+
+[host_picture_url] unique=20178
+host_picture_url
+https://a0.muscache.com/im/pictures/user/User/original/4707b37b-227c-496c-a3e6-953c8a6dd238.jpeg?aki_policy=profile_x_medium                275
+https://a0.muscache.com/im/pictures/user/d0ad9599-6fc0-4be6-865e-ffe99142517c.jpg?aki_policy=profile_x_medium                               254
+https://a0.muscache.com/im/pictures/user/User/original/30f8dfc7-824f-4046-b1e4-75ac0c08eff0.jpeg?aki_policy=profile_x_medium                223
+                                                                                                                                            203
+https://a0.muscache.com/im/pictures/user/User/original/e9c591df-be68-4be7-94cf-9c090d6ae1f9.jpeg?aki_policy=profile_x_medium                162
+https://a0.muscache.com/im/pictures/user/1b21ecd9-444c-4a62-8bb1-117e57b581a7.jpg?aki_policy=profile_x_medium                               154
+https://a0.muscache.com/im/pictures/user/User-126644161/original/6bfed478-c2a3-441b-9859-bf604dad810a.png?aki_policy=profile_x_medium       147
+https://a0.muscache.com/im/Portrait/Avatars/v2/magenta?im_w=240&im_t=L&im_s=86&im_f=AirbnbCerealLatinMedium.ttf&im_c=901e7c&script=latin    140
+
+[host_has_profile_pic] unique=3
+host_has_profile_pic
+t    42172
+f     1376
+       203
+
+[host_identity_verified] unique=3
+host_identity_verified
+t    42839
+f      709
+       203
+
+[neighbourhood_cleansed] unique=265
+neighbourhood_cleansed
+Long Beach         1845
+Hollywood          1595
+Venice             1535
+West Hollywood     1264
+Santa Monica       1207
+Downtown           1075
+Exposition Park     906
+Pasadena            800
+
+[neighbourhood_group_cleansed] unique=3
+neighbourhood_group_cleansed
+City of Los Angeles     21710
+Other Cities            17960
+Unincorporated Areas     4081
+
+[property_type] unique=90
+property_type
+Entire home                    13553
+Entire rental unit             10209
+Private room in home            5571
+Entire guesthouse               2926
+Private room in rental unit     2373
+Entire condo                    1513
+Room in hotel                   1294
+Entire guest suite              1130
+
+[room_type] unique=4
+room_type
+Entire home/apt    32454
+Private room       10590
+Hotel room           415
+Shared room          292
+
+[bathrooms_text] unique=53
+bathrooms_text
+1 bath            17750
+2 baths            7679
+1 private bath     5448
+1 shared bath      2951
+3 baths            2157
+2.5 baths          1746
+1.5 baths          1292
+3.5 baths           794
+
+[amenities] unique=40386
+amenities
+["Freezer", "TV", "Stove", "Kitchen", "Air conditioning", "Heating", "Refrigerator", "Dedicated workspace", "Free street parking", "Dishwasher", "Smoke alarm", "Hot water", "Exterior security cameras on property", "Carbon monoxide alarm", "Wifi", "Washer", "Dryer", "Oven"]                                                                                                                                                                                                                                                                                                                                                                                                                                                                    41
+["TV", "Air conditioning", "Iron", "Smoke alarm", "Gym", "Wifi", "Hangers", "First aid kit", "Bed linens", "Extra pillows and blankets", "Pets allowed", "Carbon monoxide alarm", "Paid parking on premises", "Essentials", "Shampoo", "Fire extinguisher", "Heating", "Dedicated workspace", "Self check-in", "Hair dryer", "Waterfront", "Beach access \u2013 Beachfront", "Building staff"]                                                                                                                                                                                                                                                                                                                                                       30
+["Stove", "Air conditioning", "Lock on bedroom door", "Smoke alarm", "Wifi", "Microwave", "Kitchen", "Bed linens", "Dining table", "Dishes and silverware", "Dishwasher", "Hot water", "Carbon monoxide alarm", "Keypad", "Washer", "Fire extinguisher", "Heating", "Refrigerator", "Dedicated workspace", "Self check-in", "Oven", "Clothing storage", "Cooking basics", "Dryer"]                                                                                                                                                                                                                                                                                                                                                                   29
+["TV", "Stove", "Air conditioning", "Smoke alarm", "Wifi", "Microwave", "Kitchen", "Dishwasher", "Hot water", "Room-darkening shades", "Carbon monoxide alarm", "Keypad", "Washer", "Heating", "Refrigerator", "Dedicated workspace", "Free street parking", "Self check-in", "Oven", "Clothing storage", "Exterior security cameras on property", "Dryer"]                                                                                                                                                                                                                                                                                                                                                                                          29
+["TV", "Air conditioning", "Iron", "Smoke alarm", "Wifi", "Hangers", "First aid kit", "Bed linens", "Extra pillows and blankets", "Pets allowed", "Carbon monoxide alarm", "Paid parking on premises", "Essentials", "Shampoo", "Fire extinguisher", "Heating", "Dedicated workspace", "Self check-in", "Hair dryer", "Pool", "Building staff"]                                                                                                                                                                                                                                                                                                                                                                                                      26
+["TV", "Air conditioning", "Books and reading material", "Iron", "Cleaning products", "Smoke alarm", "Wifi", "Microwave", "Hangers", "First aid kit", "Drying rack for clothing", "Bed linens", "Kitchen", "Dining table", "Dishes and silverware", "Dishwasher", "Hot water", "Extra pillows and blankets", "Room-darkening shades", "Carbon monoxide alarm", "Pets allowed", "Keypad", "Paid parking on premises", "Washer", "Essentials", "Shampoo", "Hot water kettle", "Free parking on premises", "Bathtub", "Fire extinguisher", "Heating", "Refrigerator", "Body soap", "Dedicated workspace", "Self check-in", "Oven", "Hair dryer", "Shower gel", "Clothing storage", "Conditioner", "Cooking basics", "Dryer"]                            26
+[]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   24
+["Coffee maker", "TV", "Stove", "Air conditioning", "Lock on bedroom door", "Cleaning products", "Smoke alarm", "Wifi", "Microwave", "Hangers", "Drying rack for clothing", "Bed linens", "Kitchen", "Dining table", "Dishes and silverware", "Dishwasher", "Hot water", "Paid dryer \u2013 In building", "Carbon monoxide alarm", "Pets allowed", "Keypad", "Paid parking on premises", "Hot water kettle", "Freezer", "Fire extinguisher", "Heating", "Refrigerator", "Dedicated workspace", "Coffee", "Free street parking", "Paid washer \u2013 In building", "Self check-in", "Oven", "Toaster", "Clothing storage", "Long term stays allowed", "Exterior security cameras on property", "Cooking basics", "Cleaning available during stay"]    23
+
+[price] unique=17607
+price
+           5565
+$59.37      102
+$115.00      64
+$120.00      64
+$80.00       61
+$194.00      60
+$86.00       59
+$137.00      59
+
+[price_quote_checkin_date] unique=339
+price_quote_checkin_date
+2026-06-16    5470
+2026-06-17    4859
+              4792
+2026-06-15    2207
+2026-06-21    1957
+2026-06-22    1664
+2026-06-18    1422
+2026-06-23    1391
+
+[price_quote_checkout_date] unique=360
+price_quote_checkout_date
+              4792
+2026-07-17    2749
+2026-06-18    2260
+2026-07-16    2205
+2026-06-17    2131
+2026-06-23    1667
+2026-06-24    1335
+2026-06-19    1313
+
+[price_quote_raw] unique=35330
+price_quote_raw
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     4792
+{"quote": {"taxes": null, "currency": null, "date_match": null, "service_fee": null, "total_price": null, "cleaning_fee": null, "is_available": null, "discount_amount": null, "price_per_night": null, "nightly_subtotal": null, "discounted_subtotal": null, "raw_price_line_items": null, "returned_checkin_date": null, "requested_checkin_date": "2026-06-17", "returned_checkout_date": null, "requested_checkout_date": "2026-07-17"}}                                                                                                                                                                                                                                                                                                                                                                                          66
+{"quote": {"taxes": null, "currency": null, "date_match": null, "service_fee": null, "total_price": null, "cleaning_fee": null, "is_available": null, "discount_amount": null, "price_per_night": null, "nightly_subtotal": null, "discounted_subtotal": null, "raw_price_line_items": null, "returned_checkin_date": null, "requested_checkin_date": "2026-06-16", "returned_checkout_date": null, "requested_checkout_date": "2026-07-16"}}                                                                                                                                                                                                                                                                                                                                                                                          43
+{"quote": {"taxes": null, "currency": "USD", "date_match": null, "service_fee": null, "total_price": "1781", "cleaning_fee": null, "is_available": true, "discount_amount": null, "price_per_night": "59.36666666666666666666666667", "nightly_subtotal": null, "discounted_subtotal": "1780.94", "raw_price_line_items": [{"amount": "1780.94", "item_type": "other", "description": "Average monthly price", "price_string": "$1,780.94"}, {"amount": "1780.94", "item_type": "discounted_subtotal", "description": "Price after discount", "price_string": "$1,780.94"}], "returned_checkin_date": null, "requested_checkin_date": "2026-07-08", "returned_checkout_date": null, "requested_checkout_date": "2026-08-07"}}                                                                                                          31
+{"quote": {"taxes": null, "currency": "USD", "date_match": null, "service_fee": null, "total_price": "1444", "cleaning_fee": null, "is_available": true, "discount_amount": null, "price_per_night": "48.13333333333333333333333333", "nightly_subtotal": null, "discounted_subtotal": "1443.56", "raw_price_line_items": [{"amount": "1443.56", "item_type": "other", "description": "Average monthly price", "price_string": "$1,443.56"}, {"amount": "1443.56", "item_type": "discounted_subtotal", "description": "Price after discount", "price_string": "$1,443.56"}], "returned_checkin_date": null, "requested_checkin_date": "2026-06-15", "returned_checkout_date": null, "requested_checkout_date": "2026-07-15"}}                                                                                                          29
+{"quote": {"taxes": null, "currency": "USD", "date_match": null, "service_fee": null, "total_price": "6453.54", "cleaning_fee": null, "is_available": true, "discount_amount": null, "price_per_night": "215.118", "nightly_subtotal": null, "discounted_subtotal": "6453.54", "raw_price_line_items": [{"amount": "6660.00", "item_type": "other", "description": "Average monthly price", "price_string": "$6,660.00"}, {"amount": "-206.46", "item_type": "other", "description": "Airbnb monthly stay savings", "price_string": "-$206.46"}, {"amount": "6453.54", "item_type": "discounted_subtotal", "description": "Price after discount", "price_string": "$6,453.54"}], "returned_checkin_date": null, "requested_checkin_date": "2026-06-15", "returned_checkout_date": null, "requested_checkout_date": "2026-07-15"}}      23
+{"quote": {"taxes": null, "currency": null, "date_match": null, "service_fee": null, "total_price": null, "cleaning_fee": null, "is_available": null, "discount_amount": null, "price_per_night": null, "nightly_subtotal": null, "discounted_subtotal": null, "raw_price_line_items": null, "returned_checkin_date": null, "requested_checkin_date": "2026-06-18", "returned_checkout_date": null, "requested_checkout_date": "2026-07-18"}}                                                                                                                                                                                                                                                                                                                                                                                          22
+{"quote": {"taxes": null, "currency": "USD", "date_match": null, "service_fee": null, "total_price": "8023.32", "cleaning_fee": null, "is_available": true, "discount_amount": null, "price_per_night": "267.444", "nightly_subtotal": null, "discounted_subtotal": "8023.32", "raw_price_line_items": [{"amount": "8280.00", "item_type": "other", "description": "Average monthly price", "price_string": "$8,280.00"}, {"amount": "-256.68", "item_type": "other", "description": "Airbnb monthly stay savings", "price_string": "-$256.68"}, {"amount": "8023.32", "item_type": "discounted_subtotal", "description": "Price after discount", "price_string": "$8,023.32"}], "returned_checkin_date": null, "requested_checkin_date": "2026-06-15", "returned_checkout_date": null, "requested_checkout_date": "2026-07-15"}}      22
+
+[has_availability] unique=3
+has_availability
+t    43065
+       472
+f      214
+
+[calendar_last_scraped] unique=5
+calendar_last_scraped
+2026-06-16    17087
+2026-06-17    11992
+2026-06-15     8760
+2026-06-23     4232
+2026-06-22     1680
+
+[first_review] unique=4633
+first_review
+              11257
+2026-05-31       79
+2026-02-15       76
+2026-05-17       63
+2026-05-25       57
+2026-03-29       53
+2026-05-03       51
+2026-05-24       50
+
+[last_review] unique=2889
+last_review
+              11257
+2026-05-31     1276
+2026-06-14      829
+2026-06-01      796
+2026-06-07      729
+2026-05-25      712
+2026-06-08      619
+2026-06-13      518
+
+[license] unique=7720
+license
+                                                                        30555
+Exempt                                                                   1646
+Exempt - This listing is a hotel or motel                                1004
+Exempt - This listing is a transient occupancy residential structure      755
+Exempt - This listing is a bed and breakfast                              462
+HSR19-123456                                                               20
+HSR19-000000                                                               19
+HSR23-002874                                                               11

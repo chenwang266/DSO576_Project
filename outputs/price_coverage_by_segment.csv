@@ -1,0 +1,2063 @@
+snapshot,neighbourhood_cleansed,property_segment,listings,priced,price_coverage_pct
+2026-03,Acton,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Acton,Entire home/apt | Short-stay (<30n),16,13,81.2
+2026-03,Acton,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Adams-Normandie,Entire home/apt | Monthly (30+n),17,13,76.5
+2026-03,Adams-Normandie,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-03,Adams-Normandie,Private room | Monthly (30+n),64,53,82.8
+2026-03,Adams-Normandie,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Agoura Hills,Entire home/apt | Monthly (30+n),16,15,93.8
+2026-03,Agoura Hills,Entire home/apt | Short-stay (<30n),26,24,92.3
+2026-03,Agoura Hills,Private room | Monthly (30+n),4,4,100.0
+2026-03,Agoura Hills,Private room | Short-stay (<30n),8,6,75.0
+2026-03,Agua Dulce,Entire home/apt | Monthly (30+n),4,2,50.0
+2026-03,Agua Dulce,Entire home/apt | Short-stay (<30n),14,14,100.0
+2026-03,Agua Dulce,Private room | Short-stay (<30n),8,8,100.0
+2026-03,Alhambra,Entire home/apt | Monthly (30+n),25,21,84.0
+2026-03,Alhambra,Entire home/apt | Short-stay (<30n),477,430,90.1
+2026-03,Alhambra,Private room | Monthly (30+n),16,13,81.2
+2026-03,Alhambra,Private room | Short-stay (<30n),219,173,79.0
+2026-03,Alhambra,Shared room | Short-stay (<30n),3,3,100.0
+2026-03,Alondra Park,Entire home/apt | Monthly (30+n),2,1,50.0
+2026-03,Alondra Park,Entire home/apt | Short-stay (<30n),19,17,89.5
+2026-03,Alondra Park,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Altadena,Entire home/apt | Monthly (30+n),8,6,75.0
+2026-03,Altadena,Entire home/apt | Short-stay (<30n),84,58,69.0
+2026-03,Altadena,Private room | Short-stay (<30n),29,17,58.6
+2026-03,Angeles Crest,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-03,Arcadia,Entire home/apt | Monthly (30+n),29,23,79.3
+2026-03,Arcadia,Entire home/apt | Short-stay (<30n),92,84,91.3
+2026-03,Arcadia,Private room | Monthly (30+n),16,16,100.0
+2026-03,Arcadia,Private room | Short-stay (<30n),77,51,66.2
+2026-03,Arcadia,Shared room | Short-stay (<30n),2,2,100.0
+2026-03,Arleta,Entire home/apt | Monthly (30+n),5,5,100.0
+2026-03,Arleta,Private room | Monthly (30+n),6,6,100.0
+2026-03,Arlington Heights,Entire home/apt | Monthly (30+n),29,20,69.0
+2026-03,Arlington Heights,Entire home/apt | Short-stay (<30n),10,10,100.0
+2026-03,Arlington Heights,Private room | Monthly (30+n),54,51,94.4
+2026-03,Arlington Heights,Private room | Short-stay (<30n),5,5,100.0
+2026-03,Arlington Heights,Shared room | Monthly (30+n),5,1,20.0
+2026-03,Artesia,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-03,Artesia,Entire home/apt | Short-stay (<30n),3,2,66.7
+2026-03,Artesia,Private room | Monthly (30+n),2,2,100.0
+2026-03,Artesia,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Athens,Entire home/apt | Short-stay (<30n),10,9,90.0
+2026-03,Athens,Private room | Monthly (30+n),1,0,0.0
+2026-03,Athens,Private room | Short-stay (<30n),4,4,100.0
+2026-03,Atwater Village,Entire home/apt | Monthly (30+n),62,42,67.7
+2026-03,Atwater Village,Entire home/apt | Short-stay (<30n),30,27,90.0
+2026-03,Atwater Village,Private room | Monthly (30+n),7,3,42.9
+2026-03,Atwater Village,Private room | Short-stay (<30n),3,2,66.7
+2026-03,Avalon,Entire home/apt | Monthly (30+n),1,0,0.0
+2026-03,Avalon,Entire home/apt | Short-stay (<30n),239,234,97.9
+2026-03,Avalon,Hotel room | Short-stay (<30n),11,11,100.0
+2026-03,Avalon,Private room | Short-stay (<30n),7,5,71.4
+2026-03,Avocado Heights,Entire home/apt | Short-stay (<30n),21,19,90.5
+2026-03,Avocado Heights,Private room | Monthly (30+n),1,1,100.0
+2026-03,Avocado Heights,Private room | Short-stay (<30n),8,4,50.0
+2026-03,Azusa,Entire home/apt | Monthly (30+n),5,5,100.0
+2026-03,Azusa,Entire home/apt | Short-stay (<30n),70,66,94.3
+2026-03,Azusa,Private room | Monthly (30+n),3,3,100.0
+2026-03,Azusa,Private room | Short-stay (<30n),29,17,58.6
+2026-03,Baldwin Hills/Crenshaw,Entire home/apt | Monthly (30+n),55,42,76.4
+2026-03,Baldwin Hills/Crenshaw,Entire home/apt | Short-stay (<30n),20,20,100.0
+2026-03,Baldwin Hills/Crenshaw,Private room | Monthly (30+n),32,26,81.2
+2026-03,Baldwin Hills/Crenshaw,Private room | Short-stay (<30n),5,5,100.0
+2026-03,Baldwin Hills/Crenshaw,Shared room | Monthly (30+n),3,2,66.7
+2026-03,Baldwin Park,Entire home/apt | Monthly (30+n),6,6,100.0
+2026-03,Baldwin Park,Entire home/apt | Short-stay (<30n),102,96,94.1
+2026-03,Baldwin Park,Private room | Monthly (30+n),2,2,100.0
+2026-03,Baldwin Park,Private room | Short-stay (<30n),43,34,79.1
+2026-03,Baldwin Park,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Bel-Air,Entire home/apt | Monthly (30+n),64,51,79.7
+2026-03,Bel-Air,Entire home/apt | Short-stay (<30n),24,24,100.0
+2026-03,Bel-Air,Private room | Monthly (30+n),5,5,100.0
+2026-03,Bel-Air,Private room | Short-stay (<30n),4,4,100.0
+2026-03,Bell,Entire home/apt | Short-stay (<30n),13,12,92.3
+2026-03,Bell,Private room | Short-stay (<30n),6,5,83.3
+2026-03,Bell Gardens,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Bell Gardens,Entire home/apt | Short-stay (<30n),9,7,77.8
+2026-03,Bell Gardens,Private room | Monthly (30+n),2,2,100.0
+2026-03,Bell Gardens,Private room | Short-stay (<30n),11,11,100.0
+2026-03,Bellflower,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-03,Bellflower,Entire home/apt | Short-stay (<30n),50,38,76.0
+2026-03,Bellflower,Private room | Monthly (30+n),2,2,100.0
+2026-03,Bellflower,Private room | Short-stay (<30n),14,11,78.6
+2026-03,Beverly Crest,Entire home/apt | Monthly (30+n),136,113,83.1
+2026-03,Beverly Crest,Entire home/apt | Short-stay (<30n),78,77,98.7
+2026-03,Beverly Crest,Private room | Monthly (30+n),15,9,60.0
+2026-03,Beverly Crest,Private room | Short-stay (<30n),4,4,100.0
+2026-03,Beverly Grove,Entire home/apt | Monthly (30+n),386,274,71.0
+2026-03,Beverly Grove,Entire home/apt | Short-stay (<30n),91,86,94.5
+2026-03,Beverly Grove,Hotel room | Short-stay (<30n),4,4,100.0
+2026-03,Beverly Grove,Private room | Monthly (30+n),85,65,76.5
+2026-03,Beverly Grove,Private room | Short-stay (<30n),8,7,87.5
+2026-03,Beverly Hills,Entire home/apt | Monthly (30+n),144,101,70.1
+2026-03,Beverly Hills,Entire home/apt | Short-stay (<30n),517,410,79.3
+2026-03,Beverly Hills,Private room | Monthly (30+n),32,26,81.2
+2026-03,Beverly Hills,Private room | Short-stay (<30n),139,88,63.3
+2026-03,Beverly Hills,Shared room | Short-stay (<30n),2,0,0.0
+2026-03,Beverlywood,Entire home/apt | Monthly (30+n),20,13,65.0
+2026-03,Beverlywood,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-03,Beverlywood,Private room | Monthly (30+n),7,6,85.7
+2026-03,Boyle Heights,Entire home/apt | Monthly (30+n),52,38,73.1
+2026-03,Boyle Heights,Entire home/apt | Short-stay (<30n),28,28,100.0
+2026-03,Boyle Heights,Private room | Monthly (30+n),44,33,75.0
+2026-03,Boyle Heights,Private room | Short-stay (<30n),7,7,100.0
+2026-03,Brentwood,Entire home/apt | Monthly (30+n),143,84,58.7
+2026-03,Brentwood,Entire home/apt | Short-stay (<30n),19,18,94.7
+2026-03,Brentwood,Hotel room | Short-stay (<30n),16,8,50.0
+2026-03,Brentwood,Private room | Monthly (30+n),57,46,80.7
+2026-03,Brentwood,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Brentwood,Shared room | Monthly (30+n),2,0,0.0
+2026-03,Broadway-Manchester,Entire home/apt | Monthly (30+n),5,4,80.0
+2026-03,Broadway-Manchester,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-03,Broadway-Manchester,Private room | Monthly (30+n),1,1,100.0
+2026-03,Broadway-Manchester,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Burbank,Entire home/apt | Monthly (30+n),92,71,77.2
+2026-03,Burbank,Entire home/apt | Short-stay (<30n),407,353,86.7
+2026-03,Burbank,Private room | Monthly (30+n),11,3,27.3
+2026-03,Burbank,Private room | Short-stay (<30n),136,104,76.5
+2026-03,Burbank,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Calabasas,Entire home/apt | Monthly (30+n),29,27,93.1
+2026-03,Calabasas,Entire home/apt | Short-stay (<30n),65,56,86.2
+2026-03,Calabasas,Private room | Monthly (30+n),14,12,85.7
+2026-03,Calabasas,Private room | Short-stay (<30n),24,16,66.7
+2026-03,Canoga Park,Entire home/apt | Monthly (30+n),52,42,80.8
+2026-03,Canoga Park,Entire home/apt | Short-stay (<30n),13,13,100.0
+2026-03,Canoga Park,Private room | Monthly (30+n),30,16,53.3
+2026-03,Canoga Park,Private room | Short-stay (<30n),4,4,100.0
+2026-03,Canoga Park,Shared room | Monthly (30+n),1,1,100.0
+2026-03,Carson,Entire home/apt | Monthly (30+n),13,11,84.6
+2026-03,Carson,Entire home/apt | Short-stay (<30n),56,52,92.9
+2026-03,Carson,Private room | Monthly (30+n),1,0,0.0
+2026-03,Carson,Private room | Short-stay (<30n),67,41,61.2
+2026-03,Carson,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Carthay,Entire home/apt | Monthly (30+n),37,32,86.5
+2026-03,Carthay,Entire home/apt | Short-stay (<30n),33,32,97.0
+2026-03,Carthay,Private room | Monthly (30+n),18,11,61.1
+2026-03,Carthay,Private room | Short-stay (<30n),21,15,71.4
+2026-03,Castaic,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Castaic,Entire home/apt | Short-stay (<30n),10,8,80.0
+2026-03,Castaic,Private room | Short-stay (<30n),9,7,77.8
+2026-03,Castaic Canyons,Entire home/apt | Monthly (30+n),13,11,84.6
+2026-03,Castaic Canyons,Entire home/apt | Short-stay (<30n),26,24,92.3
+2026-03,Castaic Canyons,Private room | Monthly (30+n),3,2,66.7
+2026-03,Castaic Canyons,Private room | Short-stay (<30n),11,6,54.5
+2026-03,Central-Alameda,Entire home/apt | Monthly (30+n),6,5,83.3
+2026-03,Central-Alameda,Entire home/apt | Short-stay (<30n),7,6,85.7
+2026-03,Central-Alameda,Private room | Monthly (30+n),8,6,75.0
+2026-03,Central-Alameda,Shared room | Monthly (30+n),4,4,100.0
+2026-03,Century City,Entire home/apt | Monthly (30+n),25,24,96.0
+2026-03,Century City,Entire home/apt | Short-stay (<30n),6,5,83.3
+2026-03,Century City,Hotel room | Monthly (30+n),1,0,0.0
+2026-03,Century City,Private room | Monthly (30+n),4,1,25.0
+2026-03,Cerritos,Entire home/apt | Monthly (30+n),7,7,100.0
+2026-03,Cerritos,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Cerritos,Private room | Monthly (30+n),3,1,33.3
+2026-03,Cerritos,Private room | Short-stay (<30n),12,8,66.7
+2026-03,Charter Oak,Entire home/apt | Monthly (30+n),2,0,0.0
+2026-03,Charter Oak,Entire home/apt | Short-stay (<30n),9,9,100.0
+2026-03,Charter Oak,Private room | Short-stay (<30n),8,5,62.5
+2026-03,Chatsworth,Entire home/apt | Monthly (30+n),34,26,76.5
+2026-03,Chatsworth,Entire home/apt | Short-stay (<30n),34,32,94.1
+2026-03,Chatsworth,Private room | Monthly (30+n),18,18,100.0
+2026-03,Chatsworth,Private room | Short-stay (<30n),13,12,92.3
+2026-03,Chatsworth,Shared room | Monthly (30+n),3,3,100.0
+2026-03,Chatsworth Reservoir,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Chatsworth Reservoir,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Chesterfield Square,Entire home/apt | Monthly (30+n),8,7,87.5
+2026-03,Chesterfield Square,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-03,Chesterfield Square,Private room | Monthly (30+n),4,0,0.0
+2026-03,Chesterfield Square,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Cheviot Hills,Entire home/apt | Monthly (30+n),17,10,58.8
+2026-03,Cheviot Hills,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Cheviot Hills,Private room | Monthly (30+n),3,1,33.3
+2026-03,Chinatown,Entire home/apt | Monthly (30+n),43,15,34.9
+2026-03,Chinatown,Entire home/apt | Short-stay (<30n),19,18,94.7
+2026-03,Chinatown,Private room | Monthly (30+n),12,6,50.0
+2026-03,Chinatown,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Chinatown,Shared room | Monthly (30+n),2,0,0.0
+2026-03,Citrus,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Citrus,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-03,Citrus,Private room | Short-stay (<30n),3,1,33.3
+2026-03,Claremont,Entire home/apt | Monthly (30+n),9,9,100.0
+2026-03,Claremont,Entire home/apt | Short-stay (<30n),33,28,84.8
+2026-03,Claremont,Private room | Monthly (30+n),11,9,81.8
+2026-03,Claremont,Private room | Short-stay (<30n),12,6,50.0
+2026-03,Commerce,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-03,Commerce,Entire home/apt | Short-stay (<30n),13,11,84.6
+2026-03,Compton,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,Compton,Entire home/apt | Short-stay (<30n),43,37,86.0
+2026-03,Compton,Private room | Short-stay (<30n),27,19,70.4
+2026-03,Covina,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-03,Covina,Entire home/apt | Short-stay (<30n),44,44,100.0
+2026-03,Covina,Private room | Monthly (30+n),1,1,100.0
+2026-03,Covina,Private room | Short-stay (<30n),51,40,78.4
+2026-03,Cudahy,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Cudahy,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Culver City,Entire home/apt | Monthly (30+n),47,26,55.3
+2026-03,Culver City,Entire home/apt | Short-stay (<30n),470,405,86.2
+2026-03,Culver City,Hotel room | Short-stay (<30n),2,2,100.0
+2026-03,Culver City,Private room | Monthly (30+n),6,5,83.3
+2026-03,Culver City,Private room | Short-stay (<30n),153,118,77.1
+2026-03,Cypress Park,Entire home/apt | Monthly (30+n),13,9,69.2
+2026-03,Cypress Park,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Cypress Park,Private room | Monthly (30+n),10,8,80.0
+2026-03,Del Aire,Entire home/apt | Monthly (30+n),11,10,90.9
+2026-03,Del Aire,Entire home/apt | Short-stay (<30n),48,37,77.1
+2026-03,Del Aire,Private room | Monthly (30+n),2,2,100.0
+2026-03,Del Aire,Private room | Short-stay (<30n),18,13,72.2
+2026-03,Del Rey,Entire home/apt | Monthly (30+n),196,130,66.3
+2026-03,Del Rey,Entire home/apt | Short-stay (<30n),65,60,92.3
+2026-03,Del Rey,Private room | Monthly (30+n),37,23,62.2
+2026-03,Del Rey,Private room | Short-stay (<30n),8,7,87.5
+2026-03,Desert View Highlands,Entire home/apt | Short-stay (<30n),5,3,60.0
+2026-03,Desert View Highlands,Private room | Short-stay (<30n),4,3,75.0
+2026-03,Diamond Bar,Entire home/apt | Monthly (30+n),33,31,93.9
+2026-03,Diamond Bar,Entire home/apt | Short-stay (<30n),34,27,79.4
+2026-03,Diamond Bar,Private room | Monthly (30+n),18,9,50.0
+2026-03,Diamond Bar,Private room | Short-stay (<30n),49,12,24.5
+2026-03,Downey,Entire home/apt | Monthly (30+n),13,9,69.2
+2026-03,Downey,Entire home/apt | Short-stay (<30n),94,84,89.4
+2026-03,Downey,Private room | Monthly (30+n),5,3,60.0
+2026-03,Downey,Private room | Short-stay (<30n),52,44,84.6
+2026-03,Downtown,Entire home/apt | Monthly (30+n),716,541,75.6
+2026-03,Downtown,Entire home/apt | Short-stay (<30n),189,185,97.9
+2026-03,Downtown,Hotel room | Monthly (30+n),2,0,0.0
+2026-03,Downtown,Hotel room | Short-stay (<30n),20,20,100.0
+2026-03,Downtown,Private room | Monthly (30+n),98,51,52.0
+2026-03,Downtown,Private room | Short-stay (<30n),137,117,85.4
+2026-03,Downtown,Shared room | Monthly (30+n),3,2,66.7
+2026-03,Downtown,Shared room | Short-stay (<30n),8,8,100.0
+2026-03,Duarte,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-03,Duarte,Entire home/apt | Short-stay (<30n),33,27,81.8
+2026-03,Duarte,Private room | Short-stay (<30n),21,16,76.2
+2026-03,Eagle Rock,Entire home/apt | Monthly (30+n),105,82,78.1
+2026-03,Eagle Rock,Entire home/apt | Short-stay (<30n),39,36,92.3
+2026-03,Eagle Rock,Hotel room | Monthly (30+n),1,1,100.0
+2026-03,Eagle Rock,Private room | Monthly (30+n),15,8,53.3
+2026-03,Eagle Rock,Private room | Short-stay (<30n),7,6,85.7
+2026-03,East Compton,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-03,East Compton,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-03,East Hollywood,Entire home/apt | Monthly (30+n),212,144,67.9
+2026-03,East Hollywood,Entire home/apt | Short-stay (<30n),56,56,100.0
+2026-03,East Hollywood,Private room | Monthly (30+n),80,59,73.8
+2026-03,East Hollywood,Private room | Short-stay (<30n),21,19,90.5
+2026-03,East Hollywood,Shared room | Monthly (30+n),8,7,87.5
+2026-03,East Hollywood,Shared room | Short-stay (<30n),4,4,100.0
+2026-03,East Los Angeles,Entire home/apt | Monthly (30+n),14,12,85.7
+2026-03,East Los Angeles,Entire home/apt | Short-stay (<30n),284,261,91.9
+2026-03,East Los Angeles,Entire home/apt | Unknown,1,1,100.0
+2026-03,East Los Angeles,Private room | Monthly (30+n),1,1,100.0
+2026-03,East Los Angeles,Private room | Short-stay (<30n),75,61,81.3
+2026-03,East Los Angeles,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,East Pasadena,Entire home/apt | Monthly (30+n),9,5,55.6
+2026-03,East Pasadena,Entire home/apt | Short-stay (<30n),63,58,92.1
+2026-03,East Pasadena,Private room | Short-stay (<30n),17,15,88.2
+2026-03,East San Gabriel,Entire home/apt | Monthly (30+n),6,6,100.0
+2026-03,East San Gabriel,Entire home/apt | Short-stay (<30n),72,65,90.3
+2026-03,East San Gabriel,Private room | Monthly (30+n),11,10,90.9
+2026-03,East San Gabriel,Private room | Short-stay (<30n),48,34,70.8
+2026-03,East Whittier,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-03,East Whittier,Private room | Short-stay (<30n),2,1,50.0
+2026-03,Echo Park,Entire home/apt | Monthly (30+n),239,164,68.6
+2026-03,Echo Park,Entire home/apt | Short-stay (<30n),76,68,89.5
+2026-03,Echo Park,Hotel room | Monthly (30+n),2,1,50.0
+2026-03,Echo Park,Hotel room | Short-stay (<30n),6,5,83.3
+2026-03,Echo Park,Private room | Monthly (30+n),49,29,59.2
+2026-03,Echo Park,Private room | Short-stay (<30n),10,10,100.0
+2026-03,El Monte,Entire home/apt | Monthly (30+n),7,7,100.0
+2026-03,El Monte,Entire home/apt | Short-stay (<30n),188,177,94.1
+2026-03,El Monte,Private room | Monthly (30+n),3,2,66.7
+2026-03,El Monte,Private room | Short-stay (<30n),129,100,77.5
+2026-03,El Monte,Shared room | Short-stay (<30n),2,2,100.0
+2026-03,El Segundo,Entire home/apt | Monthly (30+n),41,30,73.2
+2026-03,El Segundo,Entire home/apt | Short-stay (<30n),16,16,100.0
+2026-03,El Segundo,Hotel room | Short-stay (<30n),1,1,100.0
+2026-03,El Segundo,Private room | Monthly (30+n),17,13,76.5
+2026-03,El Segundo,Private room | Short-stay (<30n),46,46,100.0
+2026-03,El Sereno,Entire home/apt | Monthly (30+n),52,39,75.0
+2026-03,El Sereno,Entire home/apt | Short-stay (<30n),27,26,96.3
+2026-03,El Sereno,Private room | Monthly (30+n),23,21,91.3
+2026-03,El Sereno,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Elizabeth Lake,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Elysian Park,Entire home/apt | Monthly (30+n),9,8,88.9
+2026-03,Elysian Park,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-03,Elysian Park,Private room | Monthly (30+n),3,2,66.7
+2026-03,Elysian Park,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Elysian Valley,Entire home/apt | Monthly (30+n),25,18,72.0
+2026-03,Elysian Valley,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-03,Elysian Valley,Private room | Monthly (30+n),3,1,33.3
+2026-03,Encino,Entire home/apt | Monthly (30+n),160,132,82.5
+2026-03,Encino,Entire home/apt | Short-stay (<30n),48,48,100.0
+2026-03,Encino,Private room | Monthly (30+n),29,17,58.6
+2026-03,Encino,Private room | Short-stay (<30n),10,9,90.0
+2026-03,Encino,Shared room | Monthly (30+n),12,12,100.0
+2026-03,Exposition Park,Entire home/apt | Monthly (30+n),78,67,85.9
+2026-03,Exposition Park,Entire home/apt | Short-stay (<30n),16,16,100.0
+2026-03,Exposition Park,Private room | Monthly (30+n),643,616,95.8
+2026-03,Exposition Park,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Exposition Park,Shared room | Monthly (30+n),3,3,100.0
+2026-03,Fairfax,Entire home/apt | Monthly (30+n),189,132,69.8
+2026-03,Fairfax,Entire home/apt | Short-stay (<30n),74,69,93.2
+2026-03,Fairfax,Private room | Monthly (30+n),37,15,40.5
+2026-03,Fairfax,Private room | Short-stay (<30n),4,3,75.0
+2026-03,Florence,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Florence,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Florence,Private room | Monthly (30+n),2,0,0.0
+2026-03,Florence-Firestone,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Florence-Firestone,Entire home/apt | Short-stay (<30n),18,18,100.0
+2026-03,Florence-Firestone,Private room | Short-stay (<30n),21,8,38.1
+2026-03,Gardena,Entire home/apt | Monthly (30+n),11,11,100.0
+2026-03,Gardena,Entire home/apt | Short-stay (<30n),68,58,85.3
+2026-03,Gardena,Private room | Monthly (30+n),12,11,91.7
+2026-03,Gardena,Private room | Short-stay (<30n),55,45,81.8
+2026-03,Gardena,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Glassell Park,Entire home/apt | Monthly (30+n),53,40,75.5
+2026-03,Glassell Park,Entire home/apt | Short-stay (<30n),29,27,93.1
+2026-03,Glassell Park,Private room | Monthly (30+n),14,11,78.6
+2026-03,Glassell Park,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Glendale,Entire home/apt | Monthly (30+n),179,156,87.2
+2026-03,Glendale,Entire home/apt | Short-stay (<30n),460,388,84.3
+2026-03,Glendale,Private room | Monthly (30+n),4,4,100.0
+2026-03,Glendale,Private room | Short-stay (<30n),120,88,73.3
+2026-03,Glendale,Shared room | Short-stay (<30n),4,3,75.0
+2026-03,Glendora,Entire home/apt | Monthly (30+n),12,11,91.7
+2026-03,Glendora,Entire home/apt | Short-stay (<30n),80,79,98.8
+2026-03,Glendora,Private room | Monthly (30+n),3,3,100.0
+2026-03,Glendora,Private room | Short-stay (<30n),36,30,83.3
+2026-03,Gramercy Park,Entire home/apt | Monthly (30+n),19,18,94.7
+2026-03,Gramercy Park,Entire home/apt | Short-stay (<30n),14,14,100.0
+2026-03,Gramercy Park,Private room | Monthly (30+n),4,4,100.0
+2026-03,Gramercy Park,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Granada Hills,Entire home/apt | Monthly (30+n),42,35,83.3
+2026-03,Granada Hills,Entire home/apt | Short-stay (<30n),22,21,95.5
+2026-03,Granada Hills,Private room | Monthly (30+n),5,2,40.0
+2026-03,Granada Hills,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Green Meadows,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Green Meadows,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-03,Green Meadows,Private room | Monthly (30+n),4,2,50.0
+2026-03,Green Meadows,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Green Valley,Entire home/apt | Short-stay (<30n),6,5,83.3
+2026-03,Griffith Park,Entire home/apt | Monthly (30+n),2,0,0.0
+2026-03,Griffith Park,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-03,Hacienda Heights,Entire home/apt | Monthly (30+n),19,19,100.0
+2026-03,Hacienda Heights,Entire home/apt | Short-stay (<30n),129,116,89.9
+2026-03,Hacienda Heights,Private room | Monthly (30+n),28,23,82.1
+2026-03,Hacienda Heights,Private room | Short-stay (<30n),142,112,78.9
+2026-03,Hacienda Heights,Shared room | Monthly (30+n),2,2,100.0
+2026-03,Hancock Park,Entire home/apt | Monthly (30+n),55,45,81.8
+2026-03,Hancock Park,Entire home/apt | Short-stay (<30n),20,19,95.0
+2026-03,Hancock Park,Private room | Monthly (30+n),11,6,54.5
+2026-03,Hancock Park,Private room | Short-stay (<30n),6,6,100.0
+2026-03,Harbor City,Entire home/apt | Monthly (30+n),14,14,100.0
+2026-03,Harbor City,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Harbor City,Private room | Monthly (30+n),11,11,100.0
+2026-03,Harbor City,Private room | Short-stay (<30n),6,6,100.0
+2026-03,Harbor City,Shared room | Monthly (30+n),22,22,100.0
+2026-03,Harbor Gateway,Entire home/apt | Monthly (30+n),34,32,94.1
+2026-03,Harbor Gateway,Entire home/apt | Short-stay (<30n),9,9,100.0
+2026-03,Harbor Gateway,Private room | Monthly (30+n),24,20,83.3
+2026-03,Harbor Gateway,Shared room | Monthly (30+n),5,4,80.0
+2026-03,Harvard Heights,Entire home/apt | Monthly (30+n),29,21,72.4
+2026-03,Harvard Heights,Entire home/apt | Short-stay (<30n),13,12,92.3
+2026-03,Harvard Heights,Private room | Monthly (30+n),22,13,59.1
+2026-03,Harvard Heights,Private room | Short-stay (<30n),6,2,33.3
+2026-03,Harvard Park,Entire home/apt | Monthly (30+n),5,5,100.0
+2026-03,Harvard Park,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Harvard Park,Private room | Monthly (30+n),5,4,80.0
+2026-03,Hasley Canyon,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-03,Hasley Canyon,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Hawaiian Gardens,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Hawaiian Gardens,Entire home/apt | Short-stay (<30n),4,2,50.0
+2026-03,Hawaiian Gardens,Private room | Monthly (30+n),2,2,100.0
+2026-03,Hawaiian Gardens,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Hawthorne,Entire home/apt | Monthly (30+n),21,19,90.5
+2026-03,Hawthorne,Entire home/apt | Short-stay (<30n),200,168,84.0
+2026-03,Hawthorne,Private room | Monthly (30+n),4,3,75.0
+2026-03,Hawthorne,Private room | Short-stay (<30n),92,65,70.7
+2026-03,Hawthorne,Shared room | Short-stay (<30n),2,0,0.0
+2026-03,Hermosa Beach,Entire home/apt | Monthly (30+n),86,72,83.7
+2026-03,Hermosa Beach,Entire home/apt | Short-stay (<30n),166,139,83.7
+2026-03,Hermosa Beach,Private room | Monthly (30+n),12,8,66.7
+2026-03,Hermosa Beach,Private room | Short-stay (<30n),35,35,100.0
+2026-03,Hermosa Beach,Shared room | Short-stay (<30n),9,9,100.0
+2026-03,Hidden Hills,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Highland Park,Entire home/apt | Monthly (30+n),144,106,73.6
+2026-03,Highland Park,Entire home/apt | Short-stay (<30n),55,52,94.5
+2026-03,Highland Park,Private room | Monthly (30+n),30,20,66.7
+2026-03,Highland Park,Private room | Short-stay (<30n),6,6,100.0
+2026-03,Historic South-Central,Entire home/apt | Monthly (30+n),26,13,50.0
+2026-03,Historic South-Central,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Historic South-Central,Private room | Monthly (30+n),22,17,77.3
+2026-03,Historic South-Central,Private room | Short-stay (<30n),15,11,73.3
+2026-03,Historic South-Central,Shared room | Monthly (30+n),1,1,100.0
+2026-03,Hollywood,Entire home/apt | Monthly (30+n),1052,716,68.1
+2026-03,Hollywood,Entire home/apt | Short-stay (<30n),345,329,95.4
+2026-03,Hollywood,Hotel room | Monthly (30+n),2,1,50.0
+2026-03,Hollywood,Hotel room | Short-stay (<30n),18,18,100.0
+2026-03,Hollywood,Private room | Monthly (30+n),289,187,64.7
+2026-03,Hollywood,Private room | Short-stay (<30n),87,69,79.3
+2026-03,Hollywood,Shared room | Monthly (30+n),26,22,84.6
+2026-03,Hollywood,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,Hollywood Hills,Entire home/apt | Monthly (30+n),441,323,73.2
+2026-03,Hollywood Hills,Entire home/apt | Short-stay (<30n),190,178,93.7
+2026-03,Hollywood Hills,Private room | Monthly (30+n),75,54,72.0
+2026-03,Hollywood Hills,Private room | Short-stay (<30n),27,22,81.5
+2026-03,Hollywood Hills,Shared room | Monthly (30+n),1,1,100.0
+2026-03,Hollywood Hills West,Entire home/apt | Monthly (30+n),408,345,84.6
+2026-03,Hollywood Hills West,Entire home/apt | Short-stay (<30n),235,223,94.9
+2026-03,Hollywood Hills West,Private room | Monthly (30+n),49,32,65.3
+2026-03,Hollywood Hills West,Private room | Short-stay (<30n),16,16,100.0
+2026-03,Hollywood Hills West,Shared room | Monthly (30+n),1,0,0.0
+2026-03,Huntington Park,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,Huntington Park,Entire home/apt | Short-stay (<30n),27,26,96.3
+2026-03,Huntington Park,Private room | Short-stay (<30n),17,16,94.1
+2026-03,Huntington Park,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Hyde Park,Entire home/apt | Monthly (30+n),91,76,83.5
+2026-03,Hyde Park,Entire home/apt | Short-stay (<30n),44,44,100.0
+2026-03,Hyde Park,Private room | Monthly (30+n),41,31,75.6
+2026-03,Hyde Park,Private room | Short-stay (<30n),8,8,100.0
+2026-03,Industry,Entire home/apt | Monthly (30+n),7,4,57.1
+2026-03,Industry,Entire home/apt | Short-stay (<30n),8,3,37.5
+2026-03,Industry,Private room | Short-stay (<30n),4,3,75.0
+2026-03,Inglewood,Entire home/apt | Monthly (30+n),262,219,83.6
+2026-03,Inglewood,Entire home/apt | Short-stay (<30n),93,89,95.7
+2026-03,Inglewood,Hotel room | Short-stay (<30n),6,6,100.0
+2026-03,Inglewood,Private room | Monthly (30+n),93,77,82.8
+2026-03,Inglewood,Private room | Short-stay (<30n),35,30,85.7
+2026-03,Inglewood,Shared room | Monthly (30+n),1,0,0.0
+2026-03,Irwindale,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Irwindale,Private room | Short-stay (<30n),4,4,100.0
+2026-03,Jefferson Park,Entire home/apt | Monthly (30+n),76,63,82.9
+2026-03,Jefferson Park,Entire home/apt | Short-stay (<30n),17,17,100.0
+2026-03,Jefferson Park,Private room | Monthly (30+n),20,16,80.0
+2026-03,Jefferson Park,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Koreatown,Entire home/apt | Monthly (30+n),264,175,66.3
+2026-03,Koreatown,Entire home/apt | Short-stay (<30n),68,63,92.6
+2026-03,Koreatown,Hotel room | Short-stay (<30n),1,1,100.0
+2026-03,Koreatown,Private room | Monthly (30+n),144,106,73.6
+2026-03,Koreatown,Private room | Short-stay (<30n),43,43,100.0
+2026-03,Koreatown,Shared room | Monthly (30+n),33,11,33.3
+2026-03,Koreatown,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,La Canada Flintridge,Entire home/apt | Monthly (30+n),5,4,80.0
+2026-03,La Canada Flintridge,Entire home/apt | Short-stay (<30n),24,17,70.8
+2026-03,La Canada Flintridge,Private room | Short-stay (<30n),11,8,72.7
+2026-03,La Crescenta-Montrose,Entire home/apt | Monthly (30+n),7,7,100.0
+2026-03,La Crescenta-Montrose,Entire home/apt | Short-stay (<30n),25,20,80.0
+2026-03,La Crescenta-Montrose,Private room | Short-stay (<30n),7,3,42.9
+2026-03,La Habra Heights,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-03,La Habra Heights,Private room | Monthly (30+n),5,3,60.0
+2026-03,La Habra Heights,Private room | Short-stay (<30n),4,2,50.0
+2026-03,La Habra Heights,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,La Mirada,Entire home/apt | Monthly (30+n),11,9,81.8
+2026-03,La Mirada,Entire home/apt | Short-stay (<30n),16,12,75.0
+2026-03,La Mirada,Private room | Monthly (30+n),13,13,100.0
+2026-03,La Mirada,Private room | Short-stay (<30n),4,4,100.0
+2026-03,La Puente,Entire home/apt | Monthly (30+n),3,2,66.7
+2026-03,La Puente,Entire home/apt | Short-stay (<30n),21,20,95.2
+2026-03,La Puente,Private room | Short-stay (<30n),25,19,76.0
+2026-03,La Puente,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,La Verne,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-03,La Verne,Entire home/apt | Short-stay (<30n),16,16,100.0
+2026-03,La Verne,Private room | Monthly (30+n),12,12,100.0
+2026-03,La Verne,Private room | Short-stay (<30n),7,7,100.0
+2026-03,Ladera Heights,Entire home/apt | Monthly (30+n),7,5,71.4
+2026-03,Ladera Heights,Entire home/apt | Short-stay (<30n),43,30,69.8
+2026-03,Ladera Heights,Private room | Monthly (30+n),2,1,50.0
+2026-03,Ladera Heights,Private room | Short-stay (<30n),13,10,76.9
+2026-03,Lake Balboa,Entire home/apt | Monthly (30+n),71,65,91.5
+2026-03,Lake Balboa,Entire home/apt | Short-stay (<30n),20,20,100.0
+2026-03,Lake Balboa,Private room | Monthly (30+n),19,16,84.2
+2026-03,Lake Balboa,Private room | Short-stay (<30n),5,5,100.0
+2026-03,Lake Hughes,Entire home/apt | Short-stay (<30n),8,8,100.0
+2026-03,Lake Los Angeles,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Lake Los Angeles,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Lake View Terrace,Entire home/apt | Monthly (30+n),6,6,100.0
+2026-03,Lake View Terrace,Private room | Monthly (30+n),1,1,100.0
+2026-03,Lakewood,Entire home/apt | Monthly (30+n),16,14,87.5
+2026-03,Lakewood,Entire home/apt | Short-stay (<30n),39,36,92.3
+2026-03,Lakewood,Private room | Monthly (30+n),4,2,50.0
+2026-03,Lakewood,Private room | Short-stay (<30n),23,15,65.2
+2026-03,Lancaster,Entire home/apt | Monthly (30+n),8,7,87.5
+2026-03,Lancaster,Entire home/apt | Short-stay (<30n),173,161,93.1
+2026-03,Lancaster,Private room | Monthly (30+n),10,9,90.0
+2026-03,Lancaster,Private room | Short-stay (<30n),199,171,85.9
+2026-03,Larchmont,Entire home/apt | Monthly (30+n),50,35,70.0
+2026-03,Larchmont,Entire home/apt | Short-stay (<30n),17,16,94.1
+2026-03,Larchmont,Private room | Monthly (30+n),12,8,66.7
+2026-03,Lawndale,Entire home/apt | Monthly (30+n),12,8,66.7
+2026-03,Lawndale,Entire home/apt | Short-stay (<30n),66,59,89.4
+2026-03,Lawndale,Private room | Monthly (30+n),10,9,90.0
+2026-03,Lawndale,Private room | Short-stay (<30n),37,27,73.0
+2026-03,Leimert Park,Entire home/apt | Monthly (30+n),28,24,85.7
+2026-03,Leimert Park,Entire home/apt | Short-stay (<30n),8,8,100.0
+2026-03,Leimert Park,Private room | Monthly (30+n),10,10,100.0
+2026-03,Leimert Park,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Lennox,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Lennox,Entire home/apt | Short-stay (<30n),44,41,93.2
+2026-03,Lennox,Private room | Monthly (30+n),4,4,100.0
+2026-03,Lennox,Private room | Short-stay (<30n),12,10,83.3
+2026-03,Lennox,Shared room | Short-stay (<30n),9,9,100.0
+2026-03,Leona Valley,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-03,Lincoln Heights,Entire home/apt | Monthly (30+n),32,21,65.6
+2026-03,Lincoln Heights,Entire home/apt | Short-stay (<30n),7,7,100.0
+2026-03,Lincoln Heights,Private room | Monthly (30+n),24,14,58.3
+2026-03,Lincoln Heights,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Lincoln Heights,Shared room | Monthly (30+n),17,9,52.9
+2026-03,Lomita,Entire home/apt | Monthly (30+n),2,1,50.0
+2026-03,Lomita,Entire home/apt | Short-stay (<30n),23,17,73.9
+2026-03,Lomita,Private room | Short-stay (<30n),9,7,77.8
+2026-03,Long Beach,Entire home/apt | Monthly (30+n),639,492,77.0
+2026-03,Long Beach,Entire home/apt | Short-stay (<30n),876,813,92.8
+2026-03,Long Beach,Entire home/apt | Unknown,1,1,100.0
+2026-03,Long Beach,Hotel room | Short-stay (<30n),20,20,100.0
+2026-03,Long Beach,Private room | Monthly (30+n),155,91,58.7
+2026-03,Long Beach,Private room | Short-stay (<30n),214,199,93.0
+2026-03,Long Beach,Private room | Unknown,1,1,100.0
+2026-03,Long Beach,Shared room | Monthly (30+n),6,0,0.0
+2026-03,Long Beach,Shared room | Short-stay (<30n),9,9,100.0
+2026-03,Lopez/Kagel Canyons,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-03,Lopez/Kagel Canyons,Private room | Monthly (30+n),1,0,0.0
+2026-03,Los Feliz,Entire home/apt | Monthly (30+n),211,134,63.5
+2026-03,Los Feliz,Entire home/apt | Short-stay (<30n),57,56,98.2
+2026-03,Los Feliz,Private room | Monthly (30+n),31,14,45.2
+2026-03,Los Feliz,Private room | Short-stay (<30n),3,2,66.7
+2026-03,Lynwood,Entire home/apt | Short-stay (<30n),24,20,83.3
+2026-03,Lynwood,Hotel room | Short-stay (<30n),2,2,100.0
+2026-03,Lynwood,Private room | Short-stay (<30n),16,14,87.5
+2026-03,Malibu,Entire home/apt | Monthly (30+n),111,81,73.0
+2026-03,Malibu,Entire home/apt | Short-stay (<30n),299,269,90.0
+2026-03,Malibu,Private room | Monthly (30+n),17,11,64.7
+2026-03,Malibu,Private room | Short-stay (<30n),10,9,90.0
+2026-03,Manchester Square,Entire home/apt | Monthly (30+n),32,29,90.6
+2026-03,Manchester Square,Entire home/apt | Short-stay (<30n),11,11,100.0
+2026-03,Manchester Square,Private room | Monthly (30+n),4,4,100.0
+2026-03,Manchester Square,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Manhattan Beach,Entire home/apt | Monthly (30+n),138,93,67.4
+2026-03,Manhattan Beach,Entire home/apt | Short-stay (<30n),276,258,93.5
+2026-03,Manhattan Beach,Private room | Monthly (30+n),34,25,73.5
+2026-03,Manhattan Beach,Private room | Short-stay (<30n),9,6,66.7
+2026-03,Manhattan Beach,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,Mar Vista,Entire home/apt | Monthly (30+n),184,129,70.1
+2026-03,Mar Vista,Entire home/apt | Short-stay (<30n),72,68,94.4
+2026-03,Mar Vista,Private room | Monthly (30+n),47,24,51.1
+2026-03,Mar Vista,Private room | Short-stay (<30n),8,6,75.0
+2026-03,Marina del Rey,Entire home/apt | Monthly (30+n),37,29,78.4
+2026-03,Marina del Rey,Entire home/apt | Short-stay (<30n),340,291,85.6
+2026-03,Marina del Rey,Hotel room | Short-stay (<30n),1,0,0.0
+2026-03,Marina del Rey,Private room | Monthly (30+n),7,2,28.6
+2026-03,Marina del Rey,Private room | Short-stay (<30n),25,15,60.0
+2026-03,Mayflower Village,Entire home/apt | Monthly (30+n),5,4,80.0
+2026-03,Mayflower Village,Entire home/apt | Short-stay (<30n),51,46,90.2
+2026-03,Mayflower Village,Private room | Short-stay (<30n),9,9,100.0
+2026-03,Mayflower Village,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,Maywood,Entire home/apt | Short-stay (<30n),9,9,100.0
+2026-03,Maywood,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Mid-City,Entire home/apt | Monthly (30+n),308,254,82.5
+2026-03,Mid-City,Entire home/apt | Short-stay (<30n),93,84,90.3
+2026-03,Mid-City,Private room | Monthly (30+n),139,112,80.6
+2026-03,Mid-City,Private room | Short-stay (<30n),30,24,80.0
+2026-03,Mid-City,Shared room | Monthly (30+n),27,25,92.6
+2026-03,Mid-Wilshire,Entire home/apt | Monthly (30+n),335,236,70.4
+2026-03,Mid-Wilshire,Entire home/apt | Short-stay (<30n),53,50,94.3
+2026-03,Mid-Wilshire,Private room | Monthly (30+n),120,74,61.7
+2026-03,Mid-Wilshire,Private room | Short-stay (<30n),12,12,100.0
+2026-03,Mid-Wilshire,Shared room | Monthly (30+n),13,8,61.5
+2026-03,Mission Hills,Entire home/apt | Monthly (30+n),10,9,90.0
+2026-03,Mission Hills,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-03,Mission Hills,Private room | Monthly (30+n),6,5,83.3
+2026-03,Monrovia,Entire home/apt | Monthly (30+n),10,8,80.0
+2026-03,Monrovia,Entire home/apt | Short-stay (<30n),153,143,93.5
+2026-03,Monrovia,Private room | Monthly (30+n),3,1,33.3
+2026-03,Monrovia,Private room | Short-stay (<30n),39,27,69.2
+2026-03,Montebello,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-03,Montebello,Entire home/apt | Short-stay (<30n),36,31,86.1
+2026-03,Montebello,Private room | Short-stay (<30n),16,8,50.0
+2026-03,Montecito Heights,Entire home/apt | Monthly (30+n),39,29,74.4
+2026-03,Montecito Heights,Entire home/apt | Short-stay (<30n),22,20,90.9
+2026-03,Montecito Heights,Private room | Monthly (30+n),22,14,63.6
+2026-03,Montecito Heights,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Monterey Park,Entire home/apt | Monthly (30+n),7,7,100.0
+2026-03,Monterey Park,Entire home/apt | Short-stay (<30n),164,149,90.9
+2026-03,Monterey Park,Private room | Monthly (30+n),14,12,85.7
+2026-03,Monterey Park,Private room | Short-stay (<30n),139,109,78.4
+2026-03,Monterey Park,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,Mount Washington,Entire home/apt | Monthly (30+n),69,42,60.9
+2026-03,Mount Washington,Entire home/apt | Short-stay (<30n),40,39,97.5
+2026-03,Mount Washington,Private room | Monthly (30+n),7,2,28.6
+2026-03,Mount Washington,Private room | Short-stay (<30n),7,7,100.0
+2026-03,North El Monte,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,North El Monte,Entire home/apt | Short-stay (<30n),16,13,81.2
+2026-03,North El Monte,Private room | Short-stay (<30n),10,4,40.0
+2026-03,North Hills,Entire home/apt | Monthly (30+n),49,45,91.8
+2026-03,North Hills,Entire home/apt | Short-stay (<30n),20,19,95.0
+2026-03,North Hills,Private room | Monthly (30+n),29,23,79.3
+2026-03,North Hills,Private room | Short-stay (<30n),2,2,100.0
+2026-03,North Hills,Shared room | Monthly (30+n),2,2,100.0
+2026-03,North Hollywood,Entire home/apt | Monthly (30+n),265,197,74.3
+2026-03,North Hollywood,Entire home/apt | Short-stay (<30n),90,88,97.8
+2026-03,North Hollywood,Private room | Monthly (30+n),117,80,68.4
+2026-03,North Hollywood,Private room | Short-stay (<30n),22,19,86.4
+2026-03,North Hollywood,Shared room | Monthly (30+n),2,1,50.0
+2026-03,North Whittier,Entire home/apt | Short-stay (<30n),5,4,80.0
+2026-03,North Whittier,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Northeast Antelope Valley,Entire home/apt | Short-stay (<30n),16,15,93.8
+2026-03,Northridge,Entire home/apt | Monthly (30+n),88,73,83.0
+2026-03,Northridge,Entire home/apt | Short-stay (<30n),32,32,100.0
+2026-03,Northridge,Private room | Monthly (30+n),25,18,72.0
+2026-03,Northridge,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Northridge,Shared room | Monthly (30+n),6,5,83.3
+2026-03,Northwest Antelope Valley,Entire home/apt | Short-stay (<30n),8,7,87.5
+2026-03,Northwest Antelope Valley,Private room | Short-stay (<30n),2,1,50.0
+2026-03,Northwest Palmdale,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-03,Northwest Palmdale,Entire home/apt | Short-stay (<30n),18,17,94.4
+2026-03,Northwest Palmdale,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Norwalk,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,Norwalk,Entire home/apt | Short-stay (<30n),59,54,91.5
+2026-03,Norwalk,Hotel room | Short-stay (<30n),2,0,0.0
+2026-03,Norwalk,Private room | Monthly (30+n),2,2,100.0
+2026-03,Norwalk,Private room | Short-stay (<30n),38,31,81.6
+2026-03,Pacific Palisades,Entire home/apt | Monthly (30+n),82,61,74.4
+2026-03,Pacific Palisades,Entire home/apt | Short-stay (<30n),15,15,100.0
+2026-03,Pacific Palisades,Private room | Monthly (30+n),16,14,87.5
+2026-03,Pacific Palisades,Private room | Short-stay (<30n),10,5,50.0
+2026-03,Pacoima,Entire home/apt | Monthly (30+n),5,3,60.0
+2026-03,Pacoima,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-03,Pacoima,Private room | Monthly (30+n),4,3,75.0
+2026-03,Pacoima,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Palmdale,Entire home/apt | Monthly (30+n),8,5,62.5
+2026-03,Palmdale,Entire home/apt | Short-stay (<30n),92,85,92.4
+2026-03,Palmdale,Private room | Monthly (30+n),7,6,85.7
+2026-03,Palmdale,Private room | Short-stay (<30n),126,97,77.0
+2026-03,Palmdale,Shared room | Short-stay (<30n),2,0,0.0
+2026-03,Palms,Entire home/apt | Monthly (30+n),192,130,67.7
+2026-03,Palms,Entire home/apt | Short-stay (<30n),23,22,95.7
+2026-03,Palms,Private room | Monthly (30+n),58,33,56.9
+2026-03,Palms,Private room | Short-stay (<30n),4,4,100.0
+2026-03,Palms,Shared room | Monthly (30+n),2,0,0.0
+2026-03,Palos Verdes Estates,Entire home/apt | Monthly (30+n),6,5,83.3
+2026-03,Palos Verdes Estates,Entire home/apt | Short-stay (<30n),10,5,50.0
+2026-03,Palos Verdes Estates,Private room | Monthly (30+n),3,3,100.0
+2026-03,Palos Verdes Estates,Private room | Short-stay (<30n),4,2,50.0
+2026-03,Panorama City,Entire home/apt | Monthly (30+n),28,22,78.6
+2026-03,Panorama City,Entire home/apt | Short-stay (<30n),7,7,100.0
+2026-03,Panorama City,Private room | Monthly (30+n),14,9,64.3
+2026-03,Panorama City,Private room | Short-stay (<30n),5,4,80.0
+2026-03,Paramount,Entire home/apt | Monthly (30+n),1,0,0.0
+2026-03,Paramount,Entire home/apt | Short-stay (<30n),11,11,100.0
+2026-03,Paramount,Private room | Monthly (30+n),1,1,100.0
+2026-03,Paramount,Private room | Short-stay (<30n),13,7,53.8
+2026-03,Pasadena,Entire home/apt | Monthly (30+n),177,122,68.9
+2026-03,Pasadena,Entire home/apt | Short-stay (<30n),463,404,87.3
+2026-03,Pasadena,Hotel room | Short-stay (<30n),26,26,100.0
+2026-03,Pasadena,Private room | Monthly (30+n),28,25,89.3
+2026-03,Pasadena,Private room | Short-stay (<30n),129,103,79.8
+2026-03,Pasadena,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,Pico Rivera,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-03,Pico Rivera,Entire home/apt | Short-stay (<30n),40,39,97.5
+2026-03,Pico Rivera,Private room | Short-stay (<30n),18,9,50.0
+2026-03,Pico-Robertson,Entire home/apt | Monthly (30+n),157,127,80.9
+2026-03,Pico-Robertson,Entire home/apt | Short-stay (<30n),52,50,96.2
+2026-03,Pico-Robertson,Hotel room | Short-stay (<30n),6,6,100.0
+2026-03,Pico-Robertson,Private room | Monthly (30+n),54,39,72.2
+2026-03,Pico-Robertson,Private room | Short-stay (<30n),5,4,80.0
+2026-03,Pico-Robertson,Shared room | Monthly (30+n),2,0,0.0
+2026-03,Pico-Union,Entire home/apt | Monthly (30+n),54,43,79.6
+2026-03,Pico-Union,Entire home/apt | Short-stay (<30n),22,22,100.0
+2026-03,Pico-Union,Private room | Monthly (30+n),106,90,84.9
+2026-03,Pico-Union,Private room | Short-stay (<30n),5,5,100.0
+2026-03,Pico-Union,Shared room | Monthly (30+n),4,2,50.0
+2026-03,Playa Vista,Entire home/apt | Monthly (30+n),83,32,38.6
+2026-03,Playa Vista,Entire home/apt | Short-stay (<30n),17,16,94.1
+2026-03,Playa Vista,Private room | Monthly (30+n),6,3,50.0
+2026-03,Playa Vista,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Playa del Rey,Entire home/apt | Monthly (30+n),82,56,68.3
+2026-03,Playa del Rey,Entire home/apt | Short-stay (<30n),16,13,81.2
+2026-03,Playa del Rey,Private room | Monthly (30+n),11,4,36.4
+2026-03,Playa del Rey,Private room | Short-stay (<30n),12,12,100.0
+2026-03,Playa del Rey,Shared room | Monthly (30+n),1,0,0.0
+2026-03,Pomona,Entire home/apt | Monthly (30+n),16,14,87.5
+2026-03,Pomona,Entire home/apt | Short-stay (<30n),78,66,84.6
+2026-03,Pomona,Private room | Monthly (30+n),27,20,74.1
+2026-03,Pomona,Private room | Short-stay (<30n),46,36,78.3
+2026-03,Porter Ranch,Entire home/apt | Monthly (30+n),18,12,66.7
+2026-03,Porter Ranch,Entire home/apt | Short-stay (<30n),8,7,87.5
+2026-03,Porter Ranch,Private room | Monthly (30+n),6,4,66.7
+2026-03,Quartz Hill,Entire home/apt | Monthly (30+n),5,2,40.0
+2026-03,Quartz Hill,Entire home/apt | Short-stay (<30n),30,28,93.3
+2026-03,Quartz Hill,Private room | Short-stay (<30n),5,4,80.0
+2026-03,Quartz Hill,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,Rancho Dominguez,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-03,Rancho Dominguez,Private room | Short-stay (<30n),3,0,0.0
+2026-03,Rancho Palos Verdes,Entire home/apt | Monthly (30+n),30,27,90.0
+2026-03,Rancho Palos Verdes,Entire home/apt | Short-stay (<30n),63,35,55.6
+2026-03,Rancho Palos Verdes,Private room | Monthly (30+n),25,18,72.0
+2026-03,Rancho Palos Verdes,Private room | Short-stay (<30n),14,12,85.7
+2026-03,Rancho Park,Entire home/apt | Monthly (30+n),22,19,86.4
+2026-03,Rancho Park,Entire home/apt | Short-stay (<30n),9,8,88.9
+2026-03,Rancho Park,Private room | Monthly (30+n),13,9,69.2
+2026-03,Rancho Park,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Rancho Park,Shared room | Monthly (30+n),2,2,100.0
+2026-03,Redondo Beach,Entire home/apt | Monthly (30+n),102,73,71.6
+2026-03,Redondo Beach,Entire home/apt | Short-stay (<30n),206,173,84.0
+2026-03,Redondo Beach,Hotel room | Short-stay (<30n),23,23,100.0
+2026-03,Redondo Beach,Private room | Monthly (30+n),26,20,76.9
+2026-03,Redondo Beach,Private room | Short-stay (<30n),103,70,68.0
+2026-03,Reseda,Entire home/apt | Monthly (30+n),129,108,83.7
+2026-03,Reseda,Entire home/apt | Short-stay (<30n),26,25,96.2
+2026-03,Reseda,Private room | Monthly (30+n),47,34,72.3
+2026-03,Reseda,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Reseda,Shared room | Monthly (30+n),2,2,100.0
+2026-03,Ridge Route,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-03,Ridge Route,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Ridge Route,Shared room | Short-stay (<30n),3,3,100.0
+2026-03,Rolling Hills,Entire home/apt | Monthly (30+n),2,1,50.0
+2026-03,Rolling Hills,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-03,Rolling Hills,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Rolling Hills Estates,Entire home/apt | Monthly (30+n),13,9,69.2
+2026-03,Rolling Hills Estates,Entire home/apt | Short-stay (<30n),7,6,85.7
+2026-03,Rolling Hills Estates,Private room | Short-stay (<30n),4,4,100.0
+2026-03,Rosemead,Entire home/apt | Monthly (30+n),14,14,100.0
+2026-03,Rosemead,Entire home/apt | Short-stay (<30n),41,36,87.8
+2026-03,Rosemead,Private room | Monthly (30+n),12,11,91.7
+2026-03,Rosemead,Private room | Short-stay (<30n),47,29,61.7
+2026-03,Rowland Heights,Entire home/apt | Monthly (30+n),33,29,87.9
+2026-03,Rowland Heights,Entire home/apt | Short-stay (<30n),199,170,85.4
+2026-03,Rowland Heights,Hotel room | Short-stay (<30n),3,0,0.0
+2026-03,Rowland Heights,Private room | Monthly (30+n),40,28,70.0
+2026-03,Rowland Heights,Private room | Short-stay (<30n),261,177,67.8
+2026-03,Rowland Heights,Shared room | Monthly (30+n),1,0,0.0
+2026-03,San Dimas,Entire home/apt | Monthly (30+n),4,2,50.0
+2026-03,San Dimas,Entire home/apt | Short-stay (<30n),26,21,80.8
+2026-03,San Dimas,Private room | Monthly (30+n),3,2,66.7
+2026-03,San Dimas,Private room | Short-stay (<30n),22,16,72.7
+2026-03,San Fernando,Entire home/apt | Short-stay (<30n),26,26,100.0
+2026-03,San Fernando,Private room | Short-stay (<30n),8,8,100.0
+2026-03,San Gabriel,Entire home/apt | Monthly (30+n),9,8,88.9
+2026-03,San Gabriel,Entire home/apt | Short-stay (<30n),133,118,88.7
+2026-03,San Gabriel,Private room | Monthly (30+n),7,3,42.9
+2026-03,San Gabriel,Private room | Short-stay (<30n),105,85,81.0
+2026-03,San Gabriel,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,San Marino,Entire home/apt | Monthly (30+n),2,1,50.0
+2026-03,San Marino,Entire home/apt | Short-stay (<30n),7,5,71.4
+2026-03,San Marino,Private room | Monthly (30+n),1,1,100.0
+2026-03,San Marino,Private room | Short-stay (<30n),6,2,33.3
+2026-03,San Pasqual,Entire home/apt | Monthly (30+n),3,2,66.7
+2026-03,San Pasqual,Entire home/apt | Short-stay (<30n),10,10,100.0
+2026-03,San Pasqual,Private room | Monthly (30+n),1,1,100.0
+2026-03,San Pasqual,Private room | Short-stay (<30n),4,4,100.0
+2026-03,San Pedro,Entire home/apt | Monthly (30+n),101,78,77.2
+2026-03,San Pedro,Entire home/apt | Short-stay (<30n),34,33,97.1
+2026-03,San Pedro,Private room | Monthly (30+n),25,19,76.0
+2026-03,San Pedro,Private room | Short-stay (<30n),7,2,28.6
+2026-03,Santa Clarita,Entire home/apt | Monthly (30+n),24,22,91.7
+2026-03,Santa Clarita,Entire home/apt | Short-stay (<30n),192,167,87.0
+2026-03,Santa Clarita,Private room | Monthly (30+n),5,3,60.0
+2026-03,Santa Clarita,Private room | Short-stay (<30n),127,95,74.8
+2026-03,Santa Clarita,Shared room | Short-stay (<30n),8,7,87.5
+2026-03,Santa Fe Springs,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,Santa Fe Springs,Entire home/apt | Short-stay (<30n),9,9,100.0
+2026-03,Santa Fe Springs,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Santa Monica,Entire home/apt | Monthly (30+n),486,388,79.8
+2026-03,Santa Monica,Entire home/apt | Short-stay (<30n),537,490,91.2
+2026-03,Santa Monica,Entire home/apt | Unknown,1,1,100.0
+2026-03,Santa Monica,Hotel room | Monthly (30+n),1,1,100.0
+2026-03,Santa Monica,Hotel room | Short-stay (<30n),6,6,100.0
+2026-03,Santa Monica,Private room | Monthly (30+n),59,41,69.5
+2026-03,Santa Monica,Private room | Short-stay (<30n),196,161,82.1
+2026-03,Santa Monica,Shared room | Short-stay (<30n),2,1,50.0
+2026-03,Sawtelle,Entire home/apt | Monthly (30+n),181,107,59.1
+2026-03,Sawtelle,Entire home/apt | Short-stay (<30n),43,41,95.3
+2026-03,Sawtelle,Private room | Monthly (30+n),139,89,64.0
+2026-03,Sawtelle,Private room | Short-stay (<30n),13,10,76.9
+2026-03,Sawtelle,Shared room | Monthly (30+n),17,14,82.4
+2026-03,Sepulveda Basin,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-03,Sepulveda Basin,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Sepulveda Basin,Private room | Monthly (30+n),2,2,100.0
+2026-03,Shadow Hills,Entire home/apt | Monthly (30+n),27,19,70.4
+2026-03,Shadow Hills,Entire home/apt | Short-stay (<30n),5,4,80.0
+2026-03,Shadow Hills,Private room | Monthly (30+n),10,7,70.0
+2026-03,Shadow Hills,Private room | Short-stay (<30n),3,3,100.0
+2026-03,Sherman Oaks,Entire home/apt | Monthly (30+n),318,257,80.8
+2026-03,Sherman Oaks,Entire home/apt | Short-stay (<30n),128,125,97.7
+2026-03,Sherman Oaks,Private room | Monthly (30+n),83,48,57.8
+2026-03,Sherman Oaks,Private room | Short-stay (<30n),10,10,100.0
+2026-03,Sherman Oaks,Shared room | Monthly (30+n),2,1,50.0
+2026-03,Sierra Madre,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Sierra Madre,Entire home/apt | Short-stay (<30n),26,23,88.5
+2026-03,Sierra Madre,Private room | Short-stay (<30n),3,2,66.7
+2026-03,Signal Hill,Entire home/apt | Monthly (30+n),5,4,80.0
+2026-03,Signal Hill,Entire home/apt | Short-stay (<30n),24,18,75.0
+2026-03,Signal Hill,Private room | Monthly (30+n),1,0,0.0
+2026-03,Signal Hill,Private room | Short-stay (<30n),11,8,72.7
+2026-03,Silver Lake,Entire home/apt | Monthly (30+n),319,226,70.8
+2026-03,Silver Lake,Entire home/apt | Short-stay (<30n),118,110,93.2
+2026-03,Silver Lake,Private room | Monthly (30+n),39,16,41.0
+2026-03,Silver Lake,Private room | Short-stay (<30n),18,12,66.7
+2026-03,Silver Lake,Private room | Unknown,1,1,100.0
+2026-03,South Diamond Bar,Private room | Monthly (30+n),1,0,0.0
+2026-03,South El Monte,Entire home/apt | Short-stay (<30n),28,28,100.0
+2026-03,South El Monte,Private room | Monthly (30+n),2,2,100.0
+2026-03,South El Monte,Private room | Short-stay (<30n),12,11,91.7
+2026-03,South Gate,Entire home/apt | Short-stay (<30n),43,40,93.0
+2026-03,South Gate,Private room | Monthly (30+n),2,0,0.0
+2026-03,South Gate,Private room | Short-stay (<30n),7,2,28.6
+2026-03,South Park,Entire home/apt | Monthly (30+n),7,3,42.9
+2026-03,South Park,Private room | Monthly (30+n),16,15,93.8
+2026-03,South Pasadena,Entire home/apt | Monthly (30+n),8,7,87.5
+2026-03,South Pasadena,Entire home/apt | Short-stay (<30n),76,64,84.2
+2026-03,South Pasadena,Hotel room | Short-stay (<30n),1,1,100.0
+2026-03,South Pasadena,Private room | Short-stay (<30n),19,15,78.9
+2026-03,South San Gabriel,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,South San Gabriel,Entire home/apt | Short-stay (<30n),51,49,96.1
+2026-03,South San Gabriel,Private room | Short-stay (<30n),15,13,86.7
+2026-03,South San Jose Hills,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-03,South San Jose Hills,Entire home/apt | Short-stay (<30n),13,11,84.6
+2026-03,South San Jose Hills,Private room | Monthly (30+n),6,6,100.0
+2026-03,South San Jose Hills,Private room | Short-stay (<30n),2,0,0.0
+2026-03,South Whittier,Entire home/apt | Monthly (30+n),6,5,83.3
+2026-03,South Whittier,Entire home/apt | Short-stay (<30n),38,36,94.7
+2026-03,South Whittier,Private room | Monthly (30+n),1,0,0.0
+2026-03,South Whittier,Private room | Short-stay (<30n),6,5,83.3
+2026-03,Southeast Antelope Valley,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,Southeast Antelope Valley,Entire home/apt | Short-stay (<30n),23,23,100.0
+2026-03,Southeast Antelope Valley,Private room | Short-stay (<30n),12,9,75.0
+2026-03,Stevenson Ranch,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-03,Stevenson Ranch,Entire home/apt | Short-stay (<30n),15,13,86.7
+2026-03,Stevenson Ranch,Private room | Short-stay (<30n),7,5,71.4
+2026-03,Studio City,Entire home/apt | Monthly (30+n),233,175,75.1
+2026-03,Studio City,Entire home/apt | Short-stay (<30n),99,96,97.0
+2026-03,Studio City,Hotel room | Short-stay (<30n),2,0,0.0
+2026-03,Studio City,Private room | Monthly (30+n),39,19,48.7
+2026-03,Studio City,Private room | Short-stay (<30n),26,24,92.3
+2026-03,Sun Valley,Entire home/apt | Monthly (30+n),55,42,76.4
+2026-03,Sun Valley,Entire home/apt | Short-stay (<30n),22,21,95.5
+2026-03,Sun Valley,Private room | Monthly (30+n),28,20,71.4
+2026-03,Sun Valley,Private room | Short-stay (<30n),5,5,100.0
+2026-03,Sun Valley,Shared room | Monthly (30+n),1,1,100.0
+2026-03,Sun Village,Entire home/apt | Short-stay (<30n),5,4,80.0
+2026-03,Sun Village,Private room | Monthly (30+n),1,0,0.0
+2026-03,Sunland,Entire home/apt | Monthly (30+n),5,5,100.0
+2026-03,Sunland,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Sunland,Private room | Monthly (30+n),2,1,50.0
+2026-03,Sylmar,Entire home/apt | Monthly (30+n),21,19,90.5
+2026-03,Sylmar,Entire home/apt | Short-stay (<30n),12,12,100.0
+2026-03,Sylmar,Private room | Monthly (30+n),14,11,78.6
+2026-03,Sylmar,Private room | Short-stay (<30n),2,2,100.0
+2026-03,Sylmar,Shared room | Monthly (30+n),1,1,100.0
+2026-03,Tarzana,Entire home/apt | Monthly (30+n),118,96,81.4
+2026-03,Tarzana,Entire home/apt | Short-stay (<30n),57,52,91.2
+2026-03,Tarzana,Private room | Monthly (30+n),33,23,69.7
+2026-03,Tarzana,Private room | Short-stay (<30n),10,10,100.0
+2026-03,Tarzana,Shared room | Monthly (30+n),1,0,0.0
+2026-03,Temple City,Entire home/apt | Monthly (30+n),14,11,78.6
+2026-03,Temple City,Entire home/apt | Short-stay (<30n),82,69,84.1
+2026-03,Temple City,Private room | Monthly (30+n),11,7,63.6
+2026-03,Temple City,Private room | Short-stay (<30n),59,38,64.4
+2026-03,Temple City,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,Toluca Lake,Entire home/apt | Monthly (30+n),44,36,81.8
+2026-03,Toluca Lake,Entire home/apt | Short-stay (<30n),27,27,100.0
+2026-03,Toluca Lake,Entire home/apt | Unknown,1,1,100.0
+2026-03,Toluca Lake,Private room | Monthly (30+n),12,6,50.0
+2026-03,Toluca Lake,Private room | Short-stay (<30n),7,7,100.0
+2026-03,Topanga,Entire home/apt | Monthly (30+n),8,6,75.0
+2026-03,Topanga,Entire home/apt | Short-stay (<30n),333,284,85.3
+2026-03,Topanga,Private room | Monthly (30+n),2,0,0.0
+2026-03,Topanga,Private room | Short-stay (<30n),27,16,59.3
+2026-03,Topanga,Shared room | Short-stay (<30n),1,1,100.0
+2026-03,Torrance,Entire home/apt | Monthly (30+n),59,43,72.9
+2026-03,Torrance,Entire home/apt | Short-stay (<30n),157,128,81.5
+2026-03,Torrance,Hotel room | Short-stay (<30n),16,14,87.5
+2026-03,Torrance,Private room | Monthly (30+n),18,16,88.9
+2026-03,Torrance,Private room | Short-stay (<30n),124,93,75.0
+2026-03,Torrance,Shared room | Short-stay (<30n),2,0,0.0
+2026-03,Tujunga,Entire home/apt | Monthly (30+n),21,18,85.7
+2026-03,Tujunga,Entire home/apt | Short-stay (<30n),10,10,100.0
+2026-03,Tujunga,Private room | Monthly (30+n),9,7,77.8
+2026-03,Tujunga,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Tujunga Canyons,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Tujunga Canyons,Entire home/apt | Short-stay (<30n),16,13,81.2
+2026-03,Tujunga Canyons,Private room | Short-stay (<30n),3,2,66.7
+2026-03,Unincorporated Catalina Island,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-03,Unincorporated Catalina Island,Private room | Short-stay (<30n),5,3,60.0
+2026-03,Unincorporated Santa Monica Mountains,Entire home/apt | Monthly (30+n),15,11,73.3
+2026-03,Unincorporated Santa Monica Mountains,Entire home/apt | Short-stay (<30n),155,132,85.2
+2026-03,Unincorporated Santa Monica Mountains,Private room | Short-stay (<30n),12,9,75.0
+2026-03,Unincorporated Santa Susana Mountains,Entire home/apt | Short-stay (<30n),26,23,88.5
+2026-03,Unincorporated Santa Susana Mountains,Private room | Short-stay (<30n),9,6,66.7
+2026-03,Universal City,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,Universal City,Entire home/apt | Short-stay (<30n),29,28,96.6
+2026-03,Universal City,Private room | Short-stay (<30n),1,1,100.0
+2026-03,University Park,Entire home/apt | Monthly (30+n),23,19,82.6
+2026-03,University Park,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-03,University Park,Private room | Monthly (30+n),52,32,61.5
+2026-03,University Park,Private room | Short-stay (<30n),4,0,0.0
+2026-03,University Park,Shared room | Monthly (30+n),4,0,0.0
+2026-03,Val Verde,Entire home/apt | Short-stay (<30n),3,1,33.3
+2026-03,Val Verde,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Valinda,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Valinda,Entire home/apt | Short-stay (<30n),33,30,90.9
+2026-03,Valinda,Private room | Short-stay (<30n),13,8,61.5
+2026-03,Valley Glen,Entire home/apt | Monthly (30+n),114,93,81.6
+2026-03,Valley Glen,Entire home/apt | Short-stay (<30n),57,55,96.5
+2026-03,Valley Glen,Private room | Monthly (30+n),47,25,53.2
+2026-03,Valley Glen,Private room | Short-stay (<30n),8,7,87.5
+2026-03,Valley Glen,Shared room | Monthly (30+n),1,0,0.0
+2026-03,Valley Village,Entire home/apt | Monthly (30+n),106,86,81.1
+2026-03,Valley Village,Entire home/apt | Short-stay (<30n),32,31,96.9
+2026-03,Valley Village,Private room | Monthly (30+n),16,6,37.5
+2026-03,Valley Village,Private room | Short-stay (<30n),13,13,100.0
+2026-03,Valley Village,Shared room | Monthly (30+n),2,0,0.0
+2026-03,Van Nuys,Entire home/apt | Monthly (30+n),128,108,84.4
+2026-03,Van Nuys,Entire home/apt | Short-stay (<30n),48,47,97.9
+2026-03,Van Nuys,Private room | Monthly (30+n),50,22,44.0
+2026-03,Van Nuys,Private room | Short-stay (<30n),10,10,100.0
+2026-03,Van Nuys,Shared room | Monthly (30+n),1,0,0.0
+2026-03,Venice,Entire home/apt | Monthly (30+n),963,699,72.6
+2026-03,Venice,Entire home/apt | Short-stay (<30n),403,377,93.5
+2026-03,Venice,Private room | Monthly (30+n),123,56,45.5
+2026-03,Venice,Private room | Short-stay (<30n),73,64,87.7
+2026-03,Venice,Shared room | Monthly (30+n),5,4,80.0
+2026-03,Vermont Knolls,Entire home/apt | Monthly (30+n),11,9,81.8
+2026-03,Vermont Knolls,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Vermont Knolls,Private room | Monthly (30+n),9,6,66.7
+2026-03,Vermont Knolls,Private room | Short-stay (<30n),1,0,0.0
+2026-03,Vermont Knolls,Shared room | Monthly (30+n),1,1,100.0
+2026-03,Vermont Square,Entire home/apt | Monthly (30+n),48,42,87.5
+2026-03,Vermont Square,Entire home/apt | Short-stay (<30n),24,24,100.0
+2026-03,Vermont Square,Private room | Monthly (30+n),52,47,90.4
+2026-03,Vermont Square,Private room | Short-stay (<30n),9,7,77.8
+2026-03,Vermont Vista,Entire home/apt | Monthly (30+n),13,13,100.0
+2026-03,Vermont Vista,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-03,Vermont Vista,Private room | Monthly (30+n),12,11,91.7
+2026-03,Vermont-Slauson,Entire home/apt | Monthly (30+n),12,9,75.0
+2026-03,Vermont-Slauson,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-03,Vermont-Slauson,Private room | Monthly (30+n),12,8,66.7
+2026-03,Vernon,Entire home/apt | Short-stay (<30n),129,116,89.9
+2026-03,Vernon,Private room | Short-stay (<30n),34,31,91.2
+2026-03,Vernon,Shared room | Short-stay (<30n),6,6,100.0
+2026-03,Veterans Administration,Entire home/apt | Monthly (30+n),4,2,50.0
+2026-03,Veterans Administration,Entire home/apt | Short-stay (<30n),48,46,95.8
+2026-03,Veterans Administration,Private room | Monthly (30+n),2,0,0.0
+2026-03,View Park-Windsor Hills,Entire home/apt | Monthly (30+n),23,18,78.3
+2026-03,View Park-Windsor Hills,Entire home/apt | Short-stay (<30n),142,128,90.1
+2026-03,View Park-Windsor Hills,Entire home/apt | Unknown,1,1,100.0
+2026-03,View Park-Windsor Hills,Private room | Monthly (30+n),6,5,83.3
+2026-03,View Park-Windsor Hills,Private room | Short-stay (<30n),36,26,72.2
+2026-03,Vincent,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-03,Vincent,Entire home/apt | Short-stay (<30n),4,2,50.0
+2026-03,Vincent,Private room | Short-stay (<30n),6,5,83.3
+2026-03,Walnut,Entire home/apt | Monthly (30+n),12,11,91.7
+2026-03,Walnut,Entire home/apt | Short-stay (<30n),29,22,75.9
+2026-03,Walnut,Private room | Monthly (30+n),9,8,88.9
+2026-03,Walnut,Private room | Short-stay (<30n),53,25,47.2
+2026-03,Walnut,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Walnut Park,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Watts,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-03,Watts,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-03,Watts,Private room | Monthly (30+n),2,0,0.0
+2026-03,Watts,Shared room | Monthly (30+n),9,9,100.0
+2026-03,West Adams,Entire home/apt | Monthly (30+n),98,79,80.6
+2026-03,West Adams,Entire home/apt | Short-stay (<30n),30,30,100.0
+2026-03,West Adams,Private room | Monthly (30+n),14,7,50.0
+2026-03,West Adams,Private room | Short-stay (<30n),8,1,12.5
+2026-03,West Carson,Entire home/apt | Monthly (30+n),7,4,57.1
+2026-03,West Carson,Entire home/apt | Short-stay (<30n),32,27,84.4
+2026-03,West Carson,Private room | Monthly (30+n),4,4,100.0
+2026-03,West Carson,Private room | Short-stay (<30n),19,11,57.9
+2026-03,West Compton,Entire home/apt | Short-stay (<30n),6,4,66.7
+2026-03,West Compton,Private room | Short-stay (<30n),5,3,60.0
+2026-03,West Compton,Shared room | Monthly (30+n),1,0,0.0
+2026-03,West Covina,Entire home/apt | Monthly (30+n),23,21,91.3
+2026-03,West Covina,Entire home/apt | Short-stay (<30n),140,126,90.0
+2026-03,West Covina,Private room | Monthly (30+n),9,6,66.7
+2026-03,West Covina,Private room | Short-stay (<30n),104,75,72.1
+2026-03,West Covina,Shared room | Short-stay (<30n),2,2,100.0
+2026-03,West Hills,Entire home/apt | Monthly (30+n),106,85,80.2
+2026-03,West Hills,Entire home/apt | Short-stay (<30n),47,44,93.6
+2026-03,West Hills,Private room | Monthly (30+n),29,26,89.7
+2026-03,West Hills,Private room | Short-stay (<30n),4,4,100.0
+2026-03,West Hollywood,Entire home/apt | Monthly (30+n),376,271,72.1
+2026-03,West Hollywood,Entire home/apt | Short-stay (<30n),624,597,95.7
+2026-03,West Hollywood,Hotel room | Short-stay (<30n),58,57,98.3
+2026-03,West Hollywood,Private room | Monthly (30+n),67,33,49.3
+2026-03,West Hollywood,Private room | Short-stay (<30n),119,101,84.9
+2026-03,West Hollywood,Shared room | Short-stay (<30n),3,3,100.0
+2026-03,West Los Angeles,Entire home/apt | Monthly (30+n),106,89,84.0
+2026-03,West Los Angeles,Entire home/apt | Short-stay (<30n),23,21,91.3
+2026-03,West Los Angeles,Private room | Monthly (30+n),58,45,77.6
+2026-03,West Los Angeles,Private room | Short-stay (<30n),2,2,100.0
+2026-03,West Puente Valley,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,West Puente Valley,Entire home/apt | Short-stay (<30n),10,9,90.0
+2026-03,West Puente Valley,Private room | Monthly (30+n),1,0,0.0
+2026-03,West Puente Valley,Private room | Short-stay (<30n),4,3,75.0
+2026-03,West Whittier-Los Nietos,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-03,West Whittier-Los Nietos,Entire home/apt | Short-stay (<30n),18,14,77.8
+2026-03,West Whittier-Los Nietos,Private room | Short-stay (<30n),7,5,71.4
+2026-03,West Whittier-Los Nietos,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Westchester,Entire home/apt | Monthly (30+n),146,112,76.7
+2026-03,Westchester,Entire home/apt | Short-stay (<30n),66,54,81.8
+2026-03,Westchester,Hotel room | Short-stay (<30n),6,6,100.0
+2026-03,Westchester,Private room | Monthly (30+n),39,26,66.7
+2026-03,Westchester,Private room | Short-stay (<30n),20,14,70.0
+2026-03,Westlake,Entire home/apt | Monthly (30+n),270,172,63.7
+2026-03,Westlake,Entire home/apt | Short-stay (<30n),50,49,98.0
+2026-03,Westlake,Private room | Monthly (30+n),95,63,66.3
+2026-03,Westlake,Private room | Short-stay (<30n),18,14,77.8
+2026-03,Westlake,Shared room | Monthly (30+n),7,7,100.0
+2026-03,Westlake Village,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-03,Westlake Village,Entire home/apt | Short-stay (<30n),8,7,87.5
+2026-03,Westlake Village,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Westmont,Entire home/apt | Monthly (30+n),8,6,75.0
+2026-03,Westmont,Entire home/apt | Short-stay (<30n),79,74,93.7
+2026-03,Westmont,Private room | Short-stay (<30n),9,4,44.4
+2026-03,Westwood,Entire home/apt | Monthly (30+n),240,169,70.4
+2026-03,Westwood,Entire home/apt | Short-stay (<30n),18,18,100.0
+2026-03,Westwood,Private room | Monthly (30+n),241,203,84.2
+2026-03,Westwood,Private room | Short-stay (<30n),24,14,58.3
+2026-03,Westwood,Shared room | Monthly (30+n),7,1,14.3
+2026-03,Whittier,Entire home/apt | Monthly (30+n),1,0,0.0
+2026-03,Whittier,Entire home/apt | Short-stay (<30n),104,88,84.6
+2026-03,Whittier,Private room | Monthly (30+n),7,7,100.0
+2026-03,Whittier,Private room | Short-stay (<30n),33,24,72.7
+2026-03,Whittier,Shared room | Short-stay (<30n),1,0,0.0
+2026-03,Willowbrook,Entire home/apt | Short-stay (<30n),18,17,94.4
+2026-03,Willowbrook,Private room | Short-stay (<30n),25,23,92.0
+2026-03,Wilmington,Entire home/apt | Monthly (30+n),7,7,100.0
+2026-03,Wilmington,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-03,Wilmington,Hotel room | Monthly (30+n),1,1,100.0
+2026-03,Wilmington,Private room | Monthly (30+n),2,2,100.0
+2026-03,Wilmington,Private room | Short-stay (<30n),2,0,0.0
+2026-03,Windsor Square,Entire home/apt | Monthly (30+n),12,9,75.0
+2026-03,Windsor Square,Entire home/apt | Short-stay (<30n),8,5,62.5
+2026-03,Windsor Square,Private room | Monthly (30+n),5,3,60.0
+2026-03,Windsor Square,Private room | Short-stay (<30n),1,1,100.0
+2026-03,Winnetka,Entire home/apt | Monthly (30+n),56,47,83.9
+2026-03,Winnetka,Entire home/apt | Short-stay (<30n),24,22,91.7
+2026-03,Winnetka,Private room | Monthly (30+n),34,25,73.5
+2026-03,Winnetka,Private room | Short-stay (<30n),12,12,100.0
+2026-03,Woodland Hills,Entire home/apt | Monthly (30+n),314,264,84.1
+2026-03,Woodland Hills,Entire home/apt | Short-stay (<30n),116,108,93.1
+2026-03,Woodland Hills,Private room | Monthly (30+n),93,72,77.4
+2026-03,Woodland Hills,Private room | Short-stay (<30n),8,8,100.0
+2026-03,Woodland Hills,Shared room | Monthly (30+n),2,1,50.0
+2026-06,Acton,Entire home/apt | Monthly (30+n),2,1,50.0
+2026-06,Acton,Entire home/apt | Short-stay (<30n),15,12,80.0
+2026-06,Acton,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Adams-Normandie,Entire home/apt | Monthly (30+n),19,16,84.2
+2026-06,Adams-Normandie,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-06,Adams-Normandie,Private room | Monthly (30+n),73,69,94.5
+2026-06,Adams-Normandie,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Agoura Hills,Entire home/apt | Monthly (30+n),17,16,94.1
+2026-06,Agoura Hills,Entire home/apt | Short-stay (<30n),28,25,89.3
+2026-06,Agoura Hills,Private room | Monthly (30+n),4,4,100.0
+2026-06,Agoura Hills,Private room | Short-stay (<30n),7,5,71.4
+2026-06,Agua Dulce,Entire home/apt | Monthly (30+n),4,2,50.0
+2026-06,Agua Dulce,Entire home/apt | Short-stay (<30n),16,16,100.0
+2026-06,Agua Dulce,Private room | Short-stay (<30n),6,6,100.0
+2026-06,Alhambra,Entire home/apt | Monthly (30+n),29,24,82.8
+2026-06,Alhambra,Entire home/apt | Short-stay (<30n),456,413,90.6
+2026-06,Alhambra,Private room | Monthly (30+n),15,11,73.3
+2026-06,Alhambra,Private room | Short-stay (<30n),179,157,87.7
+2026-06,Alhambra,Shared room | Short-stay (<30n),2,2,100.0
+2026-06,Alondra Park,Entire home/apt | Short-stay (<30n),18,17,94.4
+2026-06,Alondra Park,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Altadena,Entire home/apt | Monthly (30+n),7,6,85.7
+2026-06,Altadena,Entire home/apt | Short-stay (<30n),88,71,80.7
+2026-06,Altadena,Private room | Monthly (30+n),1,1,100.0
+2026-06,Altadena,Private room | Short-stay (<30n),22,16,72.7
+2026-06,Angeles Crest,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-06,Arcadia,Entire home/apt | Monthly (30+n),31,20,64.5
+2026-06,Arcadia,Entire home/apt | Short-stay (<30n),95,92,96.8
+2026-06,Arcadia,Private room | Monthly (30+n),13,13,100.0
+2026-06,Arcadia,Private room | Short-stay (<30n),61,54,88.5
+2026-06,Arcadia,Shared room | Short-stay (<30n),2,2,100.0
+2026-06,Arleta,Entire home/apt | Monthly (30+n),5,4,80.0
+2026-06,Arleta,Private room | Monthly (30+n),4,4,100.0
+2026-06,Arlington Heights,Entire home/apt | Monthly (30+n),29,22,75.9
+2026-06,Arlington Heights,Entire home/apt | Short-stay (<30n),13,13,100.0
+2026-06,Arlington Heights,Private room | Monthly (30+n),61,61,100.0
+2026-06,Arlington Heights,Private room | Short-stay (<30n),4,4,100.0
+2026-06,Arlington Heights,Shared room | Monthly (30+n),1,1,100.0
+2026-06,Artesia,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-06,Artesia,Entire home/apt | Short-stay (<30n),2,1,50.0
+2026-06,Artesia,Private room | Monthly (30+n),1,1,100.0
+2026-06,Artesia,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Athens,Entire home/apt | Short-stay (<30n),10,9,90.0
+2026-06,Athens,Private room | Short-stay (<30n),6,6,100.0
+2026-06,Atwater Village,Entire home/apt | Monthly (30+n),61,41,67.2
+2026-06,Atwater Village,Entire home/apt | Short-stay (<30n),31,30,96.8
+2026-06,Atwater Village,Private room | Monthly (30+n),8,6,75.0
+2026-06,Atwater Village,Private room | Short-stay (<30n),3,1,33.3
+2026-06,Avalon,Entire home/apt | Short-stay (<30n),249,244,98.0
+2026-06,Avalon,Hotel room | Short-stay (<30n),11,11,100.0
+2026-06,Avalon,Private room | Short-stay (<30n),8,7,87.5
+2026-06,Avocado Heights,Entire home/apt | Short-stay (<30n),21,20,95.2
+2026-06,Avocado Heights,Private room | Monthly (30+n),1,1,100.0
+2026-06,Avocado Heights,Private room | Short-stay (<30n),8,4,50.0
+2026-06,Azusa,Entire home/apt | Monthly (30+n),7,7,100.0
+2026-06,Azusa,Entire home/apt | Short-stay (<30n),72,70,97.2
+2026-06,Azusa,Private room | Monthly (30+n),3,3,100.0
+2026-06,Azusa,Private room | Short-stay (<30n),22,15,68.2
+2026-06,Baldwin Hills/Crenshaw,Entire home/apt | Monthly (30+n),56,47,83.9
+2026-06,Baldwin Hills/Crenshaw,Entire home/apt | Short-stay (<30n),25,25,100.0
+2026-06,Baldwin Hills/Crenshaw,Private room | Monthly (30+n),31,30,96.8
+2026-06,Baldwin Hills/Crenshaw,Private room | Short-stay (<30n),6,6,100.0
+2026-06,Baldwin Hills/Crenshaw,Shared room | Monthly (30+n),1,1,100.0
+2026-06,Baldwin Park,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-06,Baldwin Park,Entire home/apt | Short-stay (<30n),97,95,97.9
+2026-06,Baldwin Park,Private room | Monthly (30+n),4,4,100.0
+2026-06,Baldwin Park,Private room | Short-stay (<30n),37,34,91.9
+2026-06,Bel-Air,Entire home/apt | Monthly (30+n),53,48,90.6
+2026-06,Bel-Air,Entire home/apt | Short-stay (<30n),29,28,96.6
+2026-06,Bel-Air,Private room | Monthly (30+n),5,5,100.0
+2026-06,Bel-Air,Private room | Short-stay (<30n),7,7,100.0
+2026-06,Bell,Entire home/apt | Short-stay (<30n),13,11,84.6
+2026-06,Bell,Private room | Short-stay (<30n),8,8,100.0
+2026-06,Bell Gardens,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Bell Gardens,Entire home/apt | Short-stay (<30n),8,6,75.0
+2026-06,Bell Gardens,Private room | Monthly (30+n),2,2,100.0
+2026-06,Bell Gardens,Private room | Short-stay (<30n),10,10,100.0
+2026-06,Bellflower,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-06,Bellflower,Entire home/apt | Short-stay (<30n),50,42,84.0
+2026-06,Bellflower,Private room | Monthly (30+n),1,1,100.0
+2026-06,Bellflower,Private room | Short-stay (<30n),12,11,91.7
+2026-06,Beverly Crest,Entire home/apt | Monthly (30+n),113,98,86.7
+2026-06,Beverly Crest,Entire home/apt | Short-stay (<30n),87,86,98.9
+2026-06,Beverly Crest,Private room | Monthly (30+n),10,8,80.0
+2026-06,Beverly Crest,Private room | Short-stay (<30n),6,6,100.0
+2026-06,Beverly Grove,Entire home/apt | Monthly (30+n),320,259,80.9
+2026-06,Beverly Grove,Entire home/apt | Short-stay (<30n),99,96,97.0
+2026-06,Beverly Grove,Entire home/apt | Unknown,1,0,0.0
+2026-06,Beverly Grove,Hotel room | Short-stay (<30n),4,4,100.0
+2026-06,Beverly Grove,Private room | Monthly (30+n),75,69,92.0
+2026-06,Beverly Grove,Private room | Short-stay (<30n),8,7,87.5
+2026-06,Beverly Hills,Entire home/apt | Monthly (30+n),122,91,74.6
+2026-06,Beverly Hills,Entire home/apt | Short-stay (<30n),521,446,85.6
+2026-06,Beverly Hills,Entire home/apt | Unknown,1,1,100.0
+2026-06,Beverly Hills,Private room | Monthly (30+n),30,27,90.0
+2026-06,Beverly Hills,Private room | Short-stay (<30n),107,94,87.9
+2026-06,Beverly Hills,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Beverlywood,Entire home/apt | Monthly (30+n),19,17,89.5
+2026-06,Beverlywood,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-06,Beverlywood,Private room | Monthly (30+n),7,7,100.0
+2026-06,Boyle Heights,Entire home/apt | Monthly (30+n),52,39,75.0
+2026-06,Boyle Heights,Entire home/apt | Short-stay (<30n),24,24,100.0
+2026-06,Boyle Heights,Private room | Monthly (30+n),50,43,86.0
+2026-06,Boyle Heights,Private room | Short-stay (<30n),7,7,100.0
+2026-06,Brentwood,Entire home/apt | Monthly (30+n),114,81,71.1
+2026-06,Brentwood,Entire home/apt | Short-stay (<30n),19,19,100.0
+2026-06,Brentwood,Hotel room | Short-stay (<30n),16,16,100.0
+2026-06,Brentwood,Private room | Monthly (30+n),49,45,91.8
+2026-06,Brentwood,Private room | Short-stay (<30n),4,4,100.0
+2026-06,Broadway-Manchester,Entire home/apt | Monthly (30+n),5,5,100.0
+2026-06,Broadway-Manchester,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-06,Broadway-Manchester,Private room | Monthly (30+n),2,2,100.0
+2026-06,Broadway-Manchester,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Burbank,Entire home/apt | Monthly (30+n),91,76,83.5
+2026-06,Burbank,Entire home/apt | Short-stay (<30n),405,358,88.4
+2026-06,Burbank,Entire home/apt | Unknown,1,1,100.0
+2026-06,Burbank,Private room | Monthly (30+n),9,5,55.6
+2026-06,Burbank,Private room | Short-stay (<30n),128,106,82.8
+2026-06,Calabasas,Entire home/apt | Monthly (30+n),22,21,95.5
+2026-06,Calabasas,Entire home/apt | Short-stay (<30n),76,70,92.1
+2026-06,Calabasas,Private room | Monthly (30+n),10,7,70.0
+2026-06,Calabasas,Private room | Short-stay (<30n),13,11,84.6
+2026-06,Canoga Park,Entire home/apt | Monthly (30+n),53,46,86.8
+2026-06,Canoga Park,Entire home/apt | Short-stay (<30n),9,9,100.0
+2026-06,Canoga Park,Private room | Monthly (30+n),25,20,80.0
+2026-06,Canoga Park,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Canoga Park,Shared room | Monthly (30+n),1,1,100.0
+2026-06,Carson,Entire home/apt | Monthly (30+n),13,10,76.9
+2026-06,Carson,Entire home/apt | Short-stay (<30n),60,54,90.0
+2026-06,Carson,Private room | Monthly (30+n),3,3,100.0
+2026-06,Carson,Private room | Short-stay (<30n),55,40,72.7
+2026-06,Carthay,Entire home/apt | Monthly (30+n),37,34,91.9
+2026-06,Carthay,Entire home/apt | Short-stay (<30n),34,34,100.0
+2026-06,Carthay,Private room | Monthly (30+n),16,12,75.0
+2026-06,Carthay,Private room | Short-stay (<30n),15,15,100.0
+2026-06,Castaic,Entire home/apt | Short-stay (<30n),10,10,100.0
+2026-06,Castaic,Private room | Short-stay (<30n),9,7,77.8
+2026-06,Castaic Canyons,Entire home/apt | Monthly (30+n),11,9,81.8
+2026-06,Castaic Canyons,Entire home/apt | Short-stay (<30n),26,26,100.0
+2026-06,Castaic Canyons,Private room | Monthly (30+n),3,2,66.7
+2026-06,Castaic Canyons,Private room | Short-stay (<30n),8,6,75.0
+2026-06,Central-Alameda,Entire home/apt | Monthly (30+n),5,5,100.0
+2026-06,Central-Alameda,Entire home/apt | Short-stay (<30n),8,6,75.0
+2026-06,Central-Alameda,Private room | Monthly (30+n),6,6,100.0
+2026-06,Central-Alameda,Shared room | Monthly (30+n),4,4,100.0
+2026-06,Century City,Entire home/apt | Monthly (30+n),26,23,88.5
+2026-06,Century City,Entire home/apt | Short-stay (<30n),7,7,100.0
+2026-06,Century City,Private room | Monthly (30+n),1,0,0.0
+2026-06,Century City,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Cerritos,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-06,Cerritos,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-06,Cerritos,Private room | Monthly (30+n),5,3,60.0
+2026-06,Cerritos,Private room | Short-stay (<30n),9,9,100.0
+2026-06,Charter Oak,Entire home/apt | Monthly (30+n),1,0,0.0
+2026-06,Charter Oak,Entire home/apt | Short-stay (<30n),10,10,100.0
+2026-06,Charter Oak,Private room | Short-stay (<30n),6,4,66.7
+2026-06,Chatsworth,Entire home/apt | Monthly (30+n),33,29,87.9
+2026-06,Chatsworth,Entire home/apt | Short-stay (<30n),35,32,91.4
+2026-06,Chatsworth,Private room | Monthly (30+n),17,17,100.0
+2026-06,Chatsworth,Private room | Short-stay (<30n),13,12,92.3
+2026-06,Chatsworth,Shared room | Monthly (30+n),3,3,100.0
+2026-06,Chatsworth Reservoir,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Chatsworth Reservoir,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Chesterfield Square,Entire home/apt | Monthly (30+n),10,9,90.0
+2026-06,Chesterfield Square,Entire home/apt | Short-stay (<30n),4,3,75.0
+2026-06,Chesterfield Square,Private room | Monthly (30+n),1,0,0.0
+2026-06,Chesterfield Square,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Cheviot Hills,Entire home/apt | Monthly (30+n),11,8,72.7
+2026-06,Cheviot Hills,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-06,Cheviot Hills,Private room | Monthly (30+n),1,1,100.0
+2026-06,Chinatown,Entire home/apt | Monthly (30+n),32,11,34.4
+2026-06,Chinatown,Entire home/apt | Short-stay (<30n),18,17,94.4
+2026-06,Chinatown,Private room | Monthly (30+n),7,6,85.7
+2026-06,Chinatown,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Citrus,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Citrus,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Claremont,Entire home/apt | Monthly (30+n),10,10,100.0
+2026-06,Claremont,Entire home/apt | Short-stay (<30n),32,27,84.4
+2026-06,Claremont,Private room | Monthly (30+n),9,8,88.9
+2026-06,Claremont,Private room | Short-stay (<30n),9,5,55.6
+2026-06,Commerce,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,Commerce,Entire home/apt | Short-stay (<30n),15,13,86.7
+2026-06,Compton,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Compton,Entire home/apt | Short-stay (<30n),47,43,91.5
+2026-06,Compton,Private room | Short-stay (<30n),21,19,90.5
+2026-06,Covina,Entire home/apt | Monthly (30+n),5,5,100.0
+2026-06,Covina,Entire home/apt | Short-stay (<30n),46,45,97.8
+2026-06,Covina,Private room | Monthly (30+n),2,2,100.0
+2026-06,Covina,Private room | Short-stay (<30n),43,40,93.0
+2026-06,Cudahy,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Culver City,Entire home/apt | Monthly (30+n),46,34,73.9
+2026-06,Culver City,Entire home/apt | Short-stay (<30n),508,454,89.4
+2026-06,Culver City,Entire home/apt | Unknown,1,0,0.0
+2026-06,Culver City,Hotel room | Short-stay (<30n),2,2,100.0
+2026-06,Culver City,Private room | Monthly (30+n),4,3,75.0
+2026-06,Culver City,Private room | Short-stay (<30n),126,111,88.1
+2026-06,Cypress Park,Entire home/apt | Monthly (30+n),12,7,58.3
+2026-06,Cypress Park,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Cypress Park,Private room | Monthly (30+n),7,5,71.4
+2026-06,Del Aire,Entire home/apt | Monthly (30+n),8,7,87.5
+2026-06,Del Aire,Entire home/apt | Short-stay (<30n),53,45,84.9
+2026-06,Del Aire,Private room | Monthly (30+n),2,2,100.0
+2026-06,Del Aire,Private room | Short-stay (<30n),15,13,86.7
+2026-06,Del Rey,Entire home/apt | Monthly (30+n),160,113,70.6
+2026-06,Del Rey,Entire home/apt | Short-stay (<30n),65,59,90.8
+2026-06,Del Rey,Private room | Monthly (30+n),28,25,89.3
+2026-06,Del Rey,Private room | Short-stay (<30n),13,11,84.6
+2026-06,Desert View Highlands,Entire home/apt | Short-stay (<30n),5,4,80.0
+2026-06,Desert View Highlands,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Diamond Bar,Entire home/apt | Monthly (30+n),33,31,93.9
+2026-06,Diamond Bar,Entire home/apt | Short-stay (<30n),32,29,90.6
+2026-06,Diamond Bar,Private room | Monthly (30+n),19,13,68.4
+2026-06,Diamond Bar,Private room | Short-stay (<30n),24,10,41.7
+2026-06,Downey,Entire home/apt | Monthly (30+n),14,11,78.6
+2026-06,Downey,Entire home/apt | Short-stay (<30n),96,87,90.6
+2026-06,Downey,Private room | Monthly (30+n),6,5,83.3
+2026-06,Downey,Private room | Short-stay (<30n),45,41,91.1
+2026-06,Downtown,Entire home/apt | Monthly (30+n),637,552,86.7
+2026-06,Downtown,Entire home/apt | Short-stay (<30n),190,187,98.4
+2026-06,Downtown,Hotel room | Monthly (30+n),24,21,87.5
+2026-06,Downtown,Hotel room | Short-stay (<30n),24,24,100.0
+2026-06,Downtown,Private room | Monthly (30+n),69,55,79.7
+2026-06,Downtown,Private room | Short-stay (<30n),129,102,79.1
+2026-06,Downtown,Shared room | Monthly (30+n),2,2,100.0
+2026-06,Duarte,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,Duarte,Entire home/apt | Short-stay (<30n),31,24,77.4
+2026-06,Duarte,Private room | Monthly (30+n),1,1,100.0
+2026-06,Duarte,Private room | Short-stay (<30n),20,18,90.0
+2026-06,Eagle Rock,Entire home/apt | Monthly (30+n),101,82,81.2
+2026-06,Eagle Rock,Entire home/apt | Short-stay (<30n),45,42,93.3
+2026-06,Eagle Rock,Hotel room | Monthly (30+n),1,1,100.0
+2026-06,Eagle Rock,Private room | Monthly (30+n),10,7,70.0
+2026-06,Eagle Rock,Private room | Short-stay (<30n),4,3,75.0
+2026-06,East Compton,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,East Compton,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-06,East Hollywood,Entire home/apt | Monthly (30+n),194,157,80.9
+2026-06,East Hollywood,Entire home/apt | Short-stay (<30n),52,50,96.2
+2026-06,East Hollywood,Private room | Monthly (30+n),79,71,89.9
+2026-06,East Hollywood,Private room | Short-stay (<30n),16,16,100.0
+2026-06,East Hollywood,Shared room | Monthly (30+n),8,8,100.0
+2026-06,East Hollywood,Shared room | Short-stay (<30n),4,4,100.0
+2026-06,East Los Angeles,Entire home/apt | Monthly (30+n),12,10,83.3
+2026-06,East Los Angeles,Entire home/apt | Short-stay (<30n),291,276,94.8
+2026-06,East Los Angeles,Private room | Monthly (30+n),4,4,100.0
+2026-06,East Los Angeles,Private room | Short-stay (<30n),77,61,79.2
+2026-06,East Pasadena,Entire home/apt | Monthly (30+n),8,4,50.0
+2026-06,East Pasadena,Entire home/apt | Short-stay (<30n),63,59,93.7
+2026-06,East Pasadena,Private room | Short-stay (<30n),19,10,52.6
+2026-06,East San Gabriel,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-06,East San Gabriel,Entire home/apt | Short-stay (<30n),81,76,93.8
+2026-06,East San Gabriel,Private room | Monthly (30+n),8,8,100.0
+2026-06,East San Gabriel,Private room | Short-stay (<30n),45,41,91.1
+2026-06,East Whittier,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-06,East Whittier,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Echo Park,Entire home/apt | Monthly (30+n),214,164,76.6
+2026-06,Echo Park,Entire home/apt | Short-stay (<30n),75,70,93.3
+2026-06,Echo Park,Hotel room | Monthly (30+n),2,1,50.0
+2026-06,Echo Park,Hotel room | Short-stay (<30n),6,6,100.0
+2026-06,Echo Park,Private room | Monthly (30+n),49,35,71.4
+2026-06,Echo Park,Private room | Short-stay (<30n),9,9,100.0
+2026-06,El Monte,Entire home/apt | Monthly (30+n),7,7,100.0
+2026-06,El Monte,Entire home/apt | Short-stay (<30n),188,176,93.6
+2026-06,El Monte,Private room | Monthly (30+n),2,2,100.0
+2026-06,El Monte,Private room | Short-stay (<30n),127,106,83.5
+2026-06,El Monte,Shared room | Short-stay (<30n),3,3,100.0
+2026-06,El Segundo,Entire home/apt | Monthly (30+n),35,29,82.9
+2026-06,El Segundo,Entire home/apt | Short-stay (<30n),17,16,94.1
+2026-06,El Segundo,Hotel room | Short-stay (<30n),5,5,100.0
+2026-06,El Segundo,Private room | Monthly (30+n),16,14,87.5
+2026-06,El Segundo,Private room | Short-stay (<30n),51,51,100.0
+2026-06,El Sereno,Entire home/apt | Monthly (30+n),50,43,86.0
+2026-06,El Sereno,Entire home/apt | Short-stay (<30n),22,22,100.0
+2026-06,El Sereno,Private room | Monthly (30+n),22,18,81.8
+2026-06,El Sereno,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Elizabeth Lake,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Elizabeth Lake,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-06,Elysian Park,Entire home/apt | Monthly (30+n),8,7,87.5
+2026-06,Elysian Park,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-06,Elysian Park,Private room | Monthly (30+n),3,2,66.7
+2026-06,Elysian Valley,Entire home/apt | Monthly (30+n),22,18,81.8
+2026-06,Elysian Valley,Entire home/apt | Short-stay (<30n),7,7,100.0
+2026-06,Elysian Valley,Private room | Monthly (30+n),1,0,0.0
+2026-06,Elysian Valley,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Encino,Entire home/apt | Monthly (30+n),149,136,91.3
+2026-06,Encino,Entire home/apt | Short-stay (<30n),49,47,95.9
+2026-06,Encino,Private room | Monthly (30+n),22,18,81.8
+2026-06,Encino,Private room | Short-stay (<30n),9,9,100.0
+2026-06,Encino,Shared room | Monthly (30+n),12,12,100.0
+2026-06,Exposition Park,Entire home/apt | Monthly (30+n),76,66,86.8
+2026-06,Exposition Park,Entire home/apt | Short-stay (<30n),14,13,92.9
+2026-06,Exposition Park,Private room | Monthly (30+n),810,778,96.0
+2026-06,Exposition Park,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Exposition Park,Shared room | Monthly (30+n),3,3,100.0
+2026-06,Fairfax,Entire home/apt | Monthly (30+n),167,123,73.7
+2026-06,Fairfax,Entire home/apt | Short-stay (<30n),75,74,98.7
+2026-06,Fairfax,Private room | Monthly (30+n),28,16,57.1
+2026-06,Fairfax,Private room | Short-stay (<30n),7,7,100.0
+2026-06,Florence,Entire home/apt | Monthly (30+n),6,6,100.0
+2026-06,Florence,Entire home/apt | Short-stay (<30n),2,1,50.0
+2026-06,Florence,Private room | Monthly (30+n),1,1,100.0
+2026-06,Florence-Firestone,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,Florence-Firestone,Entire home/apt | Short-stay (<30n),14,13,92.9
+2026-06,Florence-Firestone,Private room | Short-stay (<30n),12,5,41.7
+2026-06,Gardena,Entire home/apt | Monthly (30+n),7,6,85.7
+2026-06,Gardena,Entire home/apt | Short-stay (<30n),64,56,87.5
+2026-06,Gardena,Private room | Monthly (30+n),13,11,84.6
+2026-06,Gardena,Private room | Short-stay (<30n),54,46,85.2
+2026-06,Glassell Park,Entire home/apt | Monthly (30+n),53,43,81.1
+2026-06,Glassell Park,Entire home/apt | Short-stay (<30n),33,31,93.9
+2026-06,Glassell Park,Private room | Monthly (30+n),13,10,76.9
+2026-06,Glassell Park,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Glendale,Entire home/apt | Monthly (30+n),162,151,93.2
+2026-06,Glendale,Entire home/apt | Short-stay (<30n),447,388,86.8
+2026-06,Glendale,Private room | Monthly (30+n),3,3,100.0
+2026-06,Glendale,Private room | Short-stay (<30n),102,87,85.3
+2026-06,Glendale,Shared room | Short-stay (<30n),4,4,100.0
+2026-06,Glendora,Entire home/apt | Monthly (30+n),10,10,100.0
+2026-06,Glendora,Entire home/apt | Short-stay (<30n),82,82,100.0
+2026-06,Glendora,Private room | Monthly (30+n),4,3,75.0
+2026-06,Glendora,Private room | Short-stay (<30n),28,26,92.9
+2026-06,Gramercy Park,Entire home/apt | Monthly (30+n),21,21,100.0
+2026-06,Gramercy Park,Entire home/apt | Short-stay (<30n),16,16,100.0
+2026-06,Gramercy Park,Private room | Monthly (30+n),6,6,100.0
+2026-06,Gramercy Park,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Granada Hills,Entire home/apt | Monthly (30+n),34,29,85.3
+2026-06,Granada Hills,Entire home/apt | Short-stay (<30n),25,24,96.0
+2026-06,Granada Hills,Private room | Monthly (30+n),4,3,75.0
+2026-06,Granada Hills,Private room | Short-stay (<30n),3,2,66.7
+2026-06,Green Meadows,Entire home/apt | Monthly (30+n),2,1,50.0
+2026-06,Green Meadows,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-06,Green Meadows,Private room | Monthly (30+n),3,2,66.7
+2026-06,Green Meadows,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Green Valley,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-06,Griffith Park,Entire home/apt | Monthly (30+n),1,0,0.0
+2026-06,Griffith Park,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-06,Hacienda Heights,Entire home/apt | Monthly (30+n),14,14,100.0
+2026-06,Hacienda Heights,Entire home/apt | Short-stay (<30n),144,133,92.4
+2026-06,Hacienda Heights,Private room | Monthly (30+n),22,19,86.4
+2026-06,Hacienda Heights,Private room | Short-stay (<30n),138,121,87.7
+2026-06,Hacienda Heights,Shared room | Monthly (30+n),2,2,100.0
+2026-06,Hancock Park,Entire home/apt | Monthly (30+n),54,50,92.6
+2026-06,Hancock Park,Entire home/apt | Short-stay (<30n),14,12,85.7
+2026-06,Hancock Park,Private room | Monthly (30+n),8,5,62.5
+2026-06,Hancock Park,Private room | Short-stay (<30n),7,7,100.0
+2026-06,Harbor City,Entire home/apt | Monthly (30+n),13,12,92.3
+2026-06,Harbor City,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Harbor City,Private room | Monthly (30+n),21,21,100.0
+2026-06,Harbor City,Private room | Short-stay (<30n),7,7,100.0
+2026-06,Harbor City,Shared room | Monthly (30+n),22,22,100.0
+2026-06,Harbor Gateway,Entire home/apt | Monthly (30+n),33,30,90.9
+2026-06,Harbor Gateway,Entire home/apt | Short-stay (<30n),10,10,100.0
+2026-06,Harbor Gateway,Private room | Monthly (30+n),21,18,85.7
+2026-06,Harbor Gateway,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Harbor Gateway,Shared room | Monthly (30+n),5,5,100.0
+2026-06,Harvard Heights,Entire home/apt | Monthly (30+n),28,21,75.0
+2026-06,Harvard Heights,Entire home/apt | Short-stay (<30n),19,17,89.5
+2026-06,Harvard Heights,Private room | Monthly (30+n),14,12,85.7
+2026-06,Harvard Heights,Private room | Short-stay (<30n),7,7,100.0
+2026-06,Harvard Park,Entire home/apt | Monthly (30+n),5,5,100.0
+2026-06,Harvard Park,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-06,Harvard Park,Private room | Monthly (30+n),4,4,100.0
+2026-06,Hasley Canyon,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,Hasley Canyon,Entire home/apt | Short-stay (<30n),3,2,66.7
+2026-06,Hawaiian Gardens,Entire home/apt | Short-stay (<30n),3,1,33.3
+2026-06,Hawaiian Gardens,Private room | Monthly (30+n),2,2,100.0
+2026-06,Hawaiian Gardens,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Hawthorne,Entire home/apt | Monthly (30+n),18,14,77.8
+2026-06,Hawthorne,Entire home/apt | Short-stay (<30n),191,173,90.6
+2026-06,Hawthorne,Private room | Monthly (30+n),5,5,100.0
+2026-06,Hawthorne,Private room | Short-stay (<30n),80,61,76.2
+2026-06,Hawthorne,Private room | Unknown,1,1,100.0
+2026-06,Hawthorne,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Hermosa Beach,Entire home/apt | Monthly (30+n),74,64,86.5
+2026-06,Hermosa Beach,Entire home/apt | Short-stay (<30n),182,167,91.8
+2026-06,Hermosa Beach,Private room | Monthly (30+n),7,6,85.7
+2026-06,Hermosa Beach,Private room | Short-stay (<30n),17,15,88.2
+2026-06,Hermosa Beach,Shared room | Short-stay (<30n),10,10,100.0
+2026-06,Hidden Hills,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Highland Park,Entire home/apt | Monthly (30+n),136,104,76.5
+2026-06,Highland Park,Entire home/apt | Short-stay (<30n),62,56,90.3
+2026-06,Highland Park,Private room | Monthly (30+n),25,22,88.0
+2026-06,Highland Park,Private room | Short-stay (<30n),8,7,87.5
+2026-06,Historic South-Central,Entire home/apt | Monthly (30+n),13,13,100.0
+2026-06,Historic South-Central,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Historic South-Central,Private room | Monthly (30+n),20,18,90.0
+2026-06,Historic South-Central,Private room | Short-stay (<30n),13,8,61.5
+2026-06,Historic South-Central,Shared room | Monthly (30+n),2,2,100.0
+2026-06,Hollywood,Entire home/apt | Monthly (30+n),890,702,78.9
+2026-06,Hollywood,Entire home/apt | Short-stay (<30n),338,328,97.0
+2026-06,Hollywood,Entire home/apt | Unknown,1,1,100.0
+2026-06,Hollywood,Hotel room | Monthly (30+n),2,2,100.0
+2026-06,Hollywood,Hotel room | Short-stay (<30n),20,20,100.0
+2026-06,Hollywood,Private room | Monthly (30+n),245,205,83.7
+2026-06,Hollywood,Private room | Short-stay (<30n),72,53,73.6
+2026-06,Hollywood,Shared room | Monthly (30+n),25,22,88.0
+2026-06,Hollywood,Shared room | Short-stay (<30n),2,2,100.0
+2026-06,Hollywood Hills,Entire home/apt | Monthly (30+n),390,313,80.3
+2026-06,Hollywood Hills,Entire home/apt | Short-stay (<30n),197,191,97.0
+2026-06,Hollywood Hills,Entire home/apt | Unknown,1,1,100.0
+2026-06,Hollywood Hills,Private room | Monthly (30+n),69,57,82.6
+2026-06,Hollywood Hills,Private room | Short-stay (<30n),28,22,78.6
+2026-06,Hollywood Hills,Shared room | Monthly (30+n),1,1,100.0
+2026-06,Hollywood Hills West,Entire home/apt | Monthly (30+n),367,326,88.8
+2026-06,Hollywood Hills West,Entire home/apt | Short-stay (<30n),250,239,95.6
+2026-06,Hollywood Hills West,Private room | Monthly (30+n),34,30,88.2
+2026-06,Hollywood Hills West,Private room | Short-stay (<30n),17,17,100.0
+2026-06,Huntington Park,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,Huntington Park,Entire home/apt | Short-stay (<30n),17,17,100.0
+2026-06,Huntington Park,Private room | Short-stay (<30n),1,0,0.0
+2026-06,Hyde Park,Entire home/apt | Monthly (30+n),87,81,93.1
+2026-06,Hyde Park,Entire home/apt | Short-stay (<30n),42,42,100.0
+2026-06,Hyde Park,Private room | Monthly (30+n),43,41,95.3
+2026-06,Hyde Park,Private room | Short-stay (<30n),10,10,100.0
+2026-06,Industry,Entire home/apt | Monthly (30+n),6,4,66.7
+2026-06,Industry,Entire home/apt | Short-stay (<30n),8,4,50.0
+2026-06,Industry,Private room | Short-stay (<30n),4,2,50.0
+2026-06,Inglewood,Entire home/apt | Monthly (30+n),262,230,87.8
+2026-06,Inglewood,Entire home/apt | Short-stay (<30n),112,110,98.2
+2026-06,Inglewood,Hotel room | Short-stay (<30n),13,12,92.3
+2026-06,Inglewood,Private room | Monthly (30+n),82,73,89.0
+2026-06,Inglewood,Private room | Short-stay (<30n),54,35,64.8
+2026-06,Inglewood,Shared room | Monthly (30+n),1,0,0.0
+2026-06,Inglewood,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Irwindale,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Irwindale,Private room | Short-stay (<30n),4,4,100.0
+2026-06,Jefferson Park,Entire home/apt | Monthly (30+n),69,60,87.0
+2026-06,Jefferson Park,Entire home/apt | Short-stay (<30n),20,20,100.0
+2026-06,Jefferson Park,Private room | Monthly (30+n),18,17,94.4
+2026-06,Jefferson Park,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Koreatown,Entire home/apt | Monthly (30+n),236,194,82.2
+2026-06,Koreatown,Entire home/apt | Short-stay (<30n),46,45,97.8
+2026-06,Koreatown,Hotel room | Short-stay (<30n),14,14,100.0
+2026-06,Koreatown,Private room | Monthly (30+n),138,123,89.1
+2026-06,Koreatown,Private room | Short-stay (<30n),37,37,100.0
+2026-06,Koreatown,Shared room | Monthly (30+n),10,10,100.0
+2026-06,Koreatown,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,La Canada Flintridge,Entire home/apt | Monthly (30+n),5,4,80.0
+2026-06,La Canada Flintridge,Entire home/apt | Short-stay (<30n),24,21,87.5
+2026-06,La Canada Flintridge,Private room | Short-stay (<30n),6,6,100.0
+2026-06,La Crescenta-Montrose,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,La Crescenta-Montrose,Entire home/apt | Short-stay (<30n),22,19,86.4
+2026-06,La Crescenta-Montrose,Private room | Monthly (30+n),1,1,100.0
+2026-06,La Crescenta-Montrose,Private room | Short-stay (<30n),7,3,42.9
+2026-06,La Habra Heights,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-06,La Habra Heights,Private room | Monthly (30+n),5,3,60.0
+2026-06,La Habra Heights,Private room | Short-stay (<30n),4,2,50.0
+2026-06,La Habra Heights,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,La Mirada,Entire home/apt | Monthly (30+n),12,9,75.0
+2026-06,La Mirada,Entire home/apt | Short-stay (<30n),6,4,66.7
+2026-06,La Mirada,Private room | Monthly (30+n),11,11,100.0
+2026-06,La Mirada,Private room | Short-stay (<30n),5,5,100.0
+2026-06,La Puente,Entire home/apt | Monthly (30+n),3,2,66.7
+2026-06,La Puente,Entire home/apt | Short-stay (<30n),22,21,95.5
+2026-06,La Puente,Private room | Short-stay (<30n),21,15,71.4
+2026-06,La Puente,Shared room | Short-stay (<30n),1,0,0.0
+2026-06,La Verne,Entire home/apt | Monthly (30+n),6,6,100.0
+2026-06,La Verne,Entire home/apt | Short-stay (<30n),15,15,100.0
+2026-06,La Verne,Private room | Monthly (30+n),13,12,92.3
+2026-06,La Verne,Private room | Short-stay (<30n),9,9,100.0
+2026-06,Ladera Heights,Entire home/apt | Monthly (30+n),7,6,85.7
+2026-06,Ladera Heights,Entire home/apt | Short-stay (<30n),46,38,82.6
+2026-06,Ladera Heights,Private room | Monthly (30+n),1,1,100.0
+2026-06,Ladera Heights,Private room | Short-stay (<30n),12,11,91.7
+2026-06,Lake Balboa,Entire home/apt | Monthly (30+n),65,59,90.8
+2026-06,Lake Balboa,Entire home/apt | Short-stay (<30n),24,24,100.0
+2026-06,Lake Balboa,Private room | Monthly (30+n),18,15,83.3
+2026-06,Lake Balboa,Private room | Short-stay (<30n),5,5,100.0
+2026-06,Lake Hughes,Entire home/apt | Short-stay (<30n),8,8,100.0
+2026-06,Lake Los Angeles,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Lake Los Angeles,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Lake View Terrace,Entire home/apt | Monthly (30+n),6,5,83.3
+2026-06,Lake View Terrace,Private room | Monthly (30+n),1,1,100.0
+2026-06,Lakewood,Entire home/apt | Monthly (30+n),16,14,87.5
+2026-06,Lakewood,Entire home/apt | Short-stay (<30n),35,33,94.3
+2026-06,Lakewood,Private room | Monthly (30+n),3,2,66.7
+2026-06,Lakewood,Private room | Short-stay (<30n),16,14,87.5
+2026-06,Lancaster,Entire home/apt | Monthly (30+n),10,8,80.0
+2026-06,Lancaster,Entire home/apt | Short-stay (<30n),175,166,94.9
+2026-06,Lancaster,Private room | Monthly (30+n),9,9,100.0
+2026-06,Lancaster,Private room | Short-stay (<30n),211,199,94.3
+2026-06,Larchmont,Entire home/apt | Monthly (30+n),45,38,84.4
+2026-06,Larchmont,Entire home/apt | Short-stay (<30n),22,19,86.4
+2026-06,Larchmont,Private room | Monthly (30+n),10,8,80.0
+2026-06,Lawndale,Entire home/apt | Monthly (30+n),10,6,60.0
+2026-06,Lawndale,Entire home/apt | Short-stay (<30n),68,61,89.7
+2026-06,Lawndale,Private room | Monthly (30+n),9,8,88.9
+2026-06,Lawndale,Private room | Short-stay (<30n),31,22,71.0
+2026-06,Leimert Park,Entire home/apt | Monthly (30+n),29,27,93.1
+2026-06,Leimert Park,Entire home/apt | Short-stay (<30n),9,9,100.0
+2026-06,Leimert Park,Private room | Monthly (30+n),11,11,100.0
+2026-06,Leimert Park,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Lennox,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-06,Lennox,Entire home/apt | Short-stay (<30n),49,44,89.8
+2026-06,Lennox,Private room | Monthly (30+n),4,4,100.0
+2026-06,Lennox,Private room | Short-stay (<30n),11,10,90.9
+2026-06,Lennox,Shared room | Short-stay (<30n),8,8,100.0
+2026-06,Leona Valley,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-06,Lincoln Heights,Entire home/apt | Monthly (30+n),29,17,58.6
+2026-06,Lincoln Heights,Entire home/apt | Short-stay (<30n),9,9,100.0
+2026-06,Lincoln Heights,Private room | Monthly (30+n),20,16,80.0
+2026-06,Lincoln Heights,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Lincoln Heights,Shared room | Monthly (30+n),11,11,100.0
+2026-06,Lomita,Entire home/apt | Monthly (30+n),3,2,66.7
+2026-06,Lomita,Entire home/apt | Short-stay (<30n),22,20,90.9
+2026-06,Lomita,Private room | Short-stay (<30n),7,7,100.0
+2026-06,Long Beach,Entire home/apt | Monthly (30+n),594,490,82.5
+2026-06,Long Beach,Entire home/apt | Short-stay (<30n),894,838,93.7
+2026-06,Long Beach,Hotel room | Short-stay (<30n),19,19,100.0
+2026-06,Long Beach,Private room | Monthly (30+n),124,97,78.2
+2026-06,Long Beach,Private room | Short-stay (<30n),206,192,93.2
+2026-06,Long Beach,Shared room | Short-stay (<30n),8,8,100.0
+2026-06,Lopez/Kagel Canyons,Entire home/apt | Short-stay (<30n),7,7,100.0
+2026-06,Los Feliz,Entire home/apt | Monthly (30+n),196,137,69.9
+2026-06,Los Feliz,Entire home/apt | Short-stay (<30n),57,56,98.2
+2026-06,Los Feliz,Private room | Monthly (30+n),17,9,52.9
+2026-06,Los Feliz,Private room | Short-stay (<30n),4,3,75.0
+2026-06,Lynwood,Entire home/apt | Short-stay (<30n),24,22,91.7
+2026-06,Lynwood,Hotel room | Short-stay (<30n),2,2,100.0
+2026-06,Lynwood,Private room | Short-stay (<30n),15,14,93.3
+2026-06,Malibu,Entire home/apt | Monthly (30+n),95,81,85.3
+2026-06,Malibu,Entire home/apt | Short-stay (<30n),292,267,91.4
+2026-06,Malibu,Private room | Monthly (30+n),11,9,81.8
+2026-06,Malibu,Private room | Short-stay (<30n),10,9,90.0
+2026-06,Manchester Square,Entire home/apt | Monthly (30+n),36,36,100.0
+2026-06,Manchester Square,Entire home/apt | Short-stay (<30n),16,16,100.0
+2026-06,Manchester Square,Private room | Monthly (30+n),4,4,100.0
+2026-06,Manchester Square,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Manhattan Beach,Entire home/apt | Monthly (30+n),137,100,73.0
+2026-06,Manhattan Beach,Entire home/apt | Short-stay (<30n),304,290,95.4
+2026-06,Manhattan Beach,Private room | Monthly (30+n),30,27,90.0
+2026-06,Manhattan Beach,Private room | Short-stay (<30n),8,6,75.0
+2026-06,Manhattan Beach,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Mar Vista,Entire home/apt | Monthly (30+n),177,133,75.1
+2026-06,Mar Vista,Entire home/apt | Short-stay (<30n),79,72,91.1
+2026-06,Mar Vista,Private room | Monthly (30+n),33,24,72.7
+2026-06,Mar Vista,Private room | Short-stay (<30n),7,7,100.0
+2026-06,Mar Vista,Private room | Unknown,1,1,100.0
+2026-06,Marina del Rey,Entire home/apt | Monthly (30+n),33,27,81.8
+2026-06,Marina del Rey,Entire home/apt | Short-stay (<30n),310,273,88.1
+2026-06,Marina del Rey,Hotel room | Short-stay (<30n),1,0,0.0
+2026-06,Marina del Rey,Private room | Monthly (30+n),7,2,28.6
+2026-06,Marina del Rey,Private room | Short-stay (<30n),19,12,63.2
+2026-06,Mayflower Village,Entire home/apt | Monthly (30+n),5,4,80.0
+2026-06,Mayflower Village,Entire home/apt | Short-stay (<30n),39,38,97.4
+2026-06,Mayflower Village,Private room | Short-stay (<30n),9,9,100.0
+2026-06,Mayflower Village,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Maywood,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Maywood,Entire home/apt | Short-stay (<30n),8,8,100.0
+2026-06,Maywood,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Mid-City,Entire home/apt | Monthly (30+n),316,269,85.1
+2026-06,Mid-City,Entire home/apt | Short-stay (<30n),93,89,95.7
+2026-06,Mid-City,Entire home/apt | Unknown,1,1,100.0
+2026-06,Mid-City,Private room | Monthly (30+n),123,114,92.7
+2026-06,Mid-City,Private room | Short-stay (<30n),33,33,100.0
+2026-06,Mid-City,Shared room | Monthly (30+n),26,26,100.0
+2026-06,Mid-Wilshire,Entire home/apt | Monthly (30+n),288,237,82.3
+2026-06,Mid-Wilshire,Entire home/apt | Short-stay (<30n),65,64,98.5
+2026-06,Mid-Wilshire,Private room | Monthly (30+n),90,72,80.0
+2026-06,Mid-Wilshire,Private room | Short-stay (<30n),12,12,100.0
+2026-06,Mid-Wilshire,Shared room | Monthly (30+n),8,8,100.0
+2026-06,Mission Hills,Entire home/apt | Monthly (30+n),11,10,90.9
+2026-06,Mission Hills,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-06,Mission Hills,Private room | Monthly (30+n),6,4,66.7
+2026-06,Monrovia,Entire home/apt | Monthly (30+n),10,9,90.0
+2026-06,Monrovia,Entire home/apt | Short-stay (<30n),157,146,93.0
+2026-06,Monrovia,Private room | Monthly (30+n),1,1,100.0
+2026-06,Monrovia,Private room | Short-stay (<30n),34,28,82.4
+2026-06,Montebello,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,Montebello,Entire home/apt | Short-stay (<30n),34,29,85.3
+2026-06,Montebello,Private room | Short-stay (<30n),15,11,73.3
+2026-06,Montecito Heights,Entire home/apt | Monthly (30+n),35,30,85.7
+2026-06,Montecito Heights,Entire home/apt | Short-stay (<30n),26,25,96.2
+2026-06,Montecito Heights,Private room | Monthly (30+n),19,14,73.7
+2026-06,Monterey Park,Entire home/apt | Monthly (30+n),10,10,100.0
+2026-06,Monterey Park,Entire home/apt | Short-stay (<30n),163,156,95.7
+2026-06,Monterey Park,Private room | Monthly (30+n),15,14,93.3
+2026-06,Monterey Park,Private room | Short-stay (<30n),124,103,83.1
+2026-06,Monterey Park,Private room | Unknown,1,1,100.0
+2026-06,Monterey Park,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Mount Washington,Entire home/apt | Monthly (30+n),62,43,69.4
+2026-06,Mount Washington,Entire home/apt | Short-stay (<30n),42,40,95.2
+2026-06,Mount Washington,Private room | Monthly (30+n),5,2,40.0
+2026-06,Mount Washington,Private room | Short-stay (<30n),9,9,100.0
+2026-06,North El Monte,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,North El Monte,Entire home/apt | Short-stay (<30n),15,14,93.3
+2026-06,North El Monte,Entire home/apt | Unknown,1,1,100.0
+2026-06,North El Monte,Private room | Monthly (30+n),1,1,100.0
+2026-06,North El Monte,Private room | Short-stay (<30n),2,2,100.0
+2026-06,North Hills,Entire home/apt | Monthly (30+n),44,39,88.6
+2026-06,North Hills,Entire home/apt | Short-stay (<30n),18,18,100.0
+2026-06,North Hills,Private room | Monthly (30+n),21,17,81.0
+2026-06,North Hills,Private room | Short-stay (<30n),2,2,100.0
+2026-06,North Hills,Shared room | Monthly (30+n),2,2,100.0
+2026-06,North Hollywood,Entire home/apt | Monthly (30+n),225,187,83.1
+2026-06,North Hollywood,Entire home/apt | Short-stay (<30n),98,96,98.0
+2026-06,North Hollywood,Private room | Monthly (30+n),93,83,89.2
+2026-06,North Hollywood,Private room | Short-stay (<30n),21,18,85.7
+2026-06,North Hollywood,Shared room | Monthly (30+n),1,1,100.0
+2026-06,North Whittier,Entire home/apt | Short-stay (<30n),4,3,75.0
+2026-06,North Whittier,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Northeast Antelope Valley,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Northeast Antelope Valley,Entire home/apt | Short-stay (<30n),13,13,100.0
+2026-06,Northridge,Entire home/apt | Monthly (30+n),82,76,92.7
+2026-06,Northridge,Entire home/apt | Short-stay (<30n),38,38,100.0
+2026-06,Northridge,Private room | Monthly (30+n),22,20,90.9
+2026-06,Northridge,Private room | Short-stay (<30n),4,4,100.0
+2026-06,Northridge,Shared room | Monthly (30+n),5,5,100.0
+2026-06,Northwest Antelope Valley,Entire home/apt | Short-stay (<30n),7,6,85.7
+2026-06,Northwest Antelope Valley,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Northwest Palmdale,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,Northwest Palmdale,Entire home/apt | Short-stay (<30n),18,17,94.4
+2026-06,Northwest Palmdale,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Norwalk,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,Norwalk,Entire home/apt | Short-stay (<30n),50,48,96.0
+2026-06,Norwalk,Hotel room | Short-stay (<30n),2,0,0.0
+2026-06,Norwalk,Private room | Monthly (30+n),2,2,100.0
+2026-06,Norwalk,Private room | Short-stay (<30n),35,32,91.4
+2026-06,Pacific Palisades,Entire home/apt | Monthly (30+n),74,59,79.7
+2026-06,Pacific Palisades,Entire home/apt | Short-stay (<30n),19,19,100.0
+2026-06,Pacific Palisades,Private room | Monthly (30+n),13,13,100.0
+2026-06,Pacific Palisades,Private room | Short-stay (<30n),10,5,50.0
+2026-06,Pacoima,Entire home/apt | Monthly (30+n),7,5,71.4
+2026-06,Pacoima,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-06,Pacoima,Private room | Monthly (30+n),6,6,100.0
+2026-06,Pacoima,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Palmdale,Entire home/apt | Monthly (30+n),7,5,71.4
+2026-06,Palmdale,Entire home/apt | Short-stay (<30n),91,87,95.6
+2026-06,Palmdale,Private room | Monthly (30+n),8,7,87.5
+2026-06,Palmdale,Private room | Short-stay (<30n),121,108,89.3
+2026-06,Palms,Entire home/apt | Monthly (30+n),164,127,77.4
+2026-06,Palms,Entire home/apt | Short-stay (<30n),25,24,96.0
+2026-06,Palms,Private room | Monthly (30+n),43,31,72.1
+2026-06,Palms,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Palos Verdes Estates,Entire home/apt | Monthly (30+n),6,5,83.3
+2026-06,Palos Verdes Estates,Entire home/apt | Short-stay (<30n),11,11,100.0
+2026-06,Palos Verdes Estates,Private room | Monthly (30+n),2,2,100.0
+2026-06,Palos Verdes Estates,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Panorama City,Entire home/apt | Monthly (30+n),30,26,86.7
+2026-06,Panorama City,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-06,Panorama City,Private room | Monthly (30+n),13,12,92.3
+2026-06,Panorama City,Private room | Short-stay (<30n),4,1,25.0
+2026-06,Paramount,Entire home/apt | Monthly (30+n),2,1,50.0
+2026-06,Paramount,Entire home/apt | Short-stay (<30n),12,12,100.0
+2026-06,Paramount,Private room | Monthly (30+n),1,1,100.0
+2026-06,Paramount,Private room | Short-stay (<30n),11,8,72.7
+2026-06,Pasadena,Entire home/apt | Monthly (30+n),157,122,77.7
+2026-06,Pasadena,Entire home/apt | Short-stay (<30n),474,423,89.2
+2026-06,Pasadena,Hotel room | Short-stay (<30n),26,26,100.0
+2026-06,Pasadena,Private room | Monthly (30+n),22,19,86.4
+2026-06,Pasadena,Private room | Short-stay (<30n),120,105,87.5
+2026-06,Pasadena,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Pico Rivera,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,Pico Rivera,Entire home/apt | Short-stay (<30n),45,43,95.6
+2026-06,Pico Rivera,Private room | Short-stay (<30n),6,5,83.3
+2026-06,Pico-Robertson,Entire home/apt | Monthly (30+n),144,130,90.3
+2026-06,Pico-Robertson,Entire home/apt | Short-stay (<30n),54,51,94.4
+2026-06,Pico-Robertson,Hotel room | Short-stay (<30n),10,10,100.0
+2026-06,Pico-Robertson,Private room | Monthly (30+n),44,38,86.4
+2026-06,Pico-Robertson,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Pico-Union,Entire home/apt | Monthly (30+n),45,40,88.9
+2026-06,Pico-Union,Entire home/apt | Short-stay (<30n),20,20,100.0
+2026-06,Pico-Union,Private room | Monthly (30+n),103,79,76.7
+2026-06,Pico-Union,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Pico-Union,Shared room | Monthly (30+n),1,1,100.0
+2026-06,Playa Vista,Entire home/apt | Monthly (30+n),73,25,34.2
+2026-06,Playa Vista,Entire home/apt | Short-stay (<30n),20,19,95.0
+2026-06,Playa Vista,Private room | Monthly (30+n),4,2,50.0
+2026-06,Playa Vista,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Playa del Rey,Entire home/apt | Monthly (30+n),70,53,75.7
+2026-06,Playa del Rey,Entire home/apt | Short-stay (<30n),20,18,90.0
+2026-06,Playa del Rey,Private room | Monthly (30+n),7,4,57.1
+2026-06,Playa del Rey,Private room | Short-stay (<30n),9,9,100.0
+2026-06,Pomona,Entire home/apt | Monthly (30+n),13,12,92.3
+2026-06,Pomona,Entire home/apt | Short-stay (<30n),84,79,94.0
+2026-06,Pomona,Private room | Monthly (30+n),20,16,80.0
+2026-06,Pomona,Private room | Short-stay (<30n),50,41,82.0
+2026-06,Porter Ranch,Entire home/apt | Monthly (30+n),17,13,76.5
+2026-06,Porter Ranch,Entire home/apt | Short-stay (<30n),10,10,100.0
+2026-06,Porter Ranch,Private room | Monthly (30+n),5,5,100.0
+2026-06,Quartz Hill,Entire home/apt | Monthly (30+n),2,1,50.0
+2026-06,Quartz Hill,Entire home/apt | Short-stay (<30n),30,29,96.7
+2026-06,Quartz Hill,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Quartz Hill,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Rancho Dominguez,Private room | Short-stay (<30n),1,0,0.0
+2026-06,Rancho Palos Verdes,Entire home/apt | Monthly (30+n),32,30,93.8
+2026-06,Rancho Palos Verdes,Entire home/apt | Short-stay (<30n),53,29,54.7
+2026-06,Rancho Palos Verdes,Private room | Monthly (30+n),18,16,88.9
+2026-06,Rancho Palos Verdes,Private room | Short-stay (<30n),14,11,78.6
+2026-06,Rancho Palos Verdes,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Rancho Park,Entire home/apt | Monthly (30+n),18,15,83.3
+2026-06,Rancho Park,Entire home/apt | Short-stay (<30n),11,11,100.0
+2026-06,Rancho Park,Private room | Monthly (30+n),12,9,75.0
+2026-06,Rancho Park,Private room | Short-stay (<30n),6,6,100.0
+2026-06,Redondo Beach,Entire home/apt | Monthly (30+n),88,71,80.7
+2026-06,Redondo Beach,Entire home/apt | Short-stay (<30n),209,185,88.5
+2026-06,Redondo Beach,Hotel room | Short-stay (<30n),18,16,88.9
+2026-06,Redondo Beach,Private room | Monthly (30+n),35,29,82.9
+2026-06,Redondo Beach,Private room | Short-stay (<30n),87,73,83.9
+2026-06,Redondo Beach,Shared room | Short-stay (<30n),4,4,100.0
+2026-06,Reseda,Entire home/apt | Monthly (30+n),121,112,92.6
+2026-06,Reseda,Entire home/apt | Short-stay (<30n),23,23,100.0
+2026-06,Reseda,Private room | Monthly (30+n),30,28,93.3
+2026-06,Reseda,Private room | Short-stay (<30n),5,5,100.0
+2026-06,Reseda,Shared room | Monthly (30+n),2,1,50.0
+2026-06,Ridge Route,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-06,Ridge Route,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Ridge Route,Shared room | Short-stay (<30n),3,3,100.0
+2026-06,Rolling Hills,Entire home/apt | Monthly (30+n),1,0,0.0
+2026-06,Rolling Hills,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-06,Rolling Hills,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Rolling Hills Estates,Entire home/apt | Monthly (30+n),10,8,80.0
+2026-06,Rolling Hills Estates,Entire home/apt | Short-stay (<30n),7,6,85.7
+2026-06,Rolling Hills Estates,Private room | Short-stay (<30n),4,4,100.0
+2026-06,Rosemead,Entire home/apt | Monthly (30+n),13,13,100.0
+2026-06,Rosemead,Entire home/apt | Short-stay (<30n),40,35,87.5
+2026-06,Rosemead,Private room | Monthly (30+n),14,13,92.9
+2026-06,Rosemead,Private room | Short-stay (<30n),36,30,83.3
+2026-06,Rowland Heights,Entire home/apt | Monthly (30+n),25,22,88.0
+2026-06,Rowland Heights,Entire home/apt | Short-stay (<30n),203,185,91.1
+2026-06,Rowland Heights,Hotel room | Short-stay (<30n),3,0,0.0
+2026-06,Rowland Heights,Private room | Monthly (30+n),35,30,85.7
+2026-06,Rowland Heights,Private room | Short-stay (<30n),235,179,76.2
+2026-06,San Dimas,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,San Dimas,Entire home/apt | Short-stay (<30n),27,24,88.9
+2026-06,San Dimas,Private room | Monthly (30+n),3,3,100.0
+2026-06,San Dimas,Private room | Short-stay (<30n),23,20,87.0
+2026-06,San Fernando,Entire home/apt | Short-stay (<30n),30,30,100.0
+2026-06,San Fernando,Private room | Short-stay (<30n),10,10,100.0
+2026-06,San Gabriel,Entire home/apt | Monthly (30+n),6,5,83.3
+2026-06,San Gabriel,Entire home/apt | Short-stay (<30n),122,114,93.4
+2026-06,San Gabriel,Private room | Monthly (30+n),4,2,50.0
+2026-06,San Gabriel,Private room | Short-stay (<30n),97,86,88.7
+2026-06,San Marino,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,San Marino,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,San Marino,Private room | Short-stay (<30n),5,3,60.0
+2026-06,San Pasqual,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-06,San Pasqual,Entire home/apt | Short-stay (<30n),14,14,100.0
+2026-06,San Pasqual,Private room | Monthly (30+n),1,1,100.0
+2026-06,San Pasqual,Private room | Short-stay (<30n),4,2,50.0
+2026-06,San Pedro,Entire home/apt | Monthly (30+n),102,88,86.3
+2026-06,San Pedro,Entire home/apt | Short-stay (<30n),36,35,97.2
+2026-06,San Pedro,Private room | Monthly (30+n),21,19,90.5
+2026-06,San Pedro,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Santa Clarita,Entire home/apt | Monthly (30+n),26,24,92.3
+2026-06,Santa Clarita,Entire home/apt | Short-stay (<30n),184,160,87.0
+2026-06,Santa Clarita,Private room | Monthly (30+n),5,4,80.0
+2026-06,Santa Clarita,Private room | Short-stay (<30n),115,92,80.0
+2026-06,Santa Clarita,Shared room | Short-stay (<30n),8,7,87.5
+2026-06,Santa Fe Springs,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,Santa Fe Springs,Entire home/apt | Short-stay (<30n),8,8,100.0
+2026-06,Santa Fe Springs,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Santa Monica,Entire home/apt | Monthly (30+n),382,298,78.0
+2026-06,Santa Monica,Entire home/apt | Short-stay (<30n),567,526,92.8
+2026-06,Santa Monica,Hotel room | Monthly (30+n),1,1,100.0
+2026-06,Santa Monica,Hotel room | Short-stay (<30n),20,20,100.0
+2026-06,Santa Monica,Private room | Monthly (30+n),50,41,82.0
+2026-06,Santa Monica,Private room | Short-stay (<30n),185,154,83.2
+2026-06,Santa Monica,Shared room | Short-stay (<30n),2,1,50.0
+2026-06,Sawtelle,Entire home/apt | Monthly (30+n),154,109,70.8
+2026-06,Sawtelle,Entire home/apt | Short-stay (<30n),45,44,97.8
+2026-06,Sawtelle,Private room | Monthly (30+n),106,87,82.1
+2026-06,Sawtelle,Private room | Short-stay (<30n),7,6,85.7
+2026-06,Sawtelle,Shared room | Monthly (30+n),11,10,90.9
+2026-06,Sepulveda Basin,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Sepulveda Basin,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Sepulveda Basin,Private room | Monthly (30+n),2,2,100.0
+2026-06,Shadow Hills,Entire home/apt | Monthly (30+n),22,16,72.7
+2026-06,Shadow Hills,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Shadow Hills,Private room | Monthly (30+n),8,7,87.5
+2026-06,Shadow Hills,Private room | Short-stay (<30n),3,3,100.0
+2026-06,Sherman Oaks,Entire home/apt | Monthly (30+n),295,261,88.5
+2026-06,Sherman Oaks,Entire home/apt | Short-stay (<30n),130,127,97.7
+2026-06,Sherman Oaks,Private room | Monthly (30+n),63,48,76.2
+2026-06,Sherman Oaks,Private room | Short-stay (<30n),11,11,100.0
+2026-06,Sherman Oaks,Shared room | Monthly (30+n),2,1,50.0
+2026-06,Sierra Madre,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Sierra Madre,Entire home/apt | Short-stay (<30n),27,25,92.6
+2026-06,Sierra Madre,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Signal Hill,Entire home/apt | Monthly (30+n),7,6,85.7
+2026-06,Signal Hill,Entire home/apt | Short-stay (<30n),23,17,73.9
+2026-06,Signal Hill,Private room | Monthly (30+n),3,2,66.7
+2026-06,Signal Hill,Private room | Short-stay (<30n),10,8,80.0
+2026-06,Silver Lake,Entire home/apt | Monthly (30+n),305,235,77.0
+2026-06,Silver Lake,Entire home/apt | Short-stay (<30n),116,112,96.6
+2026-06,Silver Lake,Private room | Monthly (30+n),32,18,56.2
+2026-06,Silver Lake,Private room | Short-stay (<30n),19,13,68.4
+2026-06,South El Monte,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,South El Monte,Entire home/apt | Short-stay (<30n),30,30,100.0
+2026-06,South El Monte,Private room | Monthly (30+n),2,2,100.0
+2026-06,South El Monte,Private room | Short-stay (<30n),13,12,92.3
+2026-06,South Gate,Entire home/apt | Short-stay (<30n),46,43,93.5
+2026-06,South Gate,Private room | Monthly (30+n),2,0,0.0
+2026-06,South Gate,Private room | Short-stay (<30n),2,2,100.0
+2026-06,South Park,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-06,South Park,Private room | Monthly (30+n),15,15,100.0
+2026-06,South Pasadena,Entire home/apt | Monthly (30+n),11,8,72.7
+2026-06,South Pasadena,Entire home/apt | Short-stay (<30n),77,68,88.3
+2026-06,South Pasadena,Hotel room | Short-stay (<30n),1,1,100.0
+2026-06,South Pasadena,Private room | Monthly (30+n),1,1,100.0
+2026-06,South Pasadena,Private room | Short-stay (<30n),13,12,92.3
+2026-06,South San Gabriel,Entire home/apt | Monthly (30+n),5,4,80.0
+2026-06,South San Gabriel,Entire home/apt | Short-stay (<30n),40,39,97.5
+2026-06,South San Gabriel,Private room | Short-stay (<30n),13,13,100.0
+2026-06,South San Jose Hills,Entire home/apt | Monthly (30+n),3,2,66.7
+2026-06,South San Jose Hills,Entire home/apt | Short-stay (<30n),16,14,87.5
+2026-06,South San Jose Hills,Private room | Monthly (30+n),7,7,100.0
+2026-06,South San Jose Hills,Private room | Short-stay (<30n),1,0,0.0
+2026-06,South Whittier,Entire home/apt | Monthly (30+n),6,6,100.0
+2026-06,South Whittier,Entire home/apt | Short-stay (<30n),33,32,97.0
+2026-06,South Whittier,Private room | Short-stay (<30n),6,5,83.3
+2026-06,Southeast Antelope Valley,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,Southeast Antelope Valley,Entire home/apt | Short-stay (<30n),25,25,100.0
+2026-06,Southeast Antelope Valley,Private room | Short-stay (<30n),10,9,90.0
+2026-06,Stevenson Ranch,Entire home/apt | Monthly (30+n),7,7,100.0
+2026-06,Stevenson Ranch,Entire home/apt | Short-stay (<30n),10,8,80.0
+2026-06,Stevenson Ranch,Private room | Short-stay (<30n),4,4,100.0
+2026-06,Studio City,Entire home/apt | Monthly (30+n),226,189,83.6
+2026-06,Studio City,Entire home/apt | Short-stay (<30n),102,99,97.1
+2026-06,Studio City,Private room | Monthly (30+n),21,13,61.9
+2026-06,Studio City,Private room | Short-stay (<30n),25,25,100.0
+2026-06,Sun Valley,Entire home/apt | Monthly (30+n),60,52,86.7
+2026-06,Sun Valley,Entire home/apt | Short-stay (<30n),19,17,89.5
+2026-06,Sun Valley,Private room | Monthly (30+n),23,22,95.7
+2026-06,Sun Valley,Private room | Short-stay (<30n),6,6,100.0
+2026-06,Sun Valley,Shared room | Monthly (30+n),1,1,100.0
+2026-06,Sun Village,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Sunland,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-06,Sunland,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-06,Sunland,Private room | Monthly (30+n),1,1,100.0
+2026-06,Sylmar,Entire home/apt | Monthly (30+n),25,23,92.0
+2026-06,Sylmar,Entire home/apt | Short-stay (<30n),12,12,100.0
+2026-06,Sylmar,Private room | Monthly (30+n),11,11,100.0
+2026-06,Sylmar,Private room | Short-stay (<30n),2,2,100.0
+2026-06,Sylmar,Shared room | Monthly (30+n),1,1,100.0
+2026-06,Tarzana,Entire home/apt | Monthly (30+n),104,91,87.5
+2026-06,Tarzana,Entire home/apt | Short-stay (<30n),56,53,94.6
+2026-06,Tarzana,Private room | Monthly (30+n),28,25,89.3
+2026-06,Tarzana,Private room | Short-stay (<30n),9,9,100.0
+2026-06,Temple City,Entire home/apt | Monthly (30+n),21,18,85.7
+2026-06,Temple City,Entire home/apt | Short-stay (<30n),74,66,89.2
+2026-06,Temple City,Private room | Monthly (30+n),7,4,57.1
+2026-06,Temple City,Private room | Short-stay (<30n),53,40,75.5
+2026-06,Toluca Lake,Entire home/apt | Monthly (30+n),37,30,81.1
+2026-06,Toluca Lake,Entire home/apt | Short-stay (<30n),30,30,100.0
+2026-06,Toluca Lake,Private room | Monthly (30+n),10,9,90.0
+2026-06,Toluca Lake,Private room | Short-stay (<30n),6,6,100.0
+2026-06,Topanga,Entire home/apt | Monthly (30+n),8,7,87.5
+2026-06,Topanga,Entire home/apt | Short-stay (<30n),334,300,89.8
+2026-06,Topanga,Private room | Short-stay (<30n),18,12,66.7
+2026-06,Topanga,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,Torrance,Entire home/apt | Monthly (30+n),57,39,68.4
+2026-06,Torrance,Entire home/apt | Short-stay (<30n),155,135,87.1
+2026-06,Torrance,Hotel room | Short-stay (<30n),27,25,92.6
+2026-06,Torrance,Private room | Monthly (30+n),19,17,89.5
+2026-06,Torrance,Private room | Short-stay (<30n),108,98,90.7
+2026-06,Tujunga,Entire home/apt | Monthly (30+n),19,18,94.7
+2026-06,Tujunga,Entire home/apt | Short-stay (<30n),10,8,80.0
+2026-06,Tujunga,Private room | Monthly (30+n),7,7,100.0
+2026-06,Tujunga,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Tujunga Canyons,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Tujunga Canyons,Entire home/apt | Short-stay (<30n),15,12,80.0
+2026-06,Tujunga Canyons,Private room | Short-stay (<30n),3,2,66.7
+2026-06,Unincorporated Catalina Island,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-06,Unincorporated Catalina Island,Private room | Short-stay (<30n),5,3,60.0
+2026-06,Unincorporated Santa Monica Mountains,Entire home/apt | Monthly (30+n),12,10,83.3
+2026-06,Unincorporated Santa Monica Mountains,Entire home/apt | Short-stay (<30n),173,151,87.3
+2026-06,Unincorporated Santa Monica Mountains,Private room | Short-stay (<30n),10,8,80.0
+2026-06,Unincorporated Santa Susana Mountains,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-06,Unincorporated Santa Susana Mountains,Entire home/apt | Short-stay (<30n),22,20,90.9
+2026-06,Unincorporated Santa Susana Mountains,Hotel room | Short-stay (<30n),14,14,100.0
+2026-06,Unincorporated Santa Susana Mountains,Private room | Short-stay (<30n),9,6,66.7
+2026-06,Universal City,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,Universal City,Entire home/apt | Short-stay (<30n),36,35,97.2
+2026-06,Universal City,Private room | Short-stay (<30n),1,1,100.0
+2026-06,University Park,Entire home/apt | Monthly (30+n),18,14,77.8
+2026-06,University Park,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-06,University Park,Private room | Monthly (30+n),37,28,75.7
+2026-06,University Park,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Val Verde,Entire home/apt | Short-stay (<30n),3,1,33.3
+2026-06,Valinda,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Valinda,Entire home/apt | Short-stay (<30n),32,29,90.6
+2026-06,Valinda,Private room | Short-stay (<30n),12,8,66.7
+2026-06,Valley Glen,Entire home/apt | Monthly (30+n),110,97,88.2
+2026-06,Valley Glen,Entire home/apt | Short-stay (<30n),60,57,95.0
+2026-06,Valley Glen,Private room | Monthly (30+n),34,26,76.5
+2026-06,Valley Glen,Private room | Short-stay (<30n),8,7,87.5
+2026-06,Valley Village,Entire home/apt | Monthly (30+n),93,84,90.3
+2026-06,Valley Village,Entire home/apt | Short-stay (<30n),35,35,100.0
+2026-06,Valley Village,Private room | Monthly (30+n),13,7,53.8
+2026-06,Valley Village,Private room | Short-stay (<30n),11,11,100.0
+2026-06,Valley Village,Shared room | Monthly (30+n),1,0,0.0
+2026-06,Van Nuys,Entire home/apt | Monthly (30+n),121,106,87.6
+2026-06,Van Nuys,Entire home/apt | Short-stay (<30n),47,44,93.6
+2026-06,Van Nuys,Private room | Monthly (30+n),32,24,75.0
+2026-06,Van Nuys,Private room | Short-stay (<30n),8,8,100.0
+2026-06,Venice,Entire home/apt | Monthly (30+n),933,728,78.0
+2026-06,Venice,Entire home/apt | Short-stay (<30n),405,377,93.1
+2026-06,Venice,Hotel room | Short-stay (<30n),38,38,100.0
+2026-06,Venice,Private room | Monthly (30+n),92,62,67.4
+2026-06,Venice,Private room | Short-stay (<30n),62,49,79.0
+2026-06,Venice,Shared room | Monthly (30+n),5,5,100.0
+2026-06,Vermont Knolls,Entire home/apt | Monthly (30+n),8,8,100.0
+2026-06,Vermont Knolls,Entire home/apt | Short-stay (<30n),5,5,100.0
+2026-06,Vermont Knolls,Private room | Monthly (30+n),9,7,77.8
+2026-06,Vermont Knolls,Shared room | Monthly (30+n),1,1,100.0
+2026-06,Vermont Square,Entire home/apt | Monthly (30+n),45,43,95.6
+2026-06,Vermont Square,Entire home/apt | Short-stay (<30n),31,31,100.0
+2026-06,Vermont Square,Private room | Monthly (30+n),51,49,96.1
+2026-06,Vermont Square,Private room | Short-stay (<30n),11,10,90.9
+2026-06,Vermont Vista,Entire home/apt | Monthly (30+n),12,12,100.0
+2026-06,Vermont Vista,Entire home/apt | Short-stay (<30n),6,6,100.0
+2026-06,Vermont Vista,Private room | Monthly (30+n),16,16,100.0
+2026-06,Vermont-Slauson,Entire home/apt | Monthly (30+n),9,8,88.9
+2026-06,Vermont-Slauson,Entire home/apt | Short-stay (<30n),4,4,100.0
+2026-06,Vermont-Slauson,Private room | Monthly (30+n),11,3,27.3
+2026-06,Vernon,Entire home/apt | Short-stay (<30n),152,132,86.8
+2026-06,Vernon,Private room | Monthly (30+n),1,1,100.0
+2026-06,Vernon,Private room | Short-stay (<30n),29,26,89.7
+2026-06,Vernon,Shared room | Short-stay (<30n),16,16,100.0
+2026-06,Veterans Administration,Entire home/apt | Monthly (30+n),3,1,33.3
+2026-06,Veterans Administration,Entire home/apt | Short-stay (<30n),51,49,96.1
+2026-06,Veterans Administration,Private room | Monthly (30+n),1,1,100.0
+2026-06,View Park-Windsor Hills,Entire home/apt | Monthly (30+n),20,16,80.0
+2026-06,View Park-Windsor Hills,Entire home/apt | Short-stay (<30n),144,131,91.0
+2026-06,View Park-Windsor Hills,Private room | Monthly (30+n),7,7,100.0
+2026-06,View Park-Windsor Hills,Private room | Short-stay (<30n),29,27,93.1
+2026-06,Vincent,Entire home/apt | Monthly (30+n),4,4,100.0
+2026-06,Vincent,Entire home/apt | Short-stay (<30n),7,7,100.0
+2026-06,Vincent,Private room | Short-stay (<30n),1,0,0.0
+2026-06,Walnut,Entire home/apt | Monthly (30+n),9,8,88.9
+2026-06,Walnut,Entire home/apt | Short-stay (<30n),22,21,95.5
+2026-06,Walnut,Private room | Monthly (30+n),9,8,88.9
+2026-06,Walnut,Private room | Short-stay (<30n),47,30,63.8
+2026-06,Walnut Park,Entire home/apt | Short-stay (<30n),2,2,100.0
+2026-06,Watts,Entire home/apt | Monthly (30+n),3,2,66.7
+2026-06,Watts,Entire home/apt | Short-stay (<30n),1,1,100.0
+2026-06,Watts,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Watts,Shared room | Monthly (30+n),8,8,100.0
+2026-06,West Adams,Entire home/apt | Monthly (30+n),86,73,84.9
+2026-06,West Adams,Entire home/apt | Short-stay (<30n),30,29,96.7
+2026-06,West Adams,Private room | Monthly (30+n),16,11,68.8
+2026-06,West Adams,Private room | Short-stay (<30n),8,8,100.0
+2026-06,West Carson,Entire home/apt | Monthly (30+n),6,4,66.7
+2026-06,West Carson,Entire home/apt | Short-stay (<30n),29,23,79.3
+2026-06,West Carson,Private room | Monthly (30+n),1,1,100.0
+2026-06,West Carson,Private room | Short-stay (<30n),17,16,94.1
+2026-06,West Compton,Entire home/apt | Short-stay (<30n),5,4,80.0
+2026-06,West Compton,Private room | Short-stay (<30n),5,4,80.0
+2026-06,West Covina,Entire home/apt | Monthly (30+n),21,17,81.0
+2026-06,West Covina,Entire home/apt | Short-stay (<30n),138,128,92.8
+2026-06,West Covina,Private room | Monthly (30+n),6,3,50.0
+2026-06,West Covina,Private room | Short-stay (<30n),87,75,86.2
+2026-06,West Covina,Shared room | Short-stay (<30n),1,1,100.0
+2026-06,West Hills,Entire home/apt | Monthly (30+n),101,84,83.2
+2026-06,West Hills,Entire home/apt | Short-stay (<30n),45,43,95.6
+2026-06,West Hills,Private room | Monthly (30+n),30,29,96.7
+2026-06,West Hills,Private room | Short-stay (<30n),4,3,75.0
+2026-06,West Hollywood,Entire home/apt | Monthly (30+n),332,254,76.5
+2026-06,West Hollywood,Entire home/apt | Short-stay (<30n),700,676,96.6
+2026-06,West Hollywood,Hotel room | Short-stay (<30n),73,73,100.0
+2026-06,West Hollywood,Private room | Monthly (30+n),54,37,68.5
+2026-06,West Hollywood,Private room | Short-stay (<30n),102,91,89.2
+2026-06,West Hollywood,Shared room | Short-stay (<30n),3,3,100.0
+2026-06,West Los Angeles,Entire home/apt | Monthly (30+n),103,89,86.4
+2026-06,West Los Angeles,Entire home/apt | Short-stay (<30n),24,23,95.8
+2026-06,West Los Angeles,Private room | Monthly (30+n),52,48,92.3
+2026-06,West Los Angeles,Private room | Short-stay (<30n),5,5,100.0
+2026-06,West Puente Valley,Entire home/apt | Monthly (30+n),2,2,100.0
+2026-06,West Puente Valley,Entire home/apt | Short-stay (<30n),9,8,88.9
+2026-06,West Puente Valley,Private room | Monthly (30+n),1,1,100.0
+2026-06,West Puente Valley,Private room | Short-stay (<30n),2,1,50.0
+2026-06,West Whittier-Los Nietos,Entire home/apt | Monthly (30+n),3,3,100.0
+2026-06,West Whittier-Los Nietos,Entire home/apt | Short-stay (<30n),17,14,82.4
+2026-06,West Whittier-Los Nietos,Private room | Short-stay (<30n),7,5,71.4
+2026-06,Westchester,Entire home/apt | Monthly (30+n),127,110,86.6
+2026-06,Westchester,Entire home/apt | Short-stay (<30n),69,59,85.5
+2026-06,Westchester,Hotel room | Short-stay (<30n),15,15,100.0
+2026-06,Westchester,Private room | Monthly (30+n),31,26,83.9
+2026-06,Westchester,Private room | Short-stay (<30n),17,10,58.8
+2026-06,Westlake,Entire home/apt | Monthly (30+n),227,187,82.4
+2026-06,Westlake,Entire home/apt | Short-stay (<30n),42,41,97.6
+2026-06,Westlake,Private room | Monthly (30+n),85,73,85.9
+2026-06,Westlake,Private room | Short-stay (<30n),18,13,72.2
+2026-06,Westlake,Shared room | Monthly (30+n),7,7,100.0
+2026-06,Westlake Village,Entire home/apt | Monthly (30+n),1,1,100.0
+2026-06,Westlake Village,Entire home/apt | Short-stay (<30n),9,8,88.9
+2026-06,Westlake Village,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Westmont,Entire home/apt | Monthly (30+n),9,6,66.7
+2026-06,Westmont,Entire home/apt | Short-stay (<30n),82,78,95.1
+2026-06,Westmont,Private room | Short-stay (<30n),7,5,71.4
+2026-06,Westwood,Entire home/apt | Monthly (30+n),213,171,80.3
+2026-06,Westwood,Entire home/apt | Short-stay (<30n),16,16,100.0
+2026-06,Westwood,Private room | Monthly (30+n),244,229,93.9
+2026-06,Westwood,Private room | Short-stay (<30n),21,13,61.9
+2026-06,Westwood,Shared room | Monthly (30+n),2,1,50.0
+2026-06,Whittier,Entire home/apt | Monthly (30+n),4,3,75.0
+2026-06,Whittier,Entire home/apt | Short-stay (<30n),90,77,85.6
+2026-06,Whittier,Private room | Monthly (30+n),4,4,100.0
+2026-06,Whittier,Private room | Short-stay (<30n),30,26,86.7
+2026-06,Willowbrook,Entire home/apt | Short-stay (<30n),19,16,84.2
+2026-06,Willowbrook,Private room | Short-stay (<30n),21,19,90.5
+2026-06,Wilmington,Entire home/apt | Monthly (30+n),8,8,100.0
+2026-06,Wilmington,Entire home/apt | Short-stay (<30n),3,3,100.0
+2026-06,Wilmington,Hotel room | Monthly (30+n),1,1,100.0
+2026-06,Wilmington,Private room | Monthly (30+n),3,3,100.0
+2026-06,Windsor Square,Entire home/apt | Monthly (30+n),10,9,90.0
+2026-06,Windsor Square,Entire home/apt | Short-stay (<30n),6,5,83.3
+2026-06,Windsor Square,Private room | Monthly (30+n),3,3,100.0
+2026-06,Windsor Square,Private room | Short-stay (<30n),1,1,100.0
+2026-06,Winnetka,Entire home/apt | Monthly (30+n),59,56,94.9
+2026-06,Winnetka,Entire home/apt | Short-stay (<30n),24,22,91.7
+2026-06,Winnetka,Private room | Monthly (30+n),32,27,84.4
+2026-06,Winnetka,Private room | Short-stay (<30n),15,15,100.0
+2026-06,Woodland Hills,Entire home/apt | Monthly (30+n),297,263,88.6
+2026-06,Woodland Hills,Entire home/apt | Short-stay (<30n),118,113,95.8
+2026-06,Woodland Hills,Private room | Monthly (30+n),84,73,86.9
+2026-06,Woodland Hills,Private room | Short-stay (<30n),8,8,100.0
+2026-06,Woodland Hills,Shared room | Monthly (30+n),1,1,100.0

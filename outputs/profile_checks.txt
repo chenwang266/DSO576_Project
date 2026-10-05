@@ -1,0 +1,337 @@
+
+######## 2026-03 ########
+price values not matching ^\$[\d,]+\.\d\d$: 0
+price numeric: min 3.31 max 20583.33 | <=0: 0 | <10: 25 | >=5000: 125 | >=10000: 19
+price quantiles: {0.001: 12.43, 0.01: 32.89, 0.05: 52.56, 0.25: 112.77, 0.5: 205.41, 0.75: 363.0, 0.95: 1053.83, 0.99: 2663.55, 0.999: 7983.23}
+price vs quote_per_night: both present 37175 | abs diff >0.01: 0 | price missing but quote present: 0 | price present quote missing: 3
+price missing by source:
+ price            False  True    All
+source                             
+city scrape      34627  1182  35809
+previous scrape   2551  7728  10279
+All              37178  8910  46088
+price missing by has_availability:
+ price             False  True 
+has_availability              
+                     25   3549
+f                   290     40
+t                 36863   5321
+price missing by room_type (% missing):
+ room_type
+Entire home/apt    0.172
+Hotel room         0.094
+Private room       0.252
+Shared room        0.297
+Name: price, dtype: float64
+price missing vs estimated_revenue missing agree: True
+avail_30 median price-missing vs present: 0.0 18.0 | reviews_ltm median: 0.0 2.0
+quote currency: {'USD': 33006, nan: 8088, 'null': 4994}
+minimum_nights: ==2147483647: 0  >1125: 0  null: 7
+maximum_nights: ==2147483647: 2  >1125: 6  null: 7
+maximum_maximum_nights: ==2147483647: 2  >1125: 6  null: 7
+minimum_maximum_nights: ==2147483647: 1  >1125: 5  null: 7
+maximum_nights_avg_ntm: ==2147483647: 1  >1125: 6  null: 0
+minimum_nights dist: 1-29: 23495  >=30: 22586  >365: 23
+minimum_nights > maximum_nights: 0
+ltm>total: 0  l30d>ltm: 0  ly>total: 0
+rating null & reviews==0: 12519  rating null & reviews>0: 0  rating present & reviews==0: 0
+rating == 0: 1  rating<1: 1 | example reviews for rating==0: [1]
+first_review>last_review: 0  last_review>last_scraped: 0  first_review range: 2009-05-26 00:00:00 2026-03-16 00:00:00  parse fails: 0
+a30<=a60<=a90<=a365 violations: 0
+occupancy dist: ==0: 22172  ==255: 3179  max: 255 | occupancy>0 & reviews_ltm==0: 0
+revenue == occ*price agree (within $1): 1.0
+calc_host_count != entire+private+shared: 417
+host_listings_count == 0: 8
+bedrooms: ==0 2570  null 3196  max 24.0
+beds: ==0 741  null 10439  max 50.0
+bathrooms: ==0 136  null 10288  max 32.5
+bathrooms vs bathrooms_text numeric: both 35626  disagree 2  bathrooms null but text has number: 10179  half-bath text: 181
+bathrooms_text values w/o leading number: {'Half-bath': 69, 'Shared half-bath': 60, 'Private half-bath': 52}
+accommodates==0: 0  bedrooms>accommodates: 235
+lat range 33.33854 34.81118  lon range -118.91713383961329 -117.65229
+neighbourhood_cleansed: lead/trail ws 0  double-space 0  control chars 0  case-variant groups 0
+property_type: lead/trail ws 0  double-space 0  control chars 0  case-variant groups 0
+room_type: lead/trail ws 0  double-space 0  control chars 0  case-variant groups 0
+neighbourhood_group_cleansed: lead/trail ws 0  double-space 0  control chars 0  case-variant groups 0
+host_name: lead/trail ws 0  double-space 7  control chars 0  case-variant groups 16
+name: lead/trail ws 28  double-space 1007  control chars 11  case-variant groups 175
+empty-or-constant columns: {'scrape_id': '20260316030553', 'neighborhood_overview': '', 'host_since': '', 'host_response_time': '', 'host_response_rate': '', 'host_acceptance_rate': '', 'host_thumbnail_url': '', 'host_neighbourhood': '', 'host_total_listings_count': '', 'host_verifications': 'None', 'neighbourhood': '', 'calendar_updated': '', 'instant_bookable': ''}
+minimum_minimum_nights identical to minimum_nights: True | maximum_maximum_nights identical to maximum_nights: True | host_url derivable from host_id: True | listing_url derivable from id: True | calendar_last_scraped == last_scraped: 0.9999
+near-duplicate rows (same ['host_id', 'name', 'neighbourhood_cleansed', 'property_type', 'accommodates', 'bedrooms', 'price', 'latitude', 'longitude'] , different id): 150
+looser near-dup (host,name,nbhd,ptype,accom,price): 472
+id all digits: True  max id length: 19  ids > 2^53 (lose precision as float): 29168
+license sentinels: {'HSR19-000000': 23, 'HSR19-123456': 18, 'Hsr19-123456': 4, 'N/A': 4, '123456': 4, 'Hsr19-000000': 2, 'HSR21-000000': 1, 'HSR20-123456': 1, '000000': 1, 'Hsr23-000000': 1}
+placeholder strings in name: 1
+placeholder strings in description: 1
+placeholder strings in host_name: 2
+placeholder strings in host_about: 6
+placeholder strings in host_verifications: 46088
+placeholder strings in license: 4
+property_type count (all):
+property_type
+Entire home                           13548
+Entire rental unit                    11106
+Private room in home                   5911
+Entire guesthouse                      2889
+Private room in rental unit            2763
+Entire condo                           1642
+Room in hotel                          1210
+Entire guest suite                     1144
+Entire townhouse                        735
+Entire villa                            628
+Private room in condo                   479
+Entire bungalow                         478
+Private room in townhouse               417
+Entire serviced apartment               338
+Entire loft                             332
+Private room in villa                   212
+Private room in bed and breakfast       206
+Shared room in rental unit              205
+Room in boutique hotel                  180
+Private room in guest suite             175
+Tiny home                               159
+Entire cottage                          154
+Camper/RV                               150
+Private room in bungalow                134
+Private room in guesthouse              128
+Shared room in home                     112
+Entire cabin                             70
+Entire place                             70
+Private room in loft                     46
+Entire vacation home                     38
+Room in aparthotel                       37
+Private room                             32
+Shared room in hotel                     22
+Private room in tiny home                20
+Private room in hostel                   20
+Boat                                     19
+Farm stay                                18
+Casa particular                          15
+Private room in serviced apartment       14
+Shared room in hostel                    14
+Private room in casa particular          13
+Barn                                     12
+Private room in cabin                    11
+Treehouse                                11
+Tent                                     10
+Shared room in guesthouse                10
+Room in bed and breakfast                 9
+Entire home/apt                           8
+Private room in earthen home              8
+Shared room in condo                      7
+Castle                                    7
+Yurt                                      7
+Shared room                               7
+Earthen home                              6
+Hut                                       6
+Campsite                                  6
+Private room in cottage                   6
+Private room in farm stay                 5
+Ranch                                     5
+Shared room in townhouse                  5
+Private room in resort                    4
+Room in hostel                            4
+Shipping container                        3
+Train                                     3
+Private room in yurt                      2
+Room in serviced apartment                2
+Private room in treehouse                 2
+Tower                                     2
+Private room in vacation home             2
+Dome                                      2
+Private room in tent                      2
+Cave                                      2
+Lighthouse                                2
+Houseboat                                 2
+Private room in castle                    2
+Shared room in earthen home               2
+Private room in hut                       2
+Shared room in guest suite                1
+Shepherd’s hut                            1
+Shared room in bungalow                   1
+Private room in boat                      1
+Shared room in bed and breakfast          1
+Private room in cycladic house            1
+Minsu                                     1
+Shared room in loft                       1
+Bus                                       1
+Tipi                                      1
+Shared room in vacation home              1
+Island                                    1
+Shared room in villa                      1
+Private room in camper/rv                 1
+Floor                                     1
+Entire resort                             1
+Private room in dome                      1
+Private room in houseboat                 1
+Shared room in tiny home                  1
+
+######## 2026-06 ########
+price values not matching ^\$[\d,]+\.\d\d$: 0
+price numeric: min 3.77 max 20583.33 | <=0: 0 | <10: 20 | >=5000: 143 | >=10000: 23
+price quantiles: {0.001: 14.11, 0.01: 34.75, 0.05: 52.0, 0.25: 115.82, 0.5: 223.67, 0.75: 405.98, 0.95: 1160.83, 0.99: 2917.24, 0.999: 8313.48}
+price vs quote_per_night: both present 38182 | abs diff >0.01: 0 | price missing but quote present: 0 | price present quote missing: 4
+price missing by source:
+ price            False  True    All
+source                             
+city scrape      36934   757  37691
+previous scrape   1252  4808   6060
+All              38186  5565  43751
+price missing by has_availability:
+ price             False  True 
+has_availability              
+                     27    445
+f                   156     58
+t                 38003   5062
+price missing by room_type (% missing):
+ room_type
+Entire home/apt    0.124
+Hotel room         0.036
+Private room       0.144
+Shared room        0.041
+Name: price, dtype: float64
+price missing vs estimated_revenue missing agree: True
+avail_30 median price-missing vs present: 0.0 15.0 | reviews_ltm median: 0.0 1.0
+quote currency: {'USD': 38207, nan: 4792, 'null': 752}
+minimum_nights: ==2147483647: 0  >1125: 0  null: 11
+maximum_nights: ==2147483647: 2  >1125: 6  null: 11
+maximum_maximum_nights: ==2147483647: 2  >1125: 6  null: 11
+minimum_maximum_nights: ==2147483647: 1  >1125: 4  null: 11
+maximum_nights_avg_ntm: ==2147483647: 1  >1125: 5  null: 0
+minimum_nights dist: 1-29: 23259  >=30: 20481  >365: 24
+minimum_nights > maximum_nights: 0
+ltm>total: 0  l30d>ltm: 0  ly>total: 0
+rating null & reviews==0: 11257  rating null & reviews>0: 0  rating present & reviews==0: 0
+rating == 0: 1  rating<1: 1 | example reviews for rating==0: [1]
+first_review>last_review: 0  last_review>last_scraped: 0  first_review range: 2009-05-26 00:00:00 2026-06-16 00:00:00  parse fails: 0
+a30<=a60<=a90<=a365 violations: 0
+occupancy dist: ==0: 19649  ==255: 3167  max: 255 | occupancy>0 & reviews_ltm==0: 0
+revenue == occ*price agree (within $1): 1.0
+calc_host_count != entire+private+shared: 596
+host_listings_count == 0: 0
+bedrooms: ==0 9  null 9572  max 24.0
+beds: ==0 0  null 6631  max 50.0
+bathrooms: ==0 0  null 7761  max 24.0
+bathrooms vs bathrooms_text numeric: both 35726  disagree 8  bathrooms null but text has number: 7675  half-bath text: 182
+bathrooms_text values w/o leading number: {'Half-bath': 63, 'Shared half-bath': 63, 'Private half-bath': 56}
+accommodates==0: 0  bedrooms>accommodates: 191
+lat range 33.33854 34.81118  lon range -118.91713383961329 -117.65290772422706
+neighbourhood_cleansed: lead/trail ws 0  double-space 0  control chars 0  case-variant groups 0
+property_type: lead/trail ws 0  double-space 0  control chars 0  case-variant groups 0
+room_type: lead/trail ws 0  double-space 0  control chars 0  case-variant groups 0
+neighbourhood_group_cleansed: lead/trail ws 0  double-space 0  control chars 0  case-variant groups 0
+host_name: lead/trail ws 0  double-space 6  control chars 0  case-variant groups 10
+name: lead/trail ws 15  double-space 863  control chars 10  case-variant groups 148
+empty-or-constant columns: {'scrape_id': '20260615054117', 'neighborhood_overview': '', 'host_since': '', 'host_response_time': '', 'host_response_rate': '', 'host_acceptance_rate': '', 'host_thumbnail_url': '', 'host_neighbourhood': '', 'host_total_listings_count': '', 'host_verifications': 'None', 'neighbourhood': '', 'calendar_updated': '', 'instant_bookable': ''}
+minimum_minimum_nights identical to minimum_nights: True | maximum_maximum_nights identical to maximum_nights: True | host_url derivable from host_id: True | listing_url derivable from id: True | calendar_last_scraped == last_scraped: 0.9998
+near-duplicate rows (same ['host_id', 'name', 'neighbourhood_cleansed', 'property_type', 'accommodates', 'bedrooms', 'price', 'latitude', 'longitude'] , different id): 108
+looser near-dup (host,name,nbhd,ptype,accom,price): 419
+id all digits: True  max id length: 19  ids > 2^53 (lose precision as float): 30079
+license sentinels: {'HSR19-123456': 20, 'HSR19-000000': 19, 'N/A': 4, '123456': 4, 'Hsr19-123456': 3, 'Hsr19-000000': 2, 'HSR21-000000': 1, 'HSR20-123456': 1, 'hSR19-000000': 1, '000000': 1}
+placeholder strings in host_name: 2
+placeholder strings in host_about: 4
+placeholder strings in host_verifications: 43751
+placeholder strings in license: 4
+property_type count (all):
+property_type
+Entire home                           13553
+Entire rental unit                    10209
+Private room in home                   5571
+Entire guesthouse                      2926
+Private room in rental unit            2373
+Entire condo                           1513
+Room in hotel                          1294
+Entire guest suite                     1130
+Entire townhouse                        733
+Entire villa                            569
+Entire bungalow                         433
+Private room in condo                   381
+Private room in townhouse               352
+Entire serviced apartment               313
+Entire loft                             286
+Private room in bed and breakfast       184
+Private room in villa                   164
+Tiny home                               163
+Private room in guest suite             159
+Entire cottage                          147
+Camper/RV                               140
+Shared room in rental unit              134
+Room in boutique hotel                  134
+Private room in bungalow                110
+Private room in guesthouse              110
+Shared room in home                     108
+Entire cabin                             67
+Entire place                             56
+Entire vacation home                     34
+Room in aparthotel                       30
+Private room in loft                     29
+Private room                             28
+Boat                                     21
+Private room in tiny home                20
+Farm stay                                19
+Private room in hostel                   18
+Shared room in hotel                     13
+Casa particular                          12
+Shared room in hostel                    12
+Room in bed and breakfast                10
+Private room in serviced apartment       10
+Barn                                     10
+Private room in cabin                    10
+Treehouse                                10
+Shared room in guesthouse                 9
+Tent                                      8
+Private room in casa particular           8
+Yurt                                      7
+Private room in resort                    7
+Entire home/apt                           7
+Castle                                    7
+Campsite                                  6
+Private room in cottage                   6
+Earthen home                              5
+Private room in earthen home              5
+Shipping container                        5
+Room in hostel                            4
+Hut                                       4
+Shared room in condo                      4
+Private room in boat                      4
+Shared room                               4
+Private room in farm stay                 4
+Shared room in townhouse                  4
+Ranch                                     4
+Shepherd’s hut                            3
+Dome                                      3
+Train                                     3
+Private room in camper/rv                 3
+Private room in vacation home             2
+Private room in castle                    2
+Lighthouse                                2
+Tower                                     2
+Private room in treehouse                 2
+Houseboat                                 2
+Private room in yurt                      2
+Shared room in bungalow                   1
+Minsu                                     1
+Private room in hut                       1
+Cave                                      1
+Private room in tent                      1
+Bus                                       1
+Tipi                                      1
+Shared room in vacation home              1
+Island                                    1
+Entire resort                             1
+Private room in dome                      1
+Shared room in villa                      1
+Floor                                     1
+Room in serviced apartment                1
+Shared room in bed and breakfast          1
+
+######## cross-snapshot ########
+ids in Mar: 46088  Jun: 43751  both: 38102  Mar only: 7986  Jun only: 5649
+columns identical: True
+overlapping ids where neighbourhood_cleansed changed: 72
+overlapping ids where property_type changed: 257
+overlapping ids where room_type changed: 95
+overlapping ids where accommodates changed: 846
+overlapping ids where bedrooms changed: 7472
+overlapping ids where price changed: 26104
+neighbourhoods Mar-only: ['South Diamond Bar']  Jun-only: []

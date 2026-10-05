@@ -1,0 +1,13 @@
+check,rows_checked,passes,failures,note
+number_of_reviews_ltm <= number_of_reviews,89839,89839,0,
+number_of_reviews_l30d <= number_of_reviews_ltm,89839,89839,0,
+number_of_reviews_ly <= number_of_reviews,89839,89839,0,
+first_review <= last_review,89839,89839,0,
+last_review <= last_scraped,89839,89839,0,
+availability_30 <= 60 <= 90 <= 365,89839,89839,0,
+minimum_nights <= maximum_nights,89839,89839,0,
+price_usd == price_quote_price_per_night,89839,89839,0,
+quote nights >= minimum_nights,89839,89833,6,
+estimated_revenue == occupancy x price (+-$1),89839,89839,0,
+occupancy > 0 implies reviews_ltm > 0,89839,89839,0,
+calculated_host_listings_count == entire+private+shared,89839,88826,1013,"explained: hosts with hotel rooms (no hotel bucket); failing rows by room_type={'Hotel room': 682, 'Private room': 234, 'Entire home/apt': 83, 'Shared room': 14}"

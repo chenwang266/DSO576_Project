@@ -1,0 +1,17 @@
+column,evidence
+neighborhood_overview,100% empty in both snapshots
+host_since,100% empty in both snapshots
+host_response_time,100% empty in both snapshots
+host_response_rate,100% empty in both snapshots
+host_acceptance_rate,100% empty in both snapshots
+host_thumbnail_url,100% empty in both snapshots
+host_neighbourhood,100% empty in both snapshots
+host_total_listings_count,100% empty in both snapshots
+neighbourhood,100% empty in both snapshots
+calendar_updated,100% empty in both snapshots
+instant_bookable,100% empty in both snapshots
+host_verifications,constant string 'None' on every row
+minimum_minimum_nights,identical to minimum_nights on every row
+maximum_maximum_nights,identical to maximum_nights on every row
+listing_url,always 'https://www.airbnb.com/rooms/' + id
+host_url,always 'https://www.airbnb.com/users/show/' + host_id

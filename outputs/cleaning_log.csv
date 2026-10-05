@@ -1,0 +1,196 @@
+rule,column,rows_affected,rows_before,rows_after,note
+R02,*,0,46088,46088,data/raw/3_15.csv.gz sha256=ffdef08afe58...
+R02,*,0,43751,43751,data/raw/6_15.csv.gz sha256=ebc99e8a5ff2...
+R01,*,0,46088,46088,"2026-03: exact duplicate rows=0, repeated id=0"
+R01,*,0,43751,43751,"2026-06: exact duplicate rows=0, repeated id=0"
+R01,"snapshot,id",0,89839,89839,"stacked 2 snapshots; duplicated(snapshot,id)=0"
+R03,neighborhood_overview,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,host_since,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,host_response_time,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,host_response_rate,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,host_acceptance_rate,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,host_thumbnail_url,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,host_neighbourhood,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,host_total_listings_count,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,neighbourhood,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,calendar_updated,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,instant_bookable,0,89839,89839,column dropped: 100% empty in both snapshots
+R03,host_verifications,0,89839,89839,column dropped: constant string 'None' on every row
+R03,minimum_minimum_nights,0,89839,89839,column dropped: identical to minimum_nights on every row
+R03,maximum_maximum_nights,0,89839,89839,column dropped: identical to maximum_nights on every row
+R03,listing_url,0,89839,89839,column dropped: always 'https://www.airbnb.com/rooms/' + id
+R03,host_url,0,89839,89839,column dropped: always 'https://www.airbnb.com/users/show/' + host_id
+R04,description,2236,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_profile_id,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_profile_url,571,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_name,558,89839,89839,blank string -> NA (missing kept as missing)
+R04,hosts_time_as_user_years,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,hosts_time_as_user_months,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,hosts_time_as_host_years,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,hosts_time_as_host_months,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_location,21737,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_about,39528,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_is_superhost,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_picture_url,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_listings_count,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_has_profile_pic,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,host_identity_verified,559,89839,89839,blank string -> NA (missing kept as missing)
+R04,bathrooms,18049,89839,89839,blank string -> NA (missing kept as missing)
+R04,bathrooms_text,270,89839,89839,blank string -> NA (missing kept as missing)
+R04,bedrooms,12768,89839,89839,blank string -> NA (missing kept as missing)
+R04,beds,17070,89839,89839,blank string -> NA (missing kept as missing)
+R04,price,14475,89839,89839,blank string -> NA (missing kept as missing)
+R04,price_quote_checkin_date,12880,89839,89839,blank string -> NA (missing kept as missing)
+R04,price_quote_checkout_date,12880,89839,89839,blank string -> NA (missing kept as missing)
+R04,price_quote_total_price,14482,89839,89839,blank string -> NA (missing kept as missing)
+R04,price_quote_price_per_night,14482,89839,89839,blank string -> NA (missing kept as missing)
+R04,price_quote_raw,12880,89839,89839,blank string -> NA (missing kept as missing)
+R04,minimum_nights,18,89839,89839,blank string -> NA (missing kept as missing)
+R04,maximum_nights,18,89839,89839,blank string -> NA (missing kept as missing)
+R04,maximum_minimum_nights,18,89839,89839,blank string -> NA (missing kept as missing)
+R04,minimum_maximum_nights,18,89839,89839,blank string -> NA (missing kept as missing)
+R04,has_availability,4046,89839,89839,blank string -> NA (missing kept as missing)
+R04,estimated_revenue_l365d,14475,89839,89839,blank string -> NA (missing kept as missing)
+R04,first_review,23776,89839,89839,blank string -> NA (missing kept as missing)
+R04,last_review,23776,89839,89839,blank string -> NA (missing kept as missing)
+R04,review_scores_rating,23776,89839,89839,blank string -> NA (missing kept as missing)
+R04,review_scores_accuracy,23786,89839,89839,blank string -> NA (missing kept as missing)
+R04,review_scores_cleanliness,23786,89839,89839,blank string -> NA (missing kept as missing)
+R04,review_scores_checkin,23794,89839,89839,blank string -> NA (missing kept as missing)
+R04,review_scores_communication,23786,89839,89839,blank string -> NA (missing kept as missing)
+R04,review_scores_location,23796,89839,89839,blank string -> NA (missing kept as missing)
+R04,review_scores_value,23798,89839,89839,blank string -> NA (missing kept as missing)
+R04,license,63543,89839,89839,blank string -> NA (missing kept as missing)
+R04,reviews_per_month,23776,89839,89839,blank string -> NA (missing kept as missing)
+R04,id,0,89839,89839,kept as string (ids > 2^53 would lose precision as float)
+R04,host_id,0,89839,89839,kept as string (ids > 2^53 would lose precision as float)
+R04,host_profile_id,0,89839,89839,kept as string (ids > 2^53 would lose precision as float)
+R04,scrape_id,0,89839,89839,kept as string (ids > 2^53 would lose precision as float)
+R04,price_usd,75364,89839,89839,"'$1,234.00' -> float; conversion failures=0; nulls kept=14475"
+R04,hosts_time_as_user_years,89280,89839,89839,text -> Int64; conversion failures=0
+R04,hosts_time_as_user_months,89280,89839,89839,text -> Int64; conversion failures=0
+R04,hosts_time_as_host_years,89280,89839,89839,text -> Int64; conversion failures=0
+R04,hosts_time_as_host_months,89280,89839,89839,text -> Int64; conversion failures=0
+R04,host_listings_count,89280,89839,89839,text -> Int64; conversion failures=0
+R04,latitude,89839,89839,89839,text -> Float64; conversion failures=0
+R04,longitude,89839,89839,89839,text -> Float64; conversion failures=0
+R04,accommodates,89839,89839,89839,text -> Int64; conversion failures=0
+R04,bathrooms,71790,89839,89839,text -> Float64; conversion failures=0
+R04,bedrooms,77071,89839,89839,text -> Int64; conversion failures=0
+R04,beds,72769,89839,89839,text -> Int64; conversion failures=0
+R04,price_quote_total_price,75357,89839,89839,text -> Float64; conversion failures=0
+R04,price_quote_price_per_night,75357,89839,89839,text -> Float64; conversion failures=0
+R04,minimum_nights,89821,89839,89839,text -> Int64; conversion failures=0
+R04,maximum_nights,89821,89839,89839,text -> Int64; conversion failures=0
+R04,maximum_minimum_nights,89821,89839,89839,text -> Int64; conversion failures=0
+R04,minimum_maximum_nights,89821,89839,89839,text -> Int64; conversion failures=0
+R04,minimum_nights_avg_ntm,89839,89839,89839,text -> Float64; conversion failures=0
+R04,maximum_nights_avg_ntm,89839,89839,89839,text -> Float64; conversion failures=0
+R04,availability_30,89839,89839,89839,text -> Int64; conversion failures=0
+R04,availability_60,89839,89839,89839,text -> Int64; conversion failures=0
+R04,availability_90,89839,89839,89839,text -> Int64; conversion failures=0
+R04,availability_365,89839,89839,89839,text -> Int64; conversion failures=0
+R04,availability_eoy,89839,89839,89839,text -> Int64; conversion failures=0
+R04,number_of_reviews,89839,89839,89839,text -> Int64; conversion failures=0
+R04,number_of_reviews_ltm,89839,89839,89839,text -> Int64; conversion failures=0
+R04,number_of_reviews_l30d,89839,89839,89839,text -> Int64; conversion failures=0
+R04,number_of_reviews_ly,89839,89839,89839,text -> Int64; conversion failures=0
+R04,estimated_occupancy_l365d,89839,89839,89839,text -> Int64; conversion failures=0
+R04,estimated_revenue_l365d,75364,89839,89839,text -> Int64; conversion failures=0
+R04,review_scores_rating,66063,89839,89839,text -> Float64; conversion failures=0
+R04,review_scores_accuracy,66053,89839,89839,text -> Float64; conversion failures=0
+R04,review_scores_cleanliness,66053,89839,89839,text -> Float64; conversion failures=0
+R04,review_scores_checkin,66045,89839,89839,text -> Float64; conversion failures=0
+R04,review_scores_communication,66053,89839,89839,text -> Float64; conversion failures=0
+R04,review_scores_location,66043,89839,89839,text -> Float64; conversion failures=0
+R04,review_scores_value,66041,89839,89839,text -> Float64; conversion failures=0
+R04,calculated_host_listings_count,89839,89839,89839,text -> Int64; conversion failures=0
+R04,calculated_host_listings_count_entire_homes,89839,89839,89839,text -> Int64; conversion failures=0
+R04,calculated_host_listings_count_private_rooms,89839,89839,89839,text -> Int64; conversion failures=0
+R04,calculated_host_listings_count_shared_rooms,89839,89839,89839,text -> Int64; conversion failures=0
+R04,reviews_per_month,66063,89839,89839,text -> Float64; conversion failures=0
+R04,host_is_superhost,89280,89839,89839,"'t'/'f' -> boolean, NA kept; unexpected values=0"
+R04,host_has_profile_pic,89280,89839,89839,"'t'/'f' -> boolean, NA kept; unexpected values=0"
+R04,host_identity_verified,89280,89839,89839,"'t'/'f' -> boolean, NA kept; unexpected values=0"
+R04,has_availability,85793,89839,89839,"'t'/'f' -> boolean, NA kept; unexpected values=0"
+R04,last_scraped,89839,89839,89839,ISO text -> datetime; parse failures=0
+R04,calendar_last_scraped,89839,89839,89839,ISO text -> datetime; parse failures=0
+R04,first_review,66063,89839,89839,ISO text -> datetime; parse failures=0
+R04,last_review,66063,89839,89839,ISO text -> datetime; parse failures=0
+R04,price_quote_checkin_date,76959,89839,89839,ISO text -> datetime; parse failures=0
+R04,price_quote_checkout_date,76959,89839,89839,ISO text -> datetime; parse failures=0
+R04a,stay_type,46754,89839,89839,stay_type=Short-stay (<30n)
+R04a,stay_type,43067,89839,89839,stay_type=Monthly (30+n)
+R04a,stay_type,18,89839,89839,stay_type=Unknown
+R04a,property_segment,89839,89839,89839,"10 property segments; {'2026-03': 1044, '2026-06': 1018} neighbourhood x property segments per snapshot"
+R05,neighbourhood_cleansed,0,89839,89839,"check passed: whitespace/control issues=0, case-variant labels=0"
+R05,neighbourhood_group_cleansed,0,89839,89839,"check passed: whitespace/control issues=0, case-variant labels=0"
+R05,room_type,0,89839,89839,"check passed: whitespace/control issues=0, case-variant labels=0"
+R05,property_type,0,89839,89839,"check passed: whitespace/control issues=0, case-variant labels=0"
+R05,name,1984,89839,89839,"removed control chars, collapsed repeated spaces, stripped ends"
+R06,price_quote_raw.currency,0,89839,89839,"currency values: {'USD': 71213, <NA>: 12880, 'null': 5746}; non-USD=0"
+R06,price_usd,0,89839,89839,price = quote total / quote nights on 100.0000% of priced rows (unit = USD per night)
+R06,bedrooms,0,89839,89839,"zeros by snapshot={'2026-03': 2570, '2026-06': 9}, nulls by snapshot={'2026-03': 3196, '2026-06': 9572}: 0-vs-null coding changed between snapshots; not recoded, excluded from segment keys"
+R06,beds,0,89839,89839,"zeros by snapshot={'2026-03': 741, '2026-06': 0}, nulls by snapshot={'2026-03': 10439, '2026-06': 6631}: 0-vs-null coding changed between snapshots; not recoded, excluded from segment keys"
+R06,bathrooms,0,89839,89839,"zeros by snapshot={'2026-03': 136, '2026-06': 0}, nulls by snapshot={'2026-03': 10288, '2026-06': 7761}: 0-vs-null coding changed between snapshots; not recoded, excluded from segment keys"
+R07,*,0,89839,89839,exact duplicate rows removed (keep first)
+R07,"snapshot,id",0,89839,89839,repeated keys with differing values=0
+R07,near_dup_flag,258,89839,89839,"same host/name/neighbourhood/type/size/price/coords, different id: flagged, kept"
+R08,price_missing,8910,89839,89839,"2026-03: 19.3% missing; by source={'city scrape': 0.033, 'previous scrape': 0.752}"
+R08,price_missing,5565,89839,89839,"2026-06: 12.7% missing; by source={'city scrape': 0.02, 'previous scrape': 0.793}"
+R09,no_reviews,23776,89839,89839,"review_scores_rating, first_review, last_review, reviews_per_month null iff number_of_reviews==0 (0 exceptions); kept null"
+R09,review_scores_* subscores,22,89839,89839,subscore missing although reviews exist: kept null
+R09,estimated_revenue_l365d,14475,89839,89839,null iff price null (revenue = occupancy x price); kept null
+R10,host_profile_missing,559,89839,89839,host profile fields empty; kept null
+R10,has_availability,4046,89839,89839,blank kept as NA (not False)
+R10,minimum_nights,18,89839,89839,"null min stay -> stay_type 'Unknown' (separate group, not ranked)"
+R10,neighbourhood_cleansed,0,89839,89839,missing group key count
+R10,room_type,0,89839,89839,missing group key count
+R11,maximum_nights,4,89839,89839,2147483647 -> NA
+R11,minimum_maximum_nights,2,89839,89839,2147483647 -> NA
+R11,maximum_nights_avg_ntm,2,89839,89839,2147483647 -> NA
+R11,review_scores_rating,2,89839,89839,0.0 is impossible on a 1-5 scale -> NA
+R11,review_scores_accuracy,6,89839,89839,0.0 is impossible on a 1-5 scale -> NA
+R11,review_scores_cleanliness,6,89839,89839,0.0 is impossible on a 1-5 scale -> NA
+R11,review_scores_checkin,6,89839,89839,0.0 is impossible on a 1-5 scale -> NA
+R11,review_scores_communication,6,89839,89839,0.0 is impossible on a 1-5 scale -> NA
+R11,review_scores_location,6,89839,89839,0.0 is impossible on a 1-5 scale -> NA
+R11,review_scores_value,6,89839,89839,0.0 is impossible on a 1-5 scale -> NA
+R11,host_listings_count,8,89839,89839,0 impossible for a host with a live listing -> NA
+R11,license_placeholder,117,89839,89839,placeholder licence text flagged; raw kept
+R12,latitude,0,89839,89839,"range check: latitude in LA County box [33.3, 34.9]; failures shown"
+R12,longitude,0,89839,89839,"range check: longitude in LA County box [-119.0, -117.6]; failures shown"
+R12,accommodates,0,89839,89839,range check: accommodates >= 1; failures shown
+R12,price_usd,0,89839,89839,range check: price_usd > 0 (where present); failures shown
+R12,availability_30,0,89839,89839,"range check: availability_30 in [0,30]; failures shown"
+R12,availability_365,0,89839,89839,"range check: availability_365 in [0,365]; failures shown"
+R12,estimated_occupancy_l365d,0,89839,89839,"range check: estimated_occupancy_l365d in [0,365]; failures shown"
+R12,number_of_reviews,0,89839,89839,range check: number_of_reviews >= 0; failures shown
+R12,minimum_nights,0,89839,89839,range check: minimum_nights >= 1 (where present); failures shown
+R12,review_scores_rating,0,89839,89839,"range check: review_scores_rating in [1,5] (where present); failures shown"
+R12,occupancy_at_cap,6346,89839,89839,"estimated_occupancy_l365d == 255 (model cap: censored, true value may be higher)"
+R12,bedrooms_gt_accommodates,426,89839,89839,possible but odd: flagged
+R13,price_outlier,397,89839,89839,"log-price IQR k=3.0 within snapshot x property_segment; low=41, high=356"
+R14,number_of_reviews_ltm,0,89839,89839,logic: number_of_reviews_ltm <= number_of_reviews; failures=0. 
+R14,number_of_reviews_l30d,0,89839,89839,logic: number_of_reviews_l30d <= number_of_reviews_ltm; failures=0. 
+R14,number_of_reviews_ly,0,89839,89839,logic: number_of_reviews_ly <= number_of_reviews; failures=0. 
+R14,first_review,0,89839,89839,logic: first_review <= last_review; failures=0. 
+R14,last_review,0,89839,89839,logic: last_review <= last_scraped; failures=0. 
+R14,availability_30,0,89839,89839,logic: availability_30 <= 60 <= 90 <= 365; failures=0. 
+R14,minimum_nights,0,89839,89839,logic: minimum_nights <= maximum_nights; failures=0. 
+R14,price_usd,0,89839,89839,logic: price_usd == price_quote_price_per_night; failures=0. 
+R14,quote,6,89839,89839,logic: quote nights >= minimum_nights; failures=6. 
+R14,estimated_revenue,0,89839,89839,logic: estimated_revenue == occupancy x price (+-$1); failures=0. 
+R14,occupancy,0,89839,89839,logic: occupancy > 0 implies reviews_ltm > 0; failures=0. 
+R14,calculated_host_listings_count,1013,89839,89839,"logic: calculated_host_listings_count == entire+private+shared; failures=1013. explained: hosts with hotel rooms (no hotel bucket); failing rows by room_type={'Hotel room': 682, 'Private room': 234, 'Entire home/apt': 83, 'Shared room': 14}"
+R15,last_scraped,0,89839,89839,range 2026-03-16 to 2026-06-23; out-of-window=0
+R15,calendar_last_scraped,0,89839,89839,range 2026-03-16 to 2026-06-23; out-of-window=0
+R15,first_review,0,89839,89839,range 2009-05-26 to 2026-06-16; out-of-window=0
+R15,last_review,0,89839,89839,range 2011-05-21 to 2026-06-22; out-of-window=0
+R15,price_quote_checkin_date,0,89839,89839,range 2026-03-16 to 2027-06-20; out-of-window=0
+R15,price_quote_checkout_date,0,89839,89839,range 2026-03-17 to 2027-06-23; out-of-window=0
+R15,last_scraped,0,89839,89839,2026-03 snapshot dates 2026-03-16 to 2026-03-18: availability/occupancy describe this moment only
+R15,last_scraped,0,89839,89839,2026-06 snapshot dates 2026-06-15 to 2026-06-23: availability/occupancy describe this moment only
+R16,id,0,89839,89839,"Not applicable: no merge, snapshots are stacked. id overlap: both=38102, Mar only=7986, Jun only=5649; id unique within each snapshot"
+R17,segment_rankable,40785,89839,89839,2026-03: 358 of 1044 segments have >= 20 priced listings (33123 of 37178 priced listings); smaller ones in small_segments.csv
+R17,segment_rankable,38916,89839,89839,2026-06: 358 of 1018 segments have >= 20 priced listings (34038 of 38186 priced listings); smaller ones in small_segments.csv

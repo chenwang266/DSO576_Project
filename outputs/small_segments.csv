@@ -1,0 +1,1347 @@
+snapshot,neighbourhood_cleansed,property_segment,listings,priced,segment_rankable
+2026-03,Acton,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Acton,Entire home/apt | Short-stay (<30n),16,13,False
+2026-03,Acton,Private room | Short-stay (<30n),3,3,False
+2026-03,Adams-Normandie,Entire home/apt | Monthly (30+n),17,13,False
+2026-03,Adams-Normandie,Entire home/apt | Short-stay (<30n),6,6,False
+2026-03,Adams-Normandie,Private room | Short-stay (<30n),2,2,False
+2026-03,Agoura Hills,Entire home/apt | Monthly (30+n),16,15,False
+2026-03,Agoura Hills,Private room | Monthly (30+n),4,4,False
+2026-03,Agoura Hills,Private room | Short-stay (<30n),8,6,False
+2026-03,Agua Dulce,Entire home/apt | Monthly (30+n),4,2,False
+2026-03,Agua Dulce,Entire home/apt | Short-stay (<30n),14,14,False
+2026-03,Agua Dulce,Private room | Short-stay (<30n),8,8,False
+2026-03,Alhambra,Private room | Monthly (30+n),16,13,False
+2026-03,Alhambra,Shared room | Short-stay (<30n),3,3,False
+2026-03,Alondra Park,Entire home/apt | Monthly (30+n),2,1,False
+2026-03,Alondra Park,Entire home/apt | Short-stay (<30n),19,17,False
+2026-03,Alondra Park,Private room | Short-stay (<30n),1,1,False
+2026-03,Altadena,Entire home/apt | Monthly (30+n),8,6,False
+2026-03,Altadena,Private room | Short-stay (<30n),29,17,False
+2026-03,Angeles Crest,Entire home/apt | Short-stay (<30n),6,6,False
+2026-03,Arcadia,Private room | Monthly (30+n),16,16,False
+2026-03,Arcadia,Shared room | Short-stay (<30n),2,2,False
+2026-03,Arleta,Entire home/apt | Monthly (30+n),5,5,False
+2026-03,Arleta,Private room | Monthly (30+n),6,6,False
+2026-03,Arlington Heights,Entire home/apt | Short-stay (<30n),10,10,False
+2026-03,Arlington Heights,Private room | Short-stay (<30n),5,5,False
+2026-03,Arlington Heights,Shared room | Monthly (30+n),5,1,False
+2026-03,Artesia,Entire home/apt | Monthly (30+n),4,4,False
+2026-03,Artesia,Entire home/apt | Short-stay (<30n),3,2,False
+2026-03,Artesia,Private room | Monthly (30+n),2,2,False
+2026-03,Artesia,Private room | Short-stay (<30n),1,1,False
+2026-03,Athens,Entire home/apt | Short-stay (<30n),10,9,False
+2026-03,Athens,Private room | Monthly (30+n),1,0,False
+2026-03,Athens,Private room | Short-stay (<30n),4,4,False
+2026-03,Atwater Village,Private room | Monthly (30+n),7,3,False
+2026-03,Atwater Village,Private room | Short-stay (<30n),3,2,False
+2026-03,Avalon,Entire home/apt | Monthly (30+n),1,0,False
+2026-03,Avalon,Hotel room | Short-stay (<30n),11,11,False
+2026-03,Avalon,Private room | Short-stay (<30n),7,5,False
+2026-03,Avocado Heights,Entire home/apt | Short-stay (<30n),21,19,False
+2026-03,Avocado Heights,Private room | Monthly (30+n),1,1,False
+2026-03,Avocado Heights,Private room | Short-stay (<30n),8,4,False
+2026-03,Azusa,Entire home/apt | Monthly (30+n),5,5,False
+2026-03,Azusa,Private room | Monthly (30+n),3,3,False
+2026-03,Azusa,Private room | Short-stay (<30n),29,17,False
+2026-03,Baldwin Hills/Crenshaw,Private room | Short-stay (<30n),5,5,False
+2026-03,Baldwin Hills/Crenshaw,Shared room | Monthly (30+n),3,2,False
+2026-03,Baldwin Park,Entire home/apt | Monthly (30+n),6,6,False
+2026-03,Baldwin Park,Private room | Monthly (30+n),2,2,False
+2026-03,Baldwin Park,Shared room | Short-stay (<30n),1,0,False
+2026-03,Bel-Air,Private room | Monthly (30+n),5,5,False
+2026-03,Bel-Air,Private room | Short-stay (<30n),4,4,False
+2026-03,Bell,Entire home/apt | Short-stay (<30n),13,12,False
+2026-03,Bell,Private room | Short-stay (<30n),6,5,False
+2026-03,Bell Gardens,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Bell Gardens,Entire home/apt | Short-stay (<30n),9,7,False
+2026-03,Bell Gardens,Private room | Monthly (30+n),2,2,False
+2026-03,Bell Gardens,Private room | Short-stay (<30n),11,11,False
+2026-03,Bellflower,Entire home/apt | Monthly (30+n),4,3,False
+2026-03,Bellflower,Private room | Monthly (30+n),2,2,False
+2026-03,Bellflower,Private room | Short-stay (<30n),14,11,False
+2026-03,Beverly Crest,Private room | Monthly (30+n),15,9,False
+2026-03,Beverly Crest,Private room | Short-stay (<30n),4,4,False
+2026-03,Beverly Grove,Hotel room | Short-stay (<30n),4,4,False
+2026-03,Beverly Grove,Private room | Short-stay (<30n),8,7,False
+2026-03,Beverly Hills,Shared room | Short-stay (<30n),2,0,False
+2026-03,Beverlywood,Entire home/apt | Monthly (30+n),20,13,False
+2026-03,Beverlywood,Entire home/apt | Short-stay (<30n),1,1,False
+2026-03,Beverlywood,Private room | Monthly (30+n),7,6,False
+2026-03,Boyle Heights,Private room | Short-stay (<30n),7,7,False
+2026-03,Brentwood,Entire home/apt | Short-stay (<30n),19,18,False
+2026-03,Brentwood,Hotel room | Short-stay (<30n),16,8,False
+2026-03,Brentwood,Private room | Short-stay (<30n),2,2,False
+2026-03,Brentwood,Shared room | Monthly (30+n),2,0,False
+2026-03,Broadway-Manchester,Entire home/apt | Monthly (30+n),5,4,False
+2026-03,Broadway-Manchester,Entire home/apt | Short-stay (<30n),6,6,False
+2026-03,Broadway-Manchester,Private room | Monthly (30+n),1,1,False
+2026-03,Broadway-Manchester,Private room | Short-stay (<30n),1,1,False
+2026-03,Burbank,Private room | Monthly (30+n),11,3,False
+2026-03,Burbank,Shared room | Short-stay (<30n),1,0,False
+2026-03,Calabasas,Private room | Monthly (30+n),14,12,False
+2026-03,Calabasas,Private room | Short-stay (<30n),24,16,False
+2026-03,Canoga Park,Entire home/apt | Short-stay (<30n),13,13,False
+2026-03,Canoga Park,Private room | Monthly (30+n),30,16,False
+2026-03,Canoga Park,Private room | Short-stay (<30n),4,4,False
+2026-03,Canoga Park,Shared room | Monthly (30+n),1,1,False
+2026-03,Carson,Entire home/apt | Monthly (30+n),13,11,False
+2026-03,Carson,Private room | Monthly (30+n),1,0,False
+2026-03,Carson,Shared room | Short-stay (<30n),1,0,False
+2026-03,Carthay,Private room | Monthly (30+n),18,11,False
+2026-03,Carthay,Private room | Short-stay (<30n),21,15,False
+2026-03,Castaic,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Castaic,Entire home/apt | Short-stay (<30n),10,8,False
+2026-03,Castaic,Private room | Short-stay (<30n),9,7,False
+2026-03,Castaic Canyons,Entire home/apt | Monthly (30+n),13,11,False
+2026-03,Castaic Canyons,Private room | Monthly (30+n),3,2,False
+2026-03,Castaic Canyons,Private room | Short-stay (<30n),11,6,False
+2026-03,Central-Alameda,Entire home/apt | Monthly (30+n),6,5,False
+2026-03,Central-Alameda,Entire home/apt | Short-stay (<30n),7,6,False
+2026-03,Central-Alameda,Private room | Monthly (30+n),8,6,False
+2026-03,Central-Alameda,Shared room | Monthly (30+n),4,4,False
+2026-03,Century City,Entire home/apt | Short-stay (<30n),6,5,False
+2026-03,Century City,Hotel room | Monthly (30+n),1,0,False
+2026-03,Century City,Private room | Monthly (30+n),4,1,False
+2026-03,Cerritos,Entire home/apt | Monthly (30+n),7,7,False
+2026-03,Cerritos,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Cerritos,Private room | Monthly (30+n),3,1,False
+2026-03,Cerritos,Private room | Short-stay (<30n),12,8,False
+2026-03,Charter Oak,Entire home/apt | Monthly (30+n),2,0,False
+2026-03,Charter Oak,Entire home/apt | Short-stay (<30n),9,9,False
+2026-03,Charter Oak,Private room | Short-stay (<30n),8,5,False
+2026-03,Chatsworth,Private room | Monthly (30+n),18,18,False
+2026-03,Chatsworth,Private room | Short-stay (<30n),13,12,False
+2026-03,Chatsworth,Shared room | Monthly (30+n),3,3,False
+2026-03,Chatsworth Reservoir,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Chatsworth Reservoir,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Chesterfield Square,Entire home/apt | Monthly (30+n),8,7,False
+2026-03,Chesterfield Square,Entire home/apt | Short-stay (<30n),4,4,False
+2026-03,Chesterfield Square,Private room | Monthly (30+n),4,0,False
+2026-03,Chesterfield Square,Private room | Short-stay (<30n),2,2,False
+2026-03,Cheviot Hills,Entire home/apt | Monthly (30+n),17,10,False
+2026-03,Cheviot Hills,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Cheviot Hills,Private room | Monthly (30+n),3,1,False
+2026-03,Chinatown,Entire home/apt | Monthly (30+n),43,15,False
+2026-03,Chinatown,Entire home/apt | Short-stay (<30n),19,18,False
+2026-03,Chinatown,Private room | Monthly (30+n),12,6,False
+2026-03,Chinatown,Private room | Short-stay (<30n),2,2,False
+2026-03,Chinatown,Shared room | Monthly (30+n),2,0,False
+2026-03,Citrus,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Citrus,Entire home/apt | Short-stay (<30n),6,6,False
+2026-03,Citrus,Private room | Short-stay (<30n),3,1,False
+2026-03,Claremont,Entire home/apt | Monthly (30+n),9,9,False
+2026-03,Claremont,Private room | Monthly (30+n),11,9,False
+2026-03,Claremont,Private room | Short-stay (<30n),12,6,False
+2026-03,Commerce,Entire home/apt | Monthly (30+n),2,2,False
+2026-03,Commerce,Entire home/apt | Short-stay (<30n),13,11,False
+2026-03,Compton,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,Compton,Private room | Short-stay (<30n),27,19,False
+2026-03,Covina,Entire home/apt | Monthly (30+n),4,3,False
+2026-03,Covina,Private room | Monthly (30+n),1,1,False
+2026-03,Cudahy,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Cudahy,Shared room | Short-stay (<30n),1,0,False
+2026-03,Culver City,Hotel room | Short-stay (<30n),2,2,False
+2026-03,Culver City,Private room | Monthly (30+n),6,5,False
+2026-03,Cypress Park,Entire home/apt | Monthly (30+n),13,9,False
+2026-03,Cypress Park,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Cypress Park,Private room | Monthly (30+n),10,8,False
+2026-03,Del Aire,Entire home/apt | Monthly (30+n),11,10,False
+2026-03,Del Aire,Private room | Monthly (30+n),2,2,False
+2026-03,Del Aire,Private room | Short-stay (<30n),18,13,False
+2026-03,Del Rey,Private room | Short-stay (<30n),8,7,False
+2026-03,Desert View Highlands,Entire home/apt | Short-stay (<30n),5,3,False
+2026-03,Desert View Highlands,Private room | Short-stay (<30n),4,3,False
+2026-03,Diamond Bar,Private room | Monthly (30+n),18,9,False
+2026-03,Diamond Bar,Private room | Short-stay (<30n),49,12,False
+2026-03,Downey,Entire home/apt | Monthly (30+n),13,9,False
+2026-03,Downey,Private room | Monthly (30+n),5,3,False
+2026-03,Downtown,Hotel room | Monthly (30+n),2,0,False
+2026-03,Downtown,Shared room | Monthly (30+n),3,2,False
+2026-03,Downtown,Shared room | Short-stay (<30n),8,8,False
+2026-03,Duarte,Entire home/apt | Monthly (30+n),4,4,False
+2026-03,Duarte,Private room | Short-stay (<30n),21,16,False
+2026-03,Eagle Rock,Hotel room | Monthly (30+n),1,1,False
+2026-03,Eagle Rock,Private room | Monthly (30+n),15,8,False
+2026-03,Eagle Rock,Private room | Short-stay (<30n),7,6,False
+2026-03,East Compton,Entire home/apt | Monthly (30+n),2,2,False
+2026-03,East Compton,Entire home/apt | Short-stay (<30n),4,4,False
+2026-03,East Hollywood,Private room | Short-stay (<30n),21,19,False
+2026-03,East Hollywood,Shared room | Monthly (30+n),8,7,False
+2026-03,East Hollywood,Shared room | Short-stay (<30n),4,4,False
+2026-03,East Los Angeles,Entire home/apt | Monthly (30+n),14,12,False
+2026-03,East Los Angeles,Entire home/apt | Unknown,1,1,False
+2026-03,East Los Angeles,Private room | Monthly (30+n),1,1,False
+2026-03,East Los Angeles,Shared room | Short-stay (<30n),1,0,False
+2026-03,East Pasadena,Entire home/apt | Monthly (30+n),9,5,False
+2026-03,East Pasadena,Private room | Short-stay (<30n),17,15,False
+2026-03,East San Gabriel,Entire home/apt | Monthly (30+n),6,6,False
+2026-03,East San Gabriel,Private room | Monthly (30+n),11,10,False
+2026-03,East Whittier,Entire home/apt | Short-stay (<30n),4,4,False
+2026-03,East Whittier,Private room | Short-stay (<30n),2,1,False
+2026-03,Echo Park,Hotel room | Monthly (30+n),2,1,False
+2026-03,Echo Park,Hotel room | Short-stay (<30n),6,5,False
+2026-03,Echo Park,Private room | Short-stay (<30n),10,10,False
+2026-03,El Monte,Entire home/apt | Monthly (30+n),7,7,False
+2026-03,El Monte,Private room | Monthly (30+n),3,2,False
+2026-03,El Monte,Shared room | Short-stay (<30n),2,2,False
+2026-03,El Segundo,Entire home/apt | Short-stay (<30n),16,16,False
+2026-03,El Segundo,Hotel room | Short-stay (<30n),1,1,False
+2026-03,El Segundo,Private room | Monthly (30+n),17,13,False
+2026-03,El Sereno,Private room | Short-stay (<30n),2,2,False
+2026-03,Elizabeth Lake,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Elysian Park,Entire home/apt | Monthly (30+n),9,8,False
+2026-03,Elysian Park,Entire home/apt | Short-stay (<30n),4,4,False
+2026-03,Elysian Park,Private room | Monthly (30+n),3,2,False
+2026-03,Elysian Park,Private room | Short-stay (<30n),1,1,False
+2026-03,Elysian Valley,Entire home/apt | Monthly (30+n),25,18,False
+2026-03,Elysian Valley,Entire home/apt | Short-stay (<30n),5,5,False
+2026-03,Elysian Valley,Private room | Monthly (30+n),3,1,False
+2026-03,Encino,Private room | Monthly (30+n),29,17,False
+2026-03,Encino,Private room | Short-stay (<30n),10,9,False
+2026-03,Encino,Shared room | Monthly (30+n),12,12,False
+2026-03,Exposition Park,Entire home/apt | Short-stay (<30n),16,16,False
+2026-03,Exposition Park,Private room | Short-stay (<30n),3,3,False
+2026-03,Exposition Park,Shared room | Monthly (30+n),3,3,False
+2026-03,Fairfax,Private room | Monthly (30+n),37,15,False
+2026-03,Fairfax,Private room | Short-stay (<30n),4,3,False
+2026-03,Florence,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Florence,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Florence,Private room | Monthly (30+n),2,0,False
+2026-03,Florence-Firestone,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Florence-Firestone,Entire home/apt | Short-stay (<30n),18,18,False
+2026-03,Florence-Firestone,Private room | Short-stay (<30n),21,8,False
+2026-03,Gardena,Entire home/apt | Monthly (30+n),11,11,False
+2026-03,Gardena,Private room | Monthly (30+n),12,11,False
+2026-03,Gardena,Shared room | Short-stay (<30n),1,0,False
+2026-03,Glassell Park,Private room | Monthly (30+n),14,11,False
+2026-03,Glassell Park,Private room | Short-stay (<30n),3,3,False
+2026-03,Glendale,Private room | Monthly (30+n),4,4,False
+2026-03,Glendale,Shared room | Short-stay (<30n),4,3,False
+2026-03,Glendora,Entire home/apt | Monthly (30+n),12,11,False
+2026-03,Glendora,Private room | Monthly (30+n),3,3,False
+2026-03,Gramercy Park,Entire home/apt | Monthly (30+n),19,18,False
+2026-03,Gramercy Park,Entire home/apt | Short-stay (<30n),14,14,False
+2026-03,Gramercy Park,Private room | Monthly (30+n),4,4,False
+2026-03,Gramercy Park,Private room | Short-stay (<30n),2,2,False
+2026-03,Granada Hills,Private room | Monthly (30+n),5,2,False
+2026-03,Granada Hills,Private room | Short-stay (<30n),3,3,False
+2026-03,Green Meadows,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Green Meadows,Entire home/apt | Short-stay (<30n),4,4,False
+2026-03,Green Meadows,Private room | Monthly (30+n),4,2,False
+2026-03,Green Meadows,Private room | Short-stay (<30n),1,1,False
+2026-03,Green Valley,Entire home/apt | Short-stay (<30n),6,5,False
+2026-03,Griffith Park,Entire home/apt | Monthly (30+n),2,0,False
+2026-03,Griffith Park,Entire home/apt | Short-stay (<30n),1,1,False
+2026-03,Hacienda Heights,Entire home/apt | Monthly (30+n),19,19,False
+2026-03,Hacienda Heights,Shared room | Monthly (30+n),2,2,False
+2026-03,Hancock Park,Entire home/apt | Short-stay (<30n),20,19,False
+2026-03,Hancock Park,Private room | Monthly (30+n),11,6,False
+2026-03,Hancock Park,Private room | Short-stay (<30n),6,6,False
+2026-03,Harbor City,Entire home/apt | Monthly (30+n),14,14,False
+2026-03,Harbor City,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Harbor City,Private room | Monthly (30+n),11,11,False
+2026-03,Harbor City,Private room | Short-stay (<30n),6,6,False
+2026-03,Harbor Gateway,Entire home/apt | Short-stay (<30n),9,9,False
+2026-03,Harbor Gateway,Shared room | Monthly (30+n),5,4,False
+2026-03,Harvard Heights,Entire home/apt | Short-stay (<30n),13,12,False
+2026-03,Harvard Heights,Private room | Monthly (30+n),22,13,False
+2026-03,Harvard Heights,Private room | Short-stay (<30n),6,2,False
+2026-03,Harvard Park,Entire home/apt | Monthly (30+n),5,5,False
+2026-03,Harvard Park,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Harvard Park,Private room | Monthly (30+n),5,4,False
+2026-03,Hasley Canyon,Entire home/apt | Monthly (30+n),2,2,False
+2026-03,Hasley Canyon,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Hawaiian Gardens,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Hawaiian Gardens,Entire home/apt | Short-stay (<30n),4,2,False
+2026-03,Hawaiian Gardens,Private room | Monthly (30+n),2,2,False
+2026-03,Hawaiian Gardens,Private room | Short-stay (<30n),1,1,False
+2026-03,Hawthorne,Entire home/apt | Monthly (30+n),21,19,False
+2026-03,Hawthorne,Private room | Monthly (30+n),4,3,False
+2026-03,Hawthorne,Shared room | Short-stay (<30n),2,0,False
+2026-03,Hermosa Beach,Private room | Monthly (30+n),12,8,False
+2026-03,Hermosa Beach,Shared room | Short-stay (<30n),9,9,False
+2026-03,Hidden Hills,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Highland Park,Private room | Short-stay (<30n),6,6,False
+2026-03,Historic South-Central,Entire home/apt | Monthly (30+n),26,13,False
+2026-03,Historic South-Central,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Historic South-Central,Private room | Monthly (30+n),22,17,False
+2026-03,Historic South-Central,Private room | Short-stay (<30n),15,11,False
+2026-03,Historic South-Central,Shared room | Monthly (30+n),1,1,False
+2026-03,Hollywood,Hotel room | Monthly (30+n),2,1,False
+2026-03,Hollywood,Hotel room | Short-stay (<30n),18,18,False
+2026-03,Hollywood,Shared room | Short-stay (<30n),1,1,False
+2026-03,Hollywood Hills,Shared room | Monthly (30+n),1,1,False
+2026-03,Hollywood Hills West,Private room | Short-stay (<30n),16,16,False
+2026-03,Hollywood Hills West,Shared room | Monthly (30+n),1,0,False
+2026-03,Huntington Park,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,Huntington Park,Private room | Short-stay (<30n),17,16,False
+2026-03,Huntington Park,Shared room | Short-stay (<30n),1,0,False
+2026-03,Hyde Park,Private room | Short-stay (<30n),8,8,False
+2026-03,Industry,Entire home/apt | Monthly (30+n),7,4,False
+2026-03,Industry,Entire home/apt | Short-stay (<30n),8,3,False
+2026-03,Industry,Private room | Short-stay (<30n),4,3,False
+2026-03,Inglewood,Hotel room | Short-stay (<30n),6,6,False
+2026-03,Inglewood,Shared room | Monthly (30+n),1,0,False
+2026-03,Irwindale,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Irwindale,Private room | Short-stay (<30n),4,4,False
+2026-03,Jefferson Park,Entire home/apt | Short-stay (<30n),17,17,False
+2026-03,Jefferson Park,Private room | Monthly (30+n),20,16,False
+2026-03,Jefferson Park,Private room | Short-stay (<30n),3,3,False
+2026-03,Koreatown,Hotel room | Short-stay (<30n),1,1,False
+2026-03,Koreatown,Shared room | Monthly (30+n),33,11,False
+2026-03,Koreatown,Shared room | Short-stay (<30n),1,1,False
+2026-03,La Canada Flintridge,Entire home/apt | Monthly (30+n),5,4,False
+2026-03,La Canada Flintridge,Entire home/apt | Short-stay (<30n),24,17,False
+2026-03,La Canada Flintridge,Private room | Short-stay (<30n),11,8,False
+2026-03,La Crescenta-Montrose,Entire home/apt | Monthly (30+n),7,7,False
+2026-03,La Crescenta-Montrose,Private room | Short-stay (<30n),7,3,False
+2026-03,La Habra Heights,Entire home/apt | Monthly (30+n),4,4,False
+2026-03,La Habra Heights,Private room | Monthly (30+n),5,3,False
+2026-03,La Habra Heights,Private room | Short-stay (<30n),4,2,False
+2026-03,La Habra Heights,Shared room | Short-stay (<30n),1,1,False
+2026-03,La Mirada,Entire home/apt | Monthly (30+n),11,9,False
+2026-03,La Mirada,Entire home/apt | Short-stay (<30n),16,12,False
+2026-03,La Mirada,Private room | Monthly (30+n),13,13,False
+2026-03,La Mirada,Private room | Short-stay (<30n),4,4,False
+2026-03,La Puente,Entire home/apt | Monthly (30+n),3,2,False
+2026-03,La Puente,Private room | Short-stay (<30n),25,19,False
+2026-03,La Puente,Shared room | Short-stay (<30n),1,0,False
+2026-03,La Verne,Entire home/apt | Monthly (30+n),4,4,False
+2026-03,La Verne,Entire home/apt | Short-stay (<30n),16,16,False
+2026-03,La Verne,Private room | Monthly (30+n),12,12,False
+2026-03,La Verne,Private room | Short-stay (<30n),7,7,False
+2026-03,Ladera Heights,Entire home/apt | Monthly (30+n),7,5,False
+2026-03,Ladera Heights,Private room | Monthly (30+n),2,1,False
+2026-03,Ladera Heights,Private room | Short-stay (<30n),13,10,False
+2026-03,Lake Balboa,Private room | Monthly (30+n),19,16,False
+2026-03,Lake Balboa,Private room | Short-stay (<30n),5,5,False
+2026-03,Lake Hughes,Entire home/apt | Short-stay (<30n),8,8,False
+2026-03,Lake Los Angeles,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Lake Los Angeles,Private room | Short-stay (<30n),1,1,False
+2026-03,Lake View Terrace,Entire home/apt | Monthly (30+n),6,6,False
+2026-03,Lake View Terrace,Private room | Monthly (30+n),1,1,False
+2026-03,Lakewood,Entire home/apt | Monthly (30+n),16,14,False
+2026-03,Lakewood,Private room | Monthly (30+n),4,2,False
+2026-03,Lakewood,Private room | Short-stay (<30n),23,15,False
+2026-03,Lancaster,Entire home/apt | Monthly (30+n),8,7,False
+2026-03,Lancaster,Private room | Monthly (30+n),10,9,False
+2026-03,Larchmont,Entire home/apt | Short-stay (<30n),17,16,False
+2026-03,Larchmont,Private room | Monthly (30+n),12,8,False
+2026-03,Lawndale,Entire home/apt | Monthly (30+n),12,8,False
+2026-03,Lawndale,Private room | Monthly (30+n),10,9,False
+2026-03,Leimert Park,Entire home/apt | Short-stay (<30n),8,8,False
+2026-03,Leimert Park,Private room | Monthly (30+n),10,10,False
+2026-03,Leimert Park,Private room | Short-stay (<30n),1,1,False
+2026-03,Lennox,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Lennox,Private room | Monthly (30+n),4,4,False
+2026-03,Lennox,Private room | Short-stay (<30n),12,10,False
+2026-03,Lennox,Shared room | Short-stay (<30n),9,9,False
+2026-03,Leona Valley,Entire home/apt | Short-stay (<30n),5,5,False
+2026-03,Lincoln Heights,Entire home/apt | Short-stay (<30n),7,7,False
+2026-03,Lincoln Heights,Private room | Monthly (30+n),24,14,False
+2026-03,Lincoln Heights,Private room | Short-stay (<30n),2,2,False
+2026-03,Lincoln Heights,Shared room | Monthly (30+n),17,9,False
+2026-03,Lomita,Entire home/apt | Monthly (30+n),2,1,False
+2026-03,Lomita,Entire home/apt | Short-stay (<30n),23,17,False
+2026-03,Lomita,Private room | Short-stay (<30n),9,7,False
+2026-03,Long Beach,Entire home/apt | Unknown,1,1,False
+2026-03,Long Beach,Private room | Unknown,1,1,False
+2026-03,Long Beach,Shared room | Monthly (30+n),6,0,False
+2026-03,Long Beach,Shared room | Short-stay (<30n),9,9,False
+2026-03,Lopez/Kagel Canyons,Entire home/apt | Short-stay (<30n),6,6,False
+2026-03,Lopez/Kagel Canyons,Private room | Monthly (30+n),1,0,False
+2026-03,Los Feliz,Private room | Monthly (30+n),31,14,False
+2026-03,Los Feliz,Private room | Short-stay (<30n),3,2,False
+2026-03,Lynwood,Hotel room | Short-stay (<30n),2,2,False
+2026-03,Lynwood,Private room | Short-stay (<30n),16,14,False
+2026-03,Malibu,Private room | Monthly (30+n),17,11,False
+2026-03,Malibu,Private room | Short-stay (<30n),10,9,False
+2026-03,Manchester Square,Entire home/apt | Short-stay (<30n),11,11,False
+2026-03,Manchester Square,Private room | Monthly (30+n),4,4,False
+2026-03,Manchester Square,Private room | Short-stay (<30n),2,2,False
+2026-03,Manhattan Beach,Private room | Short-stay (<30n),9,6,False
+2026-03,Manhattan Beach,Shared room | Short-stay (<30n),1,1,False
+2026-03,Mar Vista,Private room | Short-stay (<30n),8,6,False
+2026-03,Marina del Rey,Hotel room | Short-stay (<30n),1,0,False
+2026-03,Marina del Rey,Private room | Monthly (30+n),7,2,False
+2026-03,Marina del Rey,Private room | Short-stay (<30n),25,15,False
+2026-03,Mayflower Village,Entire home/apt | Monthly (30+n),5,4,False
+2026-03,Mayflower Village,Private room | Short-stay (<30n),9,9,False
+2026-03,Mayflower Village,Shared room | Short-stay (<30n),1,1,False
+2026-03,Maywood,Entire home/apt | Short-stay (<30n),9,9,False
+2026-03,Maywood,Private room | Short-stay (<30n),2,2,False
+2026-03,Mid-Wilshire,Private room | Short-stay (<30n),12,12,False
+2026-03,Mid-Wilshire,Shared room | Monthly (30+n),13,8,False
+2026-03,Mission Hills,Entire home/apt | Monthly (30+n),10,9,False
+2026-03,Mission Hills,Entire home/apt | Short-stay (<30n),6,6,False
+2026-03,Mission Hills,Private room | Monthly (30+n),6,5,False
+2026-03,Monrovia,Entire home/apt | Monthly (30+n),10,8,False
+2026-03,Monrovia,Private room | Monthly (30+n),3,1,False
+2026-03,Montebello,Entire home/apt | Monthly (30+n),2,2,False
+2026-03,Montebello,Private room | Short-stay (<30n),16,8,False
+2026-03,Montecito Heights,Private room | Monthly (30+n),22,14,False
+2026-03,Montecito Heights,Private room | Short-stay (<30n),1,1,False
+2026-03,Monterey Park,Entire home/apt | Monthly (30+n),7,7,False
+2026-03,Monterey Park,Private room | Monthly (30+n),14,12,False
+2026-03,Monterey Park,Shared room | Short-stay (<30n),1,1,False
+2026-03,Mount Washington,Private room | Monthly (30+n),7,2,False
+2026-03,Mount Washington,Private room | Short-stay (<30n),7,7,False
+2026-03,North El Monte,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,North El Monte,Entire home/apt | Short-stay (<30n),16,13,False
+2026-03,North El Monte,Private room | Short-stay (<30n),10,4,False
+2026-03,North Hills,Entire home/apt | Short-stay (<30n),20,19,False
+2026-03,North Hills,Private room | Short-stay (<30n),2,2,False
+2026-03,North Hills,Shared room | Monthly (30+n),2,2,False
+2026-03,North Hollywood,Private room | Short-stay (<30n),22,19,False
+2026-03,North Hollywood,Shared room | Monthly (30+n),2,1,False
+2026-03,North Whittier,Entire home/apt | Short-stay (<30n),5,4,False
+2026-03,North Whittier,Private room | Short-stay (<30n),1,1,False
+2026-03,Northeast Antelope Valley,Entire home/apt | Short-stay (<30n),16,15,False
+2026-03,Northridge,Private room | Monthly (30+n),25,18,False
+2026-03,Northridge,Private room | Short-stay (<30n),3,3,False
+2026-03,Northridge,Shared room | Monthly (30+n),6,5,False
+2026-03,Northwest Antelope Valley,Entire home/apt | Short-stay (<30n),8,7,False
+2026-03,Northwest Antelope Valley,Private room | Short-stay (<30n),2,1,False
+2026-03,Northwest Palmdale,Entire home/apt | Monthly (30+n),2,2,False
+2026-03,Northwest Palmdale,Entire home/apt | Short-stay (<30n),18,17,False
+2026-03,Northwest Palmdale,Private room | Short-stay (<30n),3,3,False
+2026-03,Norwalk,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,Norwalk,Hotel room | Short-stay (<30n),2,0,False
+2026-03,Norwalk,Private room | Monthly (30+n),2,2,False
+2026-03,Pacific Palisades,Entire home/apt | Short-stay (<30n),15,15,False
+2026-03,Pacific Palisades,Private room | Monthly (30+n),16,14,False
+2026-03,Pacific Palisades,Private room | Short-stay (<30n),10,5,False
+2026-03,Pacoima,Entire home/apt | Monthly (30+n),5,3,False
+2026-03,Pacoima,Entire home/apt | Short-stay (<30n),6,6,False
+2026-03,Pacoima,Private room | Monthly (30+n),4,3,False
+2026-03,Pacoima,Private room | Short-stay (<30n),1,1,False
+2026-03,Palmdale,Entire home/apt | Monthly (30+n),8,5,False
+2026-03,Palmdale,Private room | Monthly (30+n),7,6,False
+2026-03,Palmdale,Shared room | Short-stay (<30n),2,0,False
+2026-03,Palms,Private room | Short-stay (<30n),4,4,False
+2026-03,Palms,Shared room | Monthly (30+n),2,0,False
+2026-03,Palos Verdes Estates,Entire home/apt | Monthly (30+n),6,5,False
+2026-03,Palos Verdes Estates,Entire home/apt | Short-stay (<30n),10,5,False
+2026-03,Palos Verdes Estates,Private room | Monthly (30+n),3,3,False
+2026-03,Palos Verdes Estates,Private room | Short-stay (<30n),4,2,False
+2026-03,Panorama City,Entire home/apt | Short-stay (<30n),7,7,False
+2026-03,Panorama City,Private room | Monthly (30+n),14,9,False
+2026-03,Panorama City,Private room | Short-stay (<30n),5,4,False
+2026-03,Paramount,Entire home/apt | Monthly (30+n),1,0,False
+2026-03,Paramount,Entire home/apt | Short-stay (<30n),11,11,False
+2026-03,Paramount,Private room | Monthly (30+n),1,1,False
+2026-03,Paramount,Private room | Short-stay (<30n),13,7,False
+2026-03,Pasadena,Shared room | Short-stay (<30n),1,1,False
+2026-03,Pico Rivera,Entire home/apt | Monthly (30+n),2,2,False
+2026-03,Pico Rivera,Private room | Short-stay (<30n),18,9,False
+2026-03,Pico-Robertson,Hotel room | Short-stay (<30n),6,6,False
+2026-03,Pico-Robertson,Private room | Short-stay (<30n),5,4,False
+2026-03,Pico-Robertson,Shared room | Monthly (30+n),2,0,False
+2026-03,Pico-Union,Private room | Short-stay (<30n),5,5,False
+2026-03,Pico-Union,Shared room | Monthly (30+n),4,2,False
+2026-03,Playa Vista,Entire home/apt | Short-stay (<30n),17,16,False
+2026-03,Playa Vista,Private room | Monthly (30+n),6,3,False
+2026-03,Playa Vista,Private room | Short-stay (<30n),3,3,False
+2026-03,Playa del Rey,Entire home/apt | Short-stay (<30n),16,13,False
+2026-03,Playa del Rey,Private room | Monthly (30+n),11,4,False
+2026-03,Playa del Rey,Private room | Short-stay (<30n),12,12,False
+2026-03,Playa del Rey,Shared room | Monthly (30+n),1,0,False
+2026-03,Pomona,Entire home/apt | Monthly (30+n),16,14,False
+2026-03,Porter Ranch,Entire home/apt | Monthly (30+n),18,12,False
+2026-03,Porter Ranch,Entire home/apt | Short-stay (<30n),8,7,False
+2026-03,Porter Ranch,Private room | Monthly (30+n),6,4,False
+2026-03,Quartz Hill,Entire home/apt | Monthly (30+n),5,2,False
+2026-03,Quartz Hill,Private room | Short-stay (<30n),5,4,False
+2026-03,Quartz Hill,Shared room | Short-stay (<30n),1,1,False
+2026-03,Rancho Dominguez,Entire home/apt | Short-stay (<30n),1,1,False
+2026-03,Rancho Dominguez,Private room | Short-stay (<30n),3,0,False
+2026-03,Rancho Palos Verdes,Private room | Monthly (30+n),25,18,False
+2026-03,Rancho Palos Verdes,Private room | Short-stay (<30n),14,12,False
+2026-03,Rancho Park,Entire home/apt | Monthly (30+n),22,19,False
+2026-03,Rancho Park,Entire home/apt | Short-stay (<30n),9,8,False
+2026-03,Rancho Park,Private room | Monthly (30+n),13,9,False
+2026-03,Rancho Park,Private room | Short-stay (<30n),2,2,False
+2026-03,Rancho Park,Shared room | Monthly (30+n),2,2,False
+2026-03,Reseda,Private room | Short-stay (<30n),3,3,False
+2026-03,Reseda,Shared room | Monthly (30+n),2,2,False
+2026-03,Ridge Route,Entire home/apt | Short-stay (<30n),4,4,False
+2026-03,Ridge Route,Private room | Short-stay (<30n),1,1,False
+2026-03,Ridge Route,Shared room | Short-stay (<30n),3,3,False
+2026-03,Rolling Hills,Entire home/apt | Monthly (30+n),2,1,False
+2026-03,Rolling Hills,Entire home/apt | Short-stay (<30n),4,4,False
+2026-03,Rolling Hills,Private room | Short-stay (<30n),1,1,False
+2026-03,Rolling Hills Estates,Entire home/apt | Monthly (30+n),13,9,False
+2026-03,Rolling Hills Estates,Entire home/apt | Short-stay (<30n),7,6,False
+2026-03,Rolling Hills Estates,Private room | Short-stay (<30n),4,4,False
+2026-03,Rosemead,Entire home/apt | Monthly (30+n),14,14,False
+2026-03,Rosemead,Private room | Monthly (30+n),12,11,False
+2026-03,Rowland Heights,Hotel room | Short-stay (<30n),3,0,False
+2026-03,Rowland Heights,Shared room | Monthly (30+n),1,0,False
+2026-03,San Dimas,Entire home/apt | Monthly (30+n),4,2,False
+2026-03,San Dimas,Private room | Monthly (30+n),3,2,False
+2026-03,San Dimas,Private room | Short-stay (<30n),22,16,False
+2026-03,San Fernando,Private room | Short-stay (<30n),8,8,False
+2026-03,San Gabriel,Entire home/apt | Monthly (30+n),9,8,False
+2026-03,San Gabriel,Private room | Monthly (30+n),7,3,False
+2026-03,San Gabriel,Shared room | Short-stay (<30n),1,0,False
+2026-03,San Marino,Entire home/apt | Monthly (30+n),2,1,False
+2026-03,San Marino,Entire home/apt | Short-stay (<30n),7,5,False
+2026-03,San Marino,Private room | Monthly (30+n),1,1,False
+2026-03,San Marino,Private room | Short-stay (<30n),6,2,False
+2026-03,San Pasqual,Entire home/apt | Monthly (30+n),3,2,False
+2026-03,San Pasqual,Entire home/apt | Short-stay (<30n),10,10,False
+2026-03,San Pasqual,Private room | Monthly (30+n),1,1,False
+2026-03,San Pasqual,Private room | Short-stay (<30n),4,4,False
+2026-03,San Pedro,Private room | Monthly (30+n),25,19,False
+2026-03,San Pedro,Private room | Short-stay (<30n),7,2,False
+2026-03,Santa Clarita,Private room | Monthly (30+n),5,3,False
+2026-03,Santa Clarita,Shared room | Short-stay (<30n),8,7,False
+2026-03,Santa Fe Springs,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,Santa Fe Springs,Entire home/apt | Short-stay (<30n),9,9,False
+2026-03,Santa Fe Springs,Private room | Short-stay (<30n),2,2,False
+2026-03,Santa Monica,Entire home/apt | Unknown,1,1,False
+2026-03,Santa Monica,Hotel room | Monthly (30+n),1,1,False
+2026-03,Santa Monica,Hotel room | Short-stay (<30n),6,6,False
+2026-03,Santa Monica,Shared room | Short-stay (<30n),2,1,False
+2026-03,Sawtelle,Private room | Short-stay (<30n),13,10,False
+2026-03,Sawtelle,Shared room | Monthly (30+n),17,14,False
+2026-03,Sepulveda Basin,Entire home/apt | Monthly (30+n),2,2,False
+2026-03,Sepulveda Basin,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Sepulveda Basin,Private room | Monthly (30+n),2,2,False
+2026-03,Shadow Hills,Entire home/apt | Monthly (30+n),27,19,False
+2026-03,Shadow Hills,Entire home/apt | Short-stay (<30n),5,4,False
+2026-03,Shadow Hills,Private room | Monthly (30+n),10,7,False
+2026-03,Shadow Hills,Private room | Short-stay (<30n),3,3,False
+2026-03,Sherman Oaks,Private room | Short-stay (<30n),10,10,False
+2026-03,Sherman Oaks,Shared room | Monthly (30+n),2,1,False
+2026-03,Sierra Madre,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Sierra Madre,Private room | Short-stay (<30n),3,2,False
+2026-03,Signal Hill,Entire home/apt | Monthly (30+n),5,4,False
+2026-03,Signal Hill,Entire home/apt | Short-stay (<30n),24,18,False
+2026-03,Signal Hill,Private room | Monthly (30+n),1,0,False
+2026-03,Signal Hill,Private room | Short-stay (<30n),11,8,False
+2026-03,Silver Lake,Private room | Monthly (30+n),39,16,False
+2026-03,Silver Lake,Private room | Short-stay (<30n),18,12,False
+2026-03,Silver Lake,Private room | Unknown,1,1,False
+2026-03,South Diamond Bar,Private room | Monthly (30+n),1,0,False
+2026-03,South El Monte,Private room | Monthly (30+n),2,2,False
+2026-03,South El Monte,Private room | Short-stay (<30n),12,11,False
+2026-03,South Gate,Private room | Monthly (30+n),2,0,False
+2026-03,South Gate,Private room | Short-stay (<30n),7,2,False
+2026-03,South Park,Entire home/apt | Monthly (30+n),7,3,False
+2026-03,South Park,Private room | Monthly (30+n),16,15,False
+2026-03,South Pasadena,Entire home/apt | Monthly (30+n),8,7,False
+2026-03,South Pasadena,Hotel room | Short-stay (<30n),1,1,False
+2026-03,South Pasadena,Private room | Short-stay (<30n),19,15,False
+2026-03,South San Gabriel,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,South San Gabriel,Private room | Short-stay (<30n),15,13,False
+2026-03,South San Jose Hills,Entire home/apt | Monthly (30+n),4,3,False
+2026-03,South San Jose Hills,Entire home/apt | Short-stay (<30n),13,11,False
+2026-03,South San Jose Hills,Private room | Monthly (30+n),6,6,False
+2026-03,South San Jose Hills,Private room | Short-stay (<30n),2,0,False
+2026-03,South Whittier,Entire home/apt | Monthly (30+n),6,5,False
+2026-03,South Whittier,Private room | Monthly (30+n),1,0,False
+2026-03,South Whittier,Private room | Short-stay (<30n),6,5,False
+2026-03,Southeast Antelope Valley,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,Southeast Antelope Valley,Private room | Short-stay (<30n),12,9,False
+2026-03,Stevenson Ranch,Entire home/apt | Monthly (30+n),2,2,False
+2026-03,Stevenson Ranch,Entire home/apt | Short-stay (<30n),15,13,False
+2026-03,Stevenson Ranch,Private room | Short-stay (<30n),7,5,False
+2026-03,Studio City,Hotel room | Short-stay (<30n),2,0,False
+2026-03,Studio City,Private room | Monthly (30+n),39,19,False
+2026-03,Sun Valley,Private room | Short-stay (<30n),5,5,False
+2026-03,Sun Valley,Shared room | Monthly (30+n),1,1,False
+2026-03,Sun Village,Entire home/apt | Short-stay (<30n),5,4,False
+2026-03,Sun Village,Private room | Monthly (30+n),1,0,False
+2026-03,Sunland,Entire home/apt | Monthly (30+n),5,5,False
+2026-03,Sunland,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Sunland,Private room | Monthly (30+n),2,1,False
+2026-03,Sylmar,Entire home/apt | Monthly (30+n),21,19,False
+2026-03,Sylmar,Entire home/apt | Short-stay (<30n),12,12,False
+2026-03,Sylmar,Private room | Monthly (30+n),14,11,False
+2026-03,Sylmar,Private room | Short-stay (<30n),2,2,False
+2026-03,Sylmar,Shared room | Monthly (30+n),1,1,False
+2026-03,Tarzana,Private room | Short-stay (<30n),10,10,False
+2026-03,Tarzana,Shared room | Monthly (30+n),1,0,False
+2026-03,Temple City,Entire home/apt | Monthly (30+n),14,11,False
+2026-03,Temple City,Private room | Monthly (30+n),11,7,False
+2026-03,Temple City,Shared room | Short-stay (<30n),1,1,False
+2026-03,Toluca Lake,Entire home/apt | Unknown,1,1,False
+2026-03,Toluca Lake,Private room | Monthly (30+n),12,6,False
+2026-03,Toluca Lake,Private room | Short-stay (<30n),7,7,False
+2026-03,Topanga,Entire home/apt | Monthly (30+n),8,6,False
+2026-03,Topanga,Private room | Monthly (30+n),2,0,False
+2026-03,Topanga,Private room | Short-stay (<30n),27,16,False
+2026-03,Topanga,Shared room | Short-stay (<30n),1,1,False
+2026-03,Torrance,Hotel room | Short-stay (<30n),16,14,False
+2026-03,Torrance,Private room | Monthly (30+n),18,16,False
+2026-03,Torrance,Shared room | Short-stay (<30n),2,0,False
+2026-03,Tujunga,Entire home/apt | Monthly (30+n),21,18,False
+2026-03,Tujunga,Entire home/apt | Short-stay (<30n),10,10,False
+2026-03,Tujunga,Private room | Monthly (30+n),9,7,False
+2026-03,Tujunga,Private room | Short-stay (<30n),1,1,False
+2026-03,Tujunga Canyons,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Tujunga Canyons,Entire home/apt | Short-stay (<30n),16,13,False
+2026-03,Tujunga Canyons,Private room | Short-stay (<30n),3,2,False
+2026-03,Unincorporated Catalina Island,Entire home/apt | Short-stay (<30n),5,5,False
+2026-03,Unincorporated Catalina Island,Private room | Short-stay (<30n),5,3,False
+2026-03,Unincorporated Santa Monica Mountains,Entire home/apt | Monthly (30+n),15,11,False
+2026-03,Unincorporated Santa Monica Mountains,Private room | Short-stay (<30n),12,9,False
+2026-03,Unincorporated Santa Susana Mountains,Private room | Short-stay (<30n),9,6,False
+2026-03,Universal City,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,Universal City,Private room | Short-stay (<30n),1,1,False
+2026-03,University Park,Entire home/apt | Monthly (30+n),23,19,False
+2026-03,University Park,Entire home/apt | Short-stay (<30n),1,1,False
+2026-03,University Park,Private room | Short-stay (<30n),4,0,False
+2026-03,University Park,Shared room | Monthly (30+n),4,0,False
+2026-03,Val Verde,Entire home/apt | Short-stay (<30n),3,1,False
+2026-03,Val Verde,Private room | Short-stay (<30n),1,1,False
+2026-03,Valinda,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Valinda,Private room | Short-stay (<30n),13,8,False
+2026-03,Valley Glen,Private room | Short-stay (<30n),8,7,False
+2026-03,Valley Glen,Shared room | Monthly (30+n),1,0,False
+2026-03,Valley Village,Private room | Monthly (30+n),16,6,False
+2026-03,Valley Village,Private room | Short-stay (<30n),13,13,False
+2026-03,Valley Village,Shared room | Monthly (30+n),2,0,False
+2026-03,Van Nuys,Private room | Short-stay (<30n),10,10,False
+2026-03,Van Nuys,Shared room | Monthly (30+n),1,0,False
+2026-03,Venice,Shared room | Monthly (30+n),5,4,False
+2026-03,Vermont Knolls,Entire home/apt | Monthly (30+n),11,9,False
+2026-03,Vermont Knolls,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Vermont Knolls,Private room | Monthly (30+n),9,6,False
+2026-03,Vermont Knolls,Private room | Short-stay (<30n),1,0,False
+2026-03,Vermont Knolls,Shared room | Monthly (30+n),1,1,False
+2026-03,Vermont Square,Private room | Short-stay (<30n),9,7,False
+2026-03,Vermont Vista,Entire home/apt | Monthly (30+n),13,13,False
+2026-03,Vermont Vista,Entire home/apt | Short-stay (<30n),5,5,False
+2026-03,Vermont Vista,Private room | Monthly (30+n),12,11,False
+2026-03,Vermont-Slauson,Entire home/apt | Monthly (30+n),12,9,False
+2026-03,Vermont-Slauson,Entire home/apt | Short-stay (<30n),4,4,False
+2026-03,Vermont-Slauson,Private room | Monthly (30+n),12,8,False
+2026-03,Vernon,Shared room | Short-stay (<30n),6,6,False
+2026-03,Veterans Administration,Entire home/apt | Monthly (30+n),4,2,False
+2026-03,Veterans Administration,Private room | Monthly (30+n),2,0,False
+2026-03,View Park-Windsor Hills,Entire home/apt | Monthly (30+n),23,18,False
+2026-03,View Park-Windsor Hills,Entire home/apt | Unknown,1,1,False
+2026-03,View Park-Windsor Hills,Private room | Monthly (30+n),6,5,False
+2026-03,Vincent,Entire home/apt | Monthly (30+n),4,4,False
+2026-03,Vincent,Entire home/apt | Short-stay (<30n),4,2,False
+2026-03,Vincent,Private room | Short-stay (<30n),6,5,False
+2026-03,Walnut,Entire home/apt | Monthly (30+n),12,11,False
+2026-03,Walnut,Private room | Monthly (30+n),9,8,False
+2026-03,Walnut,Shared room | Short-stay (<30n),1,0,False
+2026-03,Walnut Park,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Watts,Entire home/apt | Monthly (30+n),4,3,False
+2026-03,Watts,Entire home/apt | Short-stay (<30n),2,2,False
+2026-03,Watts,Private room | Monthly (30+n),2,0,False
+2026-03,Watts,Shared room | Monthly (30+n),9,9,False
+2026-03,West Adams,Private room | Monthly (30+n),14,7,False
+2026-03,West Adams,Private room | Short-stay (<30n),8,1,False
+2026-03,West Carson,Entire home/apt | Monthly (30+n),7,4,False
+2026-03,West Carson,Private room | Monthly (30+n),4,4,False
+2026-03,West Carson,Private room | Short-stay (<30n),19,11,False
+2026-03,West Compton,Entire home/apt | Short-stay (<30n),6,4,False
+2026-03,West Compton,Private room | Short-stay (<30n),5,3,False
+2026-03,West Compton,Shared room | Monthly (30+n),1,0,False
+2026-03,West Covina,Private room | Monthly (30+n),9,6,False
+2026-03,West Covina,Shared room | Short-stay (<30n),2,2,False
+2026-03,West Hills,Private room | Short-stay (<30n),4,4,False
+2026-03,West Hollywood,Shared room | Short-stay (<30n),3,3,False
+2026-03,West Los Angeles,Private room | Short-stay (<30n),2,2,False
+2026-03,West Puente Valley,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,West Puente Valley,Entire home/apt | Short-stay (<30n),10,9,False
+2026-03,West Puente Valley,Private room | Monthly (30+n),1,0,False
+2026-03,West Puente Valley,Private room | Short-stay (<30n),4,3,False
+2026-03,West Whittier-Los Nietos,Entire home/apt | Monthly (30+n),3,3,False
+2026-03,West Whittier-Los Nietos,Entire home/apt | Short-stay (<30n),18,14,False
+2026-03,West Whittier-Los Nietos,Private room | Short-stay (<30n),7,5,False
+2026-03,West Whittier-Los Nietos,Shared room | Short-stay (<30n),1,0,False
+2026-03,Westchester,Hotel room | Short-stay (<30n),6,6,False
+2026-03,Westchester,Private room | Short-stay (<30n),20,14,False
+2026-03,Westlake,Private room | Short-stay (<30n),18,14,False
+2026-03,Westlake,Shared room | Monthly (30+n),7,7,False
+2026-03,Westlake Village,Entire home/apt | Monthly (30+n),1,1,False
+2026-03,Westlake Village,Entire home/apt | Short-stay (<30n),8,7,False
+2026-03,Westlake Village,Private room | Short-stay (<30n),1,1,False
+2026-03,Westmont,Entire home/apt | Monthly (30+n),8,6,False
+2026-03,Westmont,Private room | Short-stay (<30n),9,4,False
+2026-03,Westwood,Entire home/apt | Short-stay (<30n),18,18,False
+2026-03,Westwood,Private room | Short-stay (<30n),24,14,False
+2026-03,Westwood,Shared room | Monthly (30+n),7,1,False
+2026-03,Whittier,Entire home/apt | Monthly (30+n),1,0,False
+2026-03,Whittier,Private room | Monthly (30+n),7,7,False
+2026-03,Whittier,Shared room | Short-stay (<30n),1,0,False
+2026-03,Willowbrook,Entire home/apt | Short-stay (<30n),18,17,False
+2026-03,Wilmington,Entire home/apt | Monthly (30+n),7,7,False
+2026-03,Wilmington,Entire home/apt | Short-stay (<30n),3,3,False
+2026-03,Wilmington,Hotel room | Monthly (30+n),1,1,False
+2026-03,Wilmington,Private room | Monthly (30+n),2,2,False
+2026-03,Wilmington,Private room | Short-stay (<30n),2,0,False
+2026-03,Windsor Square,Entire home/apt | Monthly (30+n),12,9,False
+2026-03,Windsor Square,Entire home/apt | Short-stay (<30n),8,5,False
+2026-03,Windsor Square,Private room | Monthly (30+n),5,3,False
+2026-03,Windsor Square,Private room | Short-stay (<30n),1,1,False
+2026-03,Winnetka,Private room | Short-stay (<30n),12,12,False
+2026-03,Woodland Hills,Private room | Short-stay (<30n),8,8,False
+2026-03,Woodland Hills,Shared room | Monthly (30+n),2,1,False
+2026-06,Acton,Entire home/apt | Monthly (30+n),2,1,False
+2026-06,Acton,Entire home/apt | Short-stay (<30n),15,12,False
+2026-06,Acton,Private room | Short-stay (<30n),3,3,False
+2026-06,Adams-Normandie,Entire home/apt | Monthly (30+n),19,16,False
+2026-06,Adams-Normandie,Entire home/apt | Short-stay (<30n),4,4,False
+2026-06,Adams-Normandie,Private room | Short-stay (<30n),2,2,False
+2026-06,Agoura Hills,Entire home/apt | Monthly (30+n),17,16,False
+2026-06,Agoura Hills,Private room | Monthly (30+n),4,4,False
+2026-06,Agoura Hills,Private room | Short-stay (<30n),7,5,False
+2026-06,Agua Dulce,Entire home/apt | Monthly (30+n),4,2,False
+2026-06,Agua Dulce,Entire home/apt | Short-stay (<30n),16,16,False
+2026-06,Agua Dulce,Private room | Short-stay (<30n),6,6,False
+2026-06,Alhambra,Private room | Monthly (30+n),15,11,False
+2026-06,Alhambra,Shared room | Short-stay (<30n),2,2,False
+2026-06,Alondra Park,Entire home/apt | Short-stay (<30n),18,17,False
+2026-06,Alondra Park,Private room | Short-stay (<30n),1,1,False
+2026-06,Altadena,Entire home/apt | Monthly (30+n),7,6,False
+2026-06,Altadena,Private room | Monthly (30+n),1,1,False
+2026-06,Altadena,Private room | Short-stay (<30n),22,16,False
+2026-06,Angeles Crest,Entire home/apt | Short-stay (<30n),6,6,False
+2026-06,Arcadia,Private room | Monthly (30+n),13,13,False
+2026-06,Arcadia,Shared room | Short-stay (<30n),2,2,False
+2026-06,Arleta,Entire home/apt | Monthly (30+n),5,4,False
+2026-06,Arleta,Private room | Monthly (30+n),4,4,False
+2026-06,Arlington Heights,Entire home/apt | Short-stay (<30n),13,13,False
+2026-06,Arlington Heights,Private room | Short-stay (<30n),4,4,False
+2026-06,Arlington Heights,Shared room | Monthly (30+n),1,1,False
+2026-06,Artesia,Entire home/apt | Monthly (30+n),4,4,False
+2026-06,Artesia,Entire home/apt | Short-stay (<30n),2,1,False
+2026-06,Artesia,Private room | Monthly (30+n),1,1,False
+2026-06,Artesia,Private room | Short-stay (<30n),1,1,False
+2026-06,Athens,Entire home/apt | Short-stay (<30n),10,9,False
+2026-06,Athens,Private room | Short-stay (<30n),6,6,False
+2026-06,Atwater Village,Private room | Monthly (30+n),8,6,False
+2026-06,Atwater Village,Private room | Short-stay (<30n),3,1,False
+2026-06,Avalon,Hotel room | Short-stay (<30n),11,11,False
+2026-06,Avalon,Private room | Short-stay (<30n),8,7,False
+2026-06,Avocado Heights,Private room | Monthly (30+n),1,1,False
+2026-06,Avocado Heights,Private room | Short-stay (<30n),8,4,False
+2026-06,Azusa,Entire home/apt | Monthly (30+n),7,7,False
+2026-06,Azusa,Private room | Monthly (30+n),3,3,False
+2026-06,Azusa,Private room | Short-stay (<30n),22,15,False
+2026-06,Baldwin Hills/Crenshaw,Private room | Short-stay (<30n),6,6,False
+2026-06,Baldwin Hills/Crenshaw,Shared room | Monthly (30+n),1,1,False
+2026-06,Baldwin Park,Entire home/apt | Monthly (30+n),4,4,False
+2026-06,Baldwin Park,Private room | Monthly (30+n),4,4,False
+2026-06,Bel-Air,Private room | Monthly (30+n),5,5,False
+2026-06,Bel-Air,Private room | Short-stay (<30n),7,7,False
+2026-06,Bell,Entire home/apt | Short-stay (<30n),13,11,False
+2026-06,Bell,Private room | Short-stay (<30n),8,8,False
+2026-06,Bell Gardens,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Bell Gardens,Entire home/apt | Short-stay (<30n),8,6,False
+2026-06,Bell Gardens,Private room | Monthly (30+n),2,2,False
+2026-06,Bell Gardens,Private room | Short-stay (<30n),10,10,False
+2026-06,Bellflower,Entire home/apt | Monthly (30+n),4,4,False
+2026-06,Bellflower,Private room | Monthly (30+n),1,1,False
+2026-06,Bellflower,Private room | Short-stay (<30n),12,11,False
+2026-06,Beverly Crest,Private room | Monthly (30+n),10,8,False
+2026-06,Beverly Crest,Private room | Short-stay (<30n),6,6,False
+2026-06,Beverly Grove,Entire home/apt | Unknown,1,0,False
+2026-06,Beverly Grove,Hotel room | Short-stay (<30n),4,4,False
+2026-06,Beverly Grove,Private room | Short-stay (<30n),8,7,False
+2026-06,Beverly Hills,Entire home/apt | Unknown,1,1,False
+2026-06,Beverly Hills,Shared room | Short-stay (<30n),1,1,False
+2026-06,Beverlywood,Entire home/apt | Monthly (30+n),19,17,False
+2026-06,Beverlywood,Entire home/apt | Short-stay (<30n),1,1,False
+2026-06,Beverlywood,Private room | Monthly (30+n),7,7,False
+2026-06,Boyle Heights,Private room | Short-stay (<30n),7,7,False
+2026-06,Brentwood,Entire home/apt | Short-stay (<30n),19,19,False
+2026-06,Brentwood,Hotel room | Short-stay (<30n),16,16,False
+2026-06,Brentwood,Private room | Short-stay (<30n),4,4,False
+2026-06,Broadway-Manchester,Entire home/apt | Monthly (30+n),5,5,False
+2026-06,Broadway-Manchester,Entire home/apt | Short-stay (<30n),4,4,False
+2026-06,Broadway-Manchester,Private room | Monthly (30+n),2,2,False
+2026-06,Broadway-Manchester,Private room | Short-stay (<30n),1,1,False
+2026-06,Burbank,Entire home/apt | Unknown,1,1,False
+2026-06,Burbank,Private room | Monthly (30+n),9,5,False
+2026-06,Calabasas,Private room | Monthly (30+n),10,7,False
+2026-06,Calabasas,Private room | Short-stay (<30n),13,11,False
+2026-06,Canoga Park,Entire home/apt | Short-stay (<30n),9,9,False
+2026-06,Canoga Park,Private room | Short-stay (<30n),3,3,False
+2026-06,Canoga Park,Shared room | Monthly (30+n),1,1,False
+2026-06,Carson,Entire home/apt | Monthly (30+n),13,10,False
+2026-06,Carson,Private room | Monthly (30+n),3,3,False
+2026-06,Carthay,Private room | Monthly (30+n),16,12,False
+2026-06,Carthay,Private room | Short-stay (<30n),15,15,False
+2026-06,Castaic,Entire home/apt | Short-stay (<30n),10,10,False
+2026-06,Castaic,Private room | Short-stay (<30n),9,7,False
+2026-06,Castaic Canyons,Entire home/apt | Monthly (30+n),11,9,False
+2026-06,Castaic Canyons,Private room | Monthly (30+n),3,2,False
+2026-06,Castaic Canyons,Private room | Short-stay (<30n),8,6,False
+2026-06,Central-Alameda,Entire home/apt | Monthly (30+n),5,5,False
+2026-06,Central-Alameda,Entire home/apt | Short-stay (<30n),8,6,False
+2026-06,Central-Alameda,Private room | Monthly (30+n),6,6,False
+2026-06,Central-Alameda,Shared room | Monthly (30+n),4,4,False
+2026-06,Century City,Entire home/apt | Short-stay (<30n),7,7,False
+2026-06,Century City,Private room | Monthly (30+n),1,0,False
+2026-06,Century City,Private room | Short-stay (<30n),2,2,False
+2026-06,Cerritos,Entire home/apt | Monthly (30+n),4,3,False
+2026-06,Cerritos,Entire home/apt | Short-stay (<30n),2,2,False
+2026-06,Cerritos,Private room | Monthly (30+n),5,3,False
+2026-06,Cerritos,Private room | Short-stay (<30n),9,9,False
+2026-06,Charter Oak,Entire home/apt | Monthly (30+n),1,0,False
+2026-06,Charter Oak,Entire home/apt | Short-stay (<30n),10,10,False
+2026-06,Charter Oak,Private room | Short-stay (<30n),6,4,False
+2026-06,Chatsworth,Private room | Monthly (30+n),17,17,False
+2026-06,Chatsworth,Private room | Short-stay (<30n),13,12,False
+2026-06,Chatsworth,Shared room | Monthly (30+n),3,3,False
+2026-06,Chatsworth Reservoir,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Chatsworth Reservoir,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Chesterfield Square,Entire home/apt | Monthly (30+n),10,9,False
+2026-06,Chesterfield Square,Entire home/apt | Short-stay (<30n),4,3,False
+2026-06,Chesterfield Square,Private room | Monthly (30+n),1,0,False
+2026-06,Chesterfield Square,Private room | Short-stay (<30n),2,2,False
+2026-06,Cheviot Hills,Entire home/apt | Monthly (30+n),11,8,False
+2026-06,Cheviot Hills,Entire home/apt | Short-stay (<30n),5,5,False
+2026-06,Cheviot Hills,Private room | Monthly (30+n),1,1,False
+2026-06,Chinatown,Entire home/apt | Monthly (30+n),32,11,False
+2026-06,Chinatown,Entire home/apt | Short-stay (<30n),18,17,False
+2026-06,Chinatown,Private room | Monthly (30+n),7,6,False
+2026-06,Chinatown,Private room | Short-stay (<30n),1,1,False
+2026-06,Citrus,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Citrus,Private room | Short-stay (<30n),1,1,False
+2026-06,Claremont,Entire home/apt | Monthly (30+n),10,10,False
+2026-06,Claremont,Private room | Monthly (30+n),9,8,False
+2026-06,Claremont,Private room | Short-stay (<30n),9,5,False
+2026-06,Commerce,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,Commerce,Entire home/apt | Short-stay (<30n),15,13,False
+2026-06,Compton,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Compton,Private room | Short-stay (<30n),21,19,False
+2026-06,Covina,Entire home/apt | Monthly (30+n),5,5,False
+2026-06,Covina,Private room | Monthly (30+n),2,2,False
+2026-06,Cudahy,Private room | Short-stay (<30n),1,1,False
+2026-06,Culver City,Entire home/apt | Unknown,1,0,False
+2026-06,Culver City,Hotel room | Short-stay (<30n),2,2,False
+2026-06,Culver City,Private room | Monthly (30+n),4,3,False
+2026-06,Cypress Park,Entire home/apt | Monthly (30+n),12,7,False
+2026-06,Cypress Park,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Cypress Park,Private room | Monthly (30+n),7,5,False
+2026-06,Del Aire,Entire home/apt | Monthly (30+n),8,7,False
+2026-06,Del Aire,Private room | Monthly (30+n),2,2,False
+2026-06,Del Aire,Private room | Short-stay (<30n),15,13,False
+2026-06,Del Rey,Private room | Short-stay (<30n),13,11,False
+2026-06,Desert View Highlands,Entire home/apt | Short-stay (<30n),5,4,False
+2026-06,Desert View Highlands,Private room | Short-stay (<30n),2,2,False
+2026-06,Diamond Bar,Private room | Monthly (30+n),19,13,False
+2026-06,Diamond Bar,Private room | Short-stay (<30n),24,10,False
+2026-06,Downey,Entire home/apt | Monthly (30+n),14,11,False
+2026-06,Downey,Private room | Monthly (30+n),6,5,False
+2026-06,Downtown,Shared room | Monthly (30+n),2,2,False
+2026-06,Duarte,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,Duarte,Private room | Monthly (30+n),1,1,False
+2026-06,Duarte,Private room | Short-stay (<30n),20,18,False
+2026-06,Eagle Rock,Hotel room | Monthly (30+n),1,1,False
+2026-06,Eagle Rock,Private room | Monthly (30+n),10,7,False
+2026-06,Eagle Rock,Private room | Short-stay (<30n),4,3,False
+2026-06,East Compton,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,East Compton,Entire home/apt | Short-stay (<30n),5,5,False
+2026-06,East Hollywood,Private room | Short-stay (<30n),16,16,False
+2026-06,East Hollywood,Shared room | Monthly (30+n),8,8,False
+2026-06,East Hollywood,Shared room | Short-stay (<30n),4,4,False
+2026-06,East Los Angeles,Entire home/apt | Monthly (30+n),12,10,False
+2026-06,East Los Angeles,Private room | Monthly (30+n),4,4,False
+2026-06,East Pasadena,Entire home/apt | Monthly (30+n),8,4,False
+2026-06,East Pasadena,Private room | Short-stay (<30n),19,10,False
+2026-06,East San Gabriel,Entire home/apt | Monthly (30+n),4,3,False
+2026-06,East San Gabriel,Private room | Monthly (30+n),8,8,False
+2026-06,East Whittier,Entire home/apt | Short-stay (<30n),2,2,False
+2026-06,East Whittier,Private room | Short-stay (<30n),2,2,False
+2026-06,Echo Park,Hotel room | Monthly (30+n),2,1,False
+2026-06,Echo Park,Hotel room | Short-stay (<30n),6,6,False
+2026-06,Echo Park,Private room | Short-stay (<30n),9,9,False
+2026-06,El Monte,Entire home/apt | Monthly (30+n),7,7,False
+2026-06,El Monte,Private room | Monthly (30+n),2,2,False
+2026-06,El Monte,Shared room | Short-stay (<30n),3,3,False
+2026-06,El Segundo,Entire home/apt | Short-stay (<30n),17,16,False
+2026-06,El Segundo,Hotel room | Short-stay (<30n),5,5,False
+2026-06,El Segundo,Private room | Monthly (30+n),16,14,False
+2026-06,El Sereno,Private room | Monthly (30+n),22,18,False
+2026-06,El Sereno,Private room | Short-stay (<30n),2,2,False
+2026-06,Elizabeth Lake,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Elizabeth Lake,Entire home/apt | Short-stay (<30n),1,1,False
+2026-06,Elysian Park,Entire home/apt | Monthly (30+n),8,7,False
+2026-06,Elysian Park,Entire home/apt | Short-stay (<30n),5,5,False
+2026-06,Elysian Park,Private room | Monthly (30+n),3,2,False
+2026-06,Elysian Valley,Entire home/apt | Monthly (30+n),22,18,False
+2026-06,Elysian Valley,Entire home/apt | Short-stay (<30n),7,7,False
+2026-06,Elysian Valley,Private room | Monthly (30+n),1,0,False
+2026-06,Elysian Valley,Private room | Short-stay (<30n),1,1,False
+2026-06,Encino,Private room | Monthly (30+n),22,18,False
+2026-06,Encino,Private room | Short-stay (<30n),9,9,False
+2026-06,Encino,Shared room | Monthly (30+n),12,12,False
+2026-06,Exposition Park,Entire home/apt | Short-stay (<30n),14,13,False
+2026-06,Exposition Park,Private room | Short-stay (<30n),3,3,False
+2026-06,Exposition Park,Shared room | Monthly (30+n),3,3,False
+2026-06,Fairfax,Private room | Monthly (30+n),28,16,False
+2026-06,Fairfax,Private room | Short-stay (<30n),7,7,False
+2026-06,Florence,Entire home/apt | Monthly (30+n),6,6,False
+2026-06,Florence,Entire home/apt | Short-stay (<30n),2,1,False
+2026-06,Florence,Private room | Monthly (30+n),1,1,False
+2026-06,Florence-Firestone,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,Florence-Firestone,Entire home/apt | Short-stay (<30n),14,13,False
+2026-06,Florence-Firestone,Private room | Short-stay (<30n),12,5,False
+2026-06,Gardena,Entire home/apt | Monthly (30+n),7,6,False
+2026-06,Gardena,Private room | Monthly (30+n),13,11,False
+2026-06,Glassell Park,Private room | Monthly (30+n),13,10,False
+2026-06,Glassell Park,Private room | Short-stay (<30n),3,3,False
+2026-06,Glendale,Private room | Monthly (30+n),3,3,False
+2026-06,Glendale,Shared room | Short-stay (<30n),4,4,False
+2026-06,Glendora,Entire home/apt | Monthly (30+n),10,10,False
+2026-06,Glendora,Private room | Monthly (30+n),4,3,False
+2026-06,Gramercy Park,Entire home/apt | Short-stay (<30n),16,16,False
+2026-06,Gramercy Park,Private room | Monthly (30+n),6,6,False
+2026-06,Gramercy Park,Private room | Short-stay (<30n),2,2,False
+2026-06,Granada Hills,Private room | Monthly (30+n),4,3,False
+2026-06,Granada Hills,Private room | Short-stay (<30n),3,2,False
+2026-06,Green Meadows,Entire home/apt | Monthly (30+n),2,1,False
+2026-06,Green Meadows,Entire home/apt | Short-stay (<30n),4,4,False
+2026-06,Green Meadows,Private room | Monthly (30+n),3,2,False
+2026-06,Green Meadows,Private room | Short-stay (<30n),1,1,False
+2026-06,Green Valley,Entire home/apt | Short-stay (<30n),4,4,False
+2026-06,Griffith Park,Entire home/apt | Monthly (30+n),1,0,False
+2026-06,Griffith Park,Entire home/apt | Short-stay (<30n),1,1,False
+2026-06,Hacienda Heights,Entire home/apt | Monthly (30+n),14,14,False
+2026-06,Hacienda Heights,Private room | Monthly (30+n),22,19,False
+2026-06,Hacienda Heights,Shared room | Monthly (30+n),2,2,False
+2026-06,Hancock Park,Entire home/apt | Short-stay (<30n),14,12,False
+2026-06,Hancock Park,Private room | Monthly (30+n),8,5,False
+2026-06,Hancock Park,Private room | Short-stay (<30n),7,7,False
+2026-06,Harbor City,Entire home/apt | Monthly (30+n),13,12,False
+2026-06,Harbor City,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Harbor City,Private room | Short-stay (<30n),7,7,False
+2026-06,Harbor Gateway,Entire home/apt | Short-stay (<30n),10,10,False
+2026-06,Harbor Gateway,Private room | Monthly (30+n),21,18,False
+2026-06,Harbor Gateway,Private room | Short-stay (<30n),1,1,False
+2026-06,Harbor Gateway,Shared room | Monthly (30+n),5,5,False
+2026-06,Harvard Heights,Entire home/apt | Short-stay (<30n),19,17,False
+2026-06,Harvard Heights,Private room | Monthly (30+n),14,12,False
+2026-06,Harvard Heights,Private room | Short-stay (<30n),7,7,False
+2026-06,Harvard Park,Entire home/apt | Monthly (30+n),5,5,False
+2026-06,Harvard Park,Entire home/apt | Short-stay (<30n),2,2,False
+2026-06,Harvard Park,Private room | Monthly (30+n),4,4,False
+2026-06,Hasley Canyon,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,Hasley Canyon,Entire home/apt | Short-stay (<30n),3,2,False
+2026-06,Hawaiian Gardens,Entire home/apt | Short-stay (<30n),3,1,False
+2026-06,Hawaiian Gardens,Private room | Monthly (30+n),2,2,False
+2026-06,Hawaiian Gardens,Private room | Short-stay (<30n),1,1,False
+2026-06,Hawthorne,Entire home/apt | Monthly (30+n),18,14,False
+2026-06,Hawthorne,Private room | Monthly (30+n),5,5,False
+2026-06,Hawthorne,Private room | Unknown,1,1,False
+2026-06,Hawthorne,Shared room | Short-stay (<30n),1,1,False
+2026-06,Hermosa Beach,Private room | Monthly (30+n),7,6,False
+2026-06,Hermosa Beach,Private room | Short-stay (<30n),17,15,False
+2026-06,Hermosa Beach,Shared room | Short-stay (<30n),10,10,False
+2026-06,Hidden Hills,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Highland Park,Private room | Short-stay (<30n),8,7,False
+2026-06,Historic South-Central,Entire home/apt | Monthly (30+n),13,13,False
+2026-06,Historic South-Central,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Historic South-Central,Private room | Monthly (30+n),20,18,False
+2026-06,Historic South-Central,Private room | Short-stay (<30n),13,8,False
+2026-06,Historic South-Central,Shared room | Monthly (30+n),2,2,False
+2026-06,Hollywood,Entire home/apt | Unknown,1,1,False
+2026-06,Hollywood,Hotel room | Monthly (30+n),2,2,False
+2026-06,Hollywood,Shared room | Short-stay (<30n),2,2,False
+2026-06,Hollywood Hills,Entire home/apt | Unknown,1,1,False
+2026-06,Hollywood Hills,Shared room | Monthly (30+n),1,1,False
+2026-06,Hollywood Hills West,Private room | Short-stay (<30n),17,17,False
+2026-06,Huntington Park,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,Huntington Park,Entire home/apt | Short-stay (<30n),17,17,False
+2026-06,Huntington Park,Private room | Short-stay (<30n),1,0,False
+2026-06,Hyde Park,Private room | Short-stay (<30n),10,10,False
+2026-06,Industry,Entire home/apt | Monthly (30+n),6,4,False
+2026-06,Industry,Entire home/apt | Short-stay (<30n),8,4,False
+2026-06,Industry,Private room | Short-stay (<30n),4,2,False
+2026-06,Inglewood,Hotel room | Short-stay (<30n),13,12,False
+2026-06,Inglewood,Shared room | Monthly (30+n),1,0,False
+2026-06,Inglewood,Shared room | Short-stay (<30n),1,1,False
+2026-06,Irwindale,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Irwindale,Private room | Short-stay (<30n),4,4,False
+2026-06,Jefferson Park,Private room | Monthly (30+n),18,17,False
+2026-06,Jefferson Park,Private room | Short-stay (<30n),3,3,False
+2026-06,Koreatown,Hotel room | Short-stay (<30n),14,14,False
+2026-06,Koreatown,Shared room | Monthly (30+n),10,10,False
+2026-06,Koreatown,Shared room | Short-stay (<30n),1,1,False
+2026-06,La Canada Flintridge,Entire home/apt | Monthly (30+n),5,4,False
+2026-06,La Canada Flintridge,Private room | Short-stay (<30n),6,6,False
+2026-06,La Crescenta-Montrose,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,La Crescenta-Montrose,Entire home/apt | Short-stay (<30n),22,19,False
+2026-06,La Crescenta-Montrose,Private room | Monthly (30+n),1,1,False
+2026-06,La Crescenta-Montrose,Private room | Short-stay (<30n),7,3,False
+2026-06,La Habra Heights,Entire home/apt | Monthly (30+n),4,4,False
+2026-06,La Habra Heights,Private room | Monthly (30+n),5,3,False
+2026-06,La Habra Heights,Private room | Short-stay (<30n),4,2,False
+2026-06,La Habra Heights,Shared room | Short-stay (<30n),1,1,False
+2026-06,La Mirada,Entire home/apt | Monthly (30+n),12,9,False
+2026-06,La Mirada,Entire home/apt | Short-stay (<30n),6,4,False
+2026-06,La Mirada,Private room | Monthly (30+n),11,11,False
+2026-06,La Mirada,Private room | Short-stay (<30n),5,5,False
+2026-06,La Puente,Entire home/apt | Monthly (30+n),3,2,False
+2026-06,La Puente,Private room | Short-stay (<30n),21,15,False
+2026-06,La Puente,Shared room | Short-stay (<30n),1,0,False
+2026-06,La Verne,Entire home/apt | Monthly (30+n),6,6,False
+2026-06,La Verne,Entire home/apt | Short-stay (<30n),15,15,False
+2026-06,La Verne,Private room | Monthly (30+n),13,12,False
+2026-06,La Verne,Private room | Short-stay (<30n),9,9,False
+2026-06,Ladera Heights,Entire home/apt | Monthly (30+n),7,6,False
+2026-06,Ladera Heights,Private room | Monthly (30+n),1,1,False
+2026-06,Ladera Heights,Private room | Short-stay (<30n),12,11,False
+2026-06,Lake Balboa,Private room | Monthly (30+n),18,15,False
+2026-06,Lake Balboa,Private room | Short-stay (<30n),5,5,False
+2026-06,Lake Hughes,Entire home/apt | Short-stay (<30n),8,8,False
+2026-06,Lake Los Angeles,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Lake Los Angeles,Private room | Short-stay (<30n),1,1,False
+2026-06,Lake View Terrace,Entire home/apt | Monthly (30+n),6,5,False
+2026-06,Lake View Terrace,Private room | Monthly (30+n),1,1,False
+2026-06,Lakewood,Entire home/apt | Monthly (30+n),16,14,False
+2026-06,Lakewood,Private room | Monthly (30+n),3,2,False
+2026-06,Lakewood,Private room | Short-stay (<30n),16,14,False
+2026-06,Lancaster,Entire home/apt | Monthly (30+n),10,8,False
+2026-06,Lancaster,Private room | Monthly (30+n),9,9,False
+2026-06,Larchmont,Entire home/apt | Short-stay (<30n),22,19,False
+2026-06,Larchmont,Private room | Monthly (30+n),10,8,False
+2026-06,Lawndale,Entire home/apt | Monthly (30+n),10,6,False
+2026-06,Lawndale,Private room | Monthly (30+n),9,8,False
+2026-06,Leimert Park,Entire home/apt | Short-stay (<30n),9,9,False
+2026-06,Leimert Park,Private room | Monthly (30+n),11,11,False
+2026-06,Leimert Park,Private room | Short-stay (<30n),1,1,False
+2026-06,Lennox,Entire home/apt | Monthly (30+n),4,4,False
+2026-06,Lennox,Private room | Monthly (30+n),4,4,False
+2026-06,Lennox,Private room | Short-stay (<30n),11,10,False
+2026-06,Lennox,Shared room | Short-stay (<30n),8,8,False
+2026-06,Leona Valley,Entire home/apt | Short-stay (<30n),5,5,False
+2026-06,Lincoln Heights,Entire home/apt | Monthly (30+n),29,17,False
+2026-06,Lincoln Heights,Entire home/apt | Short-stay (<30n),9,9,False
+2026-06,Lincoln Heights,Private room | Monthly (30+n),20,16,False
+2026-06,Lincoln Heights,Private room | Short-stay (<30n),2,2,False
+2026-06,Lincoln Heights,Shared room | Monthly (30+n),11,11,False
+2026-06,Lomita,Entire home/apt | Monthly (30+n),3,2,False
+2026-06,Lomita,Private room | Short-stay (<30n),7,7,False
+2026-06,Long Beach,Hotel room | Short-stay (<30n),19,19,False
+2026-06,Long Beach,Shared room | Short-stay (<30n),8,8,False
+2026-06,Lopez/Kagel Canyons,Entire home/apt | Short-stay (<30n),7,7,False
+2026-06,Los Feliz,Private room | Monthly (30+n),17,9,False
+2026-06,Los Feliz,Private room | Short-stay (<30n),4,3,False
+2026-06,Lynwood,Hotel room | Short-stay (<30n),2,2,False
+2026-06,Lynwood,Private room | Short-stay (<30n),15,14,False
+2026-06,Malibu,Private room | Monthly (30+n),11,9,False
+2026-06,Malibu,Private room | Short-stay (<30n),10,9,False
+2026-06,Manchester Square,Entire home/apt | Short-stay (<30n),16,16,False
+2026-06,Manchester Square,Private room | Monthly (30+n),4,4,False
+2026-06,Manchester Square,Private room | Short-stay (<30n),3,3,False
+2026-06,Manhattan Beach,Private room | Short-stay (<30n),8,6,False
+2026-06,Manhattan Beach,Shared room | Short-stay (<30n),1,1,False
+2026-06,Mar Vista,Private room | Short-stay (<30n),7,7,False
+2026-06,Mar Vista,Private room | Unknown,1,1,False
+2026-06,Marina del Rey,Hotel room | Short-stay (<30n),1,0,False
+2026-06,Marina del Rey,Private room | Monthly (30+n),7,2,False
+2026-06,Marina del Rey,Private room | Short-stay (<30n),19,12,False
+2026-06,Mayflower Village,Entire home/apt | Monthly (30+n),5,4,False
+2026-06,Mayflower Village,Private room | Short-stay (<30n),9,9,False
+2026-06,Mayflower Village,Shared room | Short-stay (<30n),1,1,False
+2026-06,Maywood,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Maywood,Entire home/apt | Short-stay (<30n),8,8,False
+2026-06,Maywood,Private room | Short-stay (<30n),2,2,False
+2026-06,Mid-City,Entire home/apt | Unknown,1,1,False
+2026-06,Mid-Wilshire,Private room | Short-stay (<30n),12,12,False
+2026-06,Mid-Wilshire,Shared room | Monthly (30+n),8,8,False
+2026-06,Mission Hills,Entire home/apt | Monthly (30+n),11,10,False
+2026-06,Mission Hills,Entire home/apt | Short-stay (<30n),4,4,False
+2026-06,Mission Hills,Private room | Monthly (30+n),6,4,False
+2026-06,Monrovia,Entire home/apt | Monthly (30+n),10,9,False
+2026-06,Monrovia,Private room | Monthly (30+n),1,1,False
+2026-06,Montebello,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,Montebello,Private room | Short-stay (<30n),15,11,False
+2026-06,Montecito Heights,Private room | Monthly (30+n),19,14,False
+2026-06,Monterey Park,Entire home/apt | Monthly (30+n),10,10,False
+2026-06,Monterey Park,Private room | Monthly (30+n),15,14,False
+2026-06,Monterey Park,Private room | Unknown,1,1,False
+2026-06,Monterey Park,Shared room | Short-stay (<30n),1,1,False
+2026-06,Mount Washington,Private room | Monthly (30+n),5,2,False
+2026-06,Mount Washington,Private room | Short-stay (<30n),9,9,False
+2026-06,North El Monte,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,North El Monte,Entire home/apt | Short-stay (<30n),15,14,False
+2026-06,North El Monte,Entire home/apt | Unknown,1,1,False
+2026-06,North El Monte,Private room | Monthly (30+n),1,1,False
+2026-06,North El Monte,Private room | Short-stay (<30n),2,2,False
+2026-06,North Hills,Entire home/apt | Short-stay (<30n),18,18,False
+2026-06,North Hills,Private room | Monthly (30+n),21,17,False
+2026-06,North Hills,Private room | Short-stay (<30n),2,2,False
+2026-06,North Hills,Shared room | Monthly (30+n),2,2,False
+2026-06,North Hollywood,Private room | Short-stay (<30n),21,18,False
+2026-06,North Hollywood,Shared room | Monthly (30+n),1,1,False
+2026-06,North Whittier,Entire home/apt | Short-stay (<30n),4,3,False
+2026-06,North Whittier,Private room | Short-stay (<30n),2,2,False
+2026-06,Northeast Antelope Valley,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Northeast Antelope Valley,Entire home/apt | Short-stay (<30n),13,13,False
+2026-06,Northridge,Private room | Short-stay (<30n),4,4,False
+2026-06,Northridge,Shared room | Monthly (30+n),5,5,False
+2026-06,Northwest Antelope Valley,Entire home/apt | Short-stay (<30n),7,6,False
+2026-06,Northwest Antelope Valley,Private room | Short-stay (<30n),1,1,False
+2026-06,Northwest Palmdale,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,Northwest Palmdale,Entire home/apt | Short-stay (<30n),18,17,False
+2026-06,Northwest Palmdale,Private room | Short-stay (<30n),3,3,False
+2026-06,Norwalk,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,Norwalk,Hotel room | Short-stay (<30n),2,0,False
+2026-06,Norwalk,Private room | Monthly (30+n),2,2,False
+2026-06,Pacific Palisades,Entire home/apt | Short-stay (<30n),19,19,False
+2026-06,Pacific Palisades,Private room | Monthly (30+n),13,13,False
+2026-06,Pacific Palisades,Private room | Short-stay (<30n),10,5,False
+2026-06,Pacoima,Entire home/apt | Monthly (30+n),7,5,False
+2026-06,Pacoima,Entire home/apt | Short-stay (<30n),6,6,False
+2026-06,Pacoima,Private room | Monthly (30+n),6,6,False
+2026-06,Pacoima,Private room | Short-stay (<30n),1,1,False
+2026-06,Palmdale,Entire home/apt | Monthly (30+n),7,5,False
+2026-06,Palmdale,Private room | Monthly (30+n),8,7,False
+2026-06,Palms,Private room | Short-stay (<30n),3,3,False
+2026-06,Palos Verdes Estates,Entire home/apt | Monthly (30+n),6,5,False
+2026-06,Palos Verdes Estates,Entire home/apt | Short-stay (<30n),11,11,False
+2026-06,Palos Verdes Estates,Private room | Monthly (30+n),2,2,False
+2026-06,Palos Verdes Estates,Private room | Short-stay (<30n),1,1,False
+2026-06,Panorama City,Entire home/apt | Short-stay (<30n),6,6,False
+2026-06,Panorama City,Private room | Monthly (30+n),13,12,False
+2026-06,Panorama City,Private room | Short-stay (<30n),4,1,False
+2026-06,Paramount,Entire home/apt | Monthly (30+n),2,1,False
+2026-06,Paramount,Entire home/apt | Short-stay (<30n),12,12,False
+2026-06,Paramount,Private room | Monthly (30+n),1,1,False
+2026-06,Paramount,Private room | Short-stay (<30n),11,8,False
+2026-06,Pasadena,Private room | Monthly (30+n),22,19,False
+2026-06,Pasadena,Shared room | Short-stay (<30n),1,1,False
+2026-06,Pico Rivera,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,Pico Rivera,Private room | Short-stay (<30n),6,5,False
+2026-06,Pico-Robertson,Hotel room | Short-stay (<30n),10,10,False
+2026-06,Pico-Robertson,Private room | Short-stay (<30n),3,3,False
+2026-06,Pico-Union,Private room | Short-stay (<30n),3,3,False
+2026-06,Pico-Union,Shared room | Monthly (30+n),1,1,False
+2026-06,Playa Vista,Entire home/apt | Short-stay (<30n),20,19,False
+2026-06,Playa Vista,Private room | Monthly (30+n),4,2,False
+2026-06,Playa Vista,Private room | Short-stay (<30n),2,2,False
+2026-06,Playa del Rey,Entire home/apt | Short-stay (<30n),20,18,False
+2026-06,Playa del Rey,Private room | Monthly (30+n),7,4,False
+2026-06,Playa del Rey,Private room | Short-stay (<30n),9,9,False
+2026-06,Pomona,Entire home/apt | Monthly (30+n),13,12,False
+2026-06,Pomona,Private room | Monthly (30+n),20,16,False
+2026-06,Porter Ranch,Entire home/apt | Monthly (30+n),17,13,False
+2026-06,Porter Ranch,Entire home/apt | Short-stay (<30n),10,10,False
+2026-06,Porter Ranch,Private room | Monthly (30+n),5,5,False
+2026-06,Quartz Hill,Entire home/apt | Monthly (30+n),2,1,False
+2026-06,Quartz Hill,Private room | Short-stay (<30n),3,3,False
+2026-06,Quartz Hill,Shared room | Short-stay (<30n),1,1,False
+2026-06,Rancho Dominguez,Private room | Short-stay (<30n),1,0,False
+2026-06,Rancho Palos Verdes,Private room | Monthly (30+n),18,16,False
+2026-06,Rancho Palos Verdes,Private room | Short-stay (<30n),14,11,False
+2026-06,Rancho Palos Verdes,Shared room | Short-stay (<30n),1,1,False
+2026-06,Rancho Park,Entire home/apt | Monthly (30+n),18,15,False
+2026-06,Rancho Park,Entire home/apt | Short-stay (<30n),11,11,False
+2026-06,Rancho Park,Private room | Monthly (30+n),12,9,False
+2026-06,Rancho Park,Private room | Short-stay (<30n),6,6,False
+2026-06,Redondo Beach,Hotel room | Short-stay (<30n),18,16,False
+2026-06,Redondo Beach,Shared room | Short-stay (<30n),4,4,False
+2026-06,Reseda,Private room | Short-stay (<30n),5,5,False
+2026-06,Reseda,Shared room | Monthly (30+n),2,1,False
+2026-06,Ridge Route,Entire home/apt | Short-stay (<30n),5,5,False
+2026-06,Ridge Route,Private room | Short-stay (<30n),1,1,False
+2026-06,Ridge Route,Shared room | Short-stay (<30n),3,3,False
+2026-06,Rolling Hills,Entire home/apt | Monthly (30+n),1,0,False
+2026-06,Rolling Hills,Entire home/apt | Short-stay (<30n),4,4,False
+2026-06,Rolling Hills,Private room | Short-stay (<30n),1,1,False
+2026-06,Rolling Hills Estates,Entire home/apt | Monthly (30+n),10,8,False
+2026-06,Rolling Hills Estates,Entire home/apt | Short-stay (<30n),7,6,False
+2026-06,Rolling Hills Estates,Private room | Short-stay (<30n),4,4,False
+2026-06,Rosemead,Entire home/apt | Monthly (30+n),13,13,False
+2026-06,Rosemead,Private room | Monthly (30+n),14,13,False
+2026-06,Rowland Heights,Hotel room | Short-stay (<30n),3,0,False
+2026-06,San Dimas,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,San Dimas,Private room | Monthly (30+n),3,3,False
+2026-06,San Fernando,Private room | Short-stay (<30n),10,10,False
+2026-06,San Gabriel,Entire home/apt | Monthly (30+n),6,5,False
+2026-06,San Gabriel,Private room | Monthly (30+n),4,2,False
+2026-06,San Marino,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,San Marino,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,San Marino,Private room | Short-stay (<30n),5,3,False
+2026-06,San Pasqual,Entire home/apt | Monthly (30+n),4,3,False
+2026-06,San Pasqual,Entire home/apt | Short-stay (<30n),14,14,False
+2026-06,San Pasqual,Private room | Monthly (30+n),1,1,False
+2026-06,San Pasqual,Private room | Short-stay (<30n),4,2,False
+2026-06,San Pedro,Private room | Monthly (30+n),21,19,False
+2026-06,San Pedro,Private room | Short-stay (<30n),3,3,False
+2026-06,Santa Clarita,Private room | Monthly (30+n),5,4,False
+2026-06,Santa Clarita,Shared room | Short-stay (<30n),8,7,False
+2026-06,Santa Fe Springs,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,Santa Fe Springs,Entire home/apt | Short-stay (<30n),8,8,False
+2026-06,Santa Fe Springs,Private room | Short-stay (<30n),2,2,False
+2026-06,Santa Monica,Hotel room | Monthly (30+n),1,1,False
+2026-06,Santa Monica,Shared room | Short-stay (<30n),2,1,False
+2026-06,Sawtelle,Private room | Short-stay (<30n),7,6,False
+2026-06,Sawtelle,Shared room | Monthly (30+n),11,10,False
+2026-06,Sepulveda Basin,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Sepulveda Basin,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Sepulveda Basin,Private room | Monthly (30+n),2,2,False
+2026-06,Shadow Hills,Entire home/apt | Monthly (30+n),22,16,False
+2026-06,Shadow Hills,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Shadow Hills,Private room | Monthly (30+n),8,7,False
+2026-06,Shadow Hills,Private room | Short-stay (<30n),3,3,False
+2026-06,Sherman Oaks,Private room | Short-stay (<30n),11,11,False
+2026-06,Sherman Oaks,Shared room | Monthly (30+n),2,1,False
+2026-06,Sierra Madre,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Sierra Madre,Private room | Short-stay (<30n),2,2,False
+2026-06,Signal Hill,Entire home/apt | Monthly (30+n),7,6,False
+2026-06,Signal Hill,Entire home/apt | Short-stay (<30n),23,17,False
+2026-06,Signal Hill,Private room | Monthly (30+n),3,2,False
+2026-06,Signal Hill,Private room | Short-stay (<30n),10,8,False
+2026-06,Silver Lake,Private room | Monthly (30+n),32,18,False
+2026-06,Silver Lake,Private room | Short-stay (<30n),19,13,False
+2026-06,South El Monte,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,South El Monte,Private room | Monthly (30+n),2,2,False
+2026-06,South El Monte,Private room | Short-stay (<30n),13,12,False
+2026-06,South Gate,Private room | Monthly (30+n),2,0,False
+2026-06,South Gate,Private room | Short-stay (<30n),2,2,False
+2026-06,South Park,Entire home/apt | Monthly (30+n),4,3,False
+2026-06,South Park,Private room | Monthly (30+n),15,15,False
+2026-06,South Pasadena,Entire home/apt | Monthly (30+n),11,8,False
+2026-06,South Pasadena,Hotel room | Short-stay (<30n),1,1,False
+2026-06,South Pasadena,Private room | Monthly (30+n),1,1,False
+2026-06,South Pasadena,Private room | Short-stay (<30n),13,12,False
+2026-06,South San Gabriel,Entire home/apt | Monthly (30+n),5,4,False
+2026-06,South San Gabriel,Private room | Short-stay (<30n),13,13,False
+2026-06,South San Jose Hills,Entire home/apt | Monthly (30+n),3,2,False
+2026-06,South San Jose Hills,Entire home/apt | Short-stay (<30n),16,14,False
+2026-06,South San Jose Hills,Private room | Monthly (30+n),7,7,False
+2026-06,South San Jose Hills,Private room | Short-stay (<30n),1,0,False
+2026-06,South Whittier,Entire home/apt | Monthly (30+n),6,6,False
+2026-06,South Whittier,Private room | Short-stay (<30n),6,5,False
+2026-06,Southeast Antelope Valley,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,Southeast Antelope Valley,Private room | Short-stay (<30n),10,9,False
+2026-06,Stevenson Ranch,Entire home/apt | Monthly (30+n),7,7,False
+2026-06,Stevenson Ranch,Entire home/apt | Short-stay (<30n),10,8,False
+2026-06,Stevenson Ranch,Private room | Short-stay (<30n),4,4,False
+2026-06,Studio City,Private room | Monthly (30+n),21,13,False
+2026-06,Sun Valley,Entire home/apt | Short-stay (<30n),19,17,False
+2026-06,Sun Valley,Private room | Short-stay (<30n),6,6,False
+2026-06,Sun Valley,Shared room | Monthly (30+n),1,1,False
+2026-06,Sun Village,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Sunland,Entire home/apt | Monthly (30+n),4,4,False
+2026-06,Sunland,Entire home/apt | Short-stay (<30n),1,1,False
+2026-06,Sunland,Private room | Monthly (30+n),1,1,False
+2026-06,Sylmar,Entire home/apt | Short-stay (<30n),12,12,False
+2026-06,Sylmar,Private room | Monthly (30+n),11,11,False
+2026-06,Sylmar,Private room | Short-stay (<30n),2,2,False
+2026-06,Sylmar,Shared room | Monthly (30+n),1,1,False
+2026-06,Tarzana,Private room | Short-stay (<30n),9,9,False
+2026-06,Temple City,Entire home/apt | Monthly (30+n),21,18,False
+2026-06,Temple City,Private room | Monthly (30+n),7,4,False
+2026-06,Toluca Lake,Private room | Monthly (30+n),10,9,False
+2026-06,Toluca Lake,Private room | Short-stay (<30n),6,6,False
+2026-06,Topanga,Entire home/apt | Monthly (30+n),8,7,False
+2026-06,Topanga,Private room | Short-stay (<30n),18,12,False
+2026-06,Topanga,Shared room | Short-stay (<30n),1,1,False
+2026-06,Torrance,Private room | Monthly (30+n),19,17,False
+2026-06,Tujunga,Entire home/apt | Monthly (30+n),19,18,False
+2026-06,Tujunga,Entire home/apt | Short-stay (<30n),10,8,False
+2026-06,Tujunga,Private room | Monthly (30+n),7,7,False
+2026-06,Tujunga,Private room | Short-stay (<30n),1,1,False
+2026-06,Tujunga Canyons,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Tujunga Canyons,Entire home/apt | Short-stay (<30n),15,12,False
+2026-06,Tujunga Canyons,Private room | Short-stay (<30n),3,2,False
+2026-06,Unincorporated Catalina Island,Entire home/apt | Short-stay (<30n),5,5,False
+2026-06,Unincorporated Catalina Island,Private room | Short-stay (<30n),5,3,False
+2026-06,Unincorporated Santa Monica Mountains,Entire home/apt | Monthly (30+n),12,10,False
+2026-06,Unincorporated Santa Monica Mountains,Private room | Short-stay (<30n),10,8,False
+2026-06,Unincorporated Santa Susana Mountains,Entire home/apt | Monthly (30+n),4,4,False
+2026-06,Unincorporated Santa Susana Mountains,Hotel room | Short-stay (<30n),14,14,False
+2026-06,Unincorporated Santa Susana Mountains,Private room | Short-stay (<30n),9,6,False
+2026-06,Universal City,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,Universal City,Private room | Short-stay (<30n),1,1,False
+2026-06,University Park,Entire home/apt | Monthly (30+n),18,14,False
+2026-06,University Park,Entire home/apt | Short-stay (<30n),1,1,False
+2026-06,University Park,Private room | Short-stay (<30n),1,1,False
+2026-06,Val Verde,Entire home/apt | Short-stay (<30n),3,1,False
+2026-06,Valinda,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Valinda,Private room | Short-stay (<30n),12,8,False
+2026-06,Valley Glen,Private room | Short-stay (<30n),8,7,False
+2026-06,Valley Village,Private room | Monthly (30+n),13,7,False
+2026-06,Valley Village,Private room | Short-stay (<30n),11,11,False
+2026-06,Valley Village,Shared room | Monthly (30+n),1,0,False
+2026-06,Van Nuys,Private room | Short-stay (<30n),8,8,False
+2026-06,Venice,Shared room | Monthly (30+n),5,5,False
+2026-06,Vermont Knolls,Entire home/apt | Monthly (30+n),8,8,False
+2026-06,Vermont Knolls,Entire home/apt | Short-stay (<30n),5,5,False
+2026-06,Vermont Knolls,Private room | Monthly (30+n),9,7,False
+2026-06,Vermont Knolls,Shared room | Monthly (30+n),1,1,False
+2026-06,Vermont Square,Private room | Short-stay (<30n),11,10,False
+2026-06,Vermont Vista,Entire home/apt | Monthly (30+n),12,12,False
+2026-06,Vermont Vista,Entire home/apt | Short-stay (<30n),6,6,False
+2026-06,Vermont Vista,Private room | Monthly (30+n),16,16,False
+2026-06,Vermont-Slauson,Entire home/apt | Monthly (30+n),9,8,False
+2026-06,Vermont-Slauson,Entire home/apt | Short-stay (<30n),4,4,False
+2026-06,Vermont-Slauson,Private room | Monthly (30+n),11,3,False
+2026-06,Vernon,Private room | Monthly (30+n),1,1,False
+2026-06,Vernon,Shared room | Short-stay (<30n),16,16,False
+2026-06,Veterans Administration,Entire home/apt | Monthly (30+n),3,1,False
+2026-06,Veterans Administration,Private room | Monthly (30+n),1,1,False
+2026-06,View Park-Windsor Hills,Entire home/apt | Monthly (30+n),20,16,False
+2026-06,View Park-Windsor Hills,Private room | Monthly (30+n),7,7,False
+2026-06,Vincent,Entire home/apt | Monthly (30+n),4,4,False
+2026-06,Vincent,Entire home/apt | Short-stay (<30n),7,7,False
+2026-06,Vincent,Private room | Short-stay (<30n),1,0,False
+2026-06,Walnut,Entire home/apt | Monthly (30+n),9,8,False
+2026-06,Walnut,Private room | Monthly (30+n),9,8,False
+2026-06,Walnut Park,Entire home/apt | Short-stay (<30n),2,2,False
+2026-06,Watts,Entire home/apt | Monthly (30+n),3,2,False
+2026-06,Watts,Entire home/apt | Short-stay (<30n),1,1,False
+2026-06,Watts,Private room | Short-stay (<30n),1,1,False
+2026-06,Watts,Shared room | Monthly (30+n),8,8,False
+2026-06,West Adams,Private room | Monthly (30+n),16,11,False
+2026-06,West Adams,Private room | Short-stay (<30n),8,8,False
+2026-06,West Carson,Entire home/apt | Monthly (30+n),6,4,False
+2026-06,West Carson,Private room | Monthly (30+n),1,1,False
+2026-06,West Carson,Private room | Short-stay (<30n),17,16,False
+2026-06,West Compton,Entire home/apt | Short-stay (<30n),5,4,False
+2026-06,West Compton,Private room | Short-stay (<30n),5,4,False
+2026-06,West Covina,Entire home/apt | Monthly (30+n),21,17,False
+2026-06,West Covina,Private room | Monthly (30+n),6,3,False
+2026-06,West Covina,Shared room | Short-stay (<30n),1,1,False
+2026-06,West Hills,Private room | Short-stay (<30n),4,3,False
+2026-06,West Hollywood,Shared room | Short-stay (<30n),3,3,False
+2026-06,West Los Angeles,Private room | Short-stay (<30n),5,5,False
+2026-06,West Puente Valley,Entire home/apt | Monthly (30+n),2,2,False
+2026-06,West Puente Valley,Entire home/apt | Short-stay (<30n),9,8,False
+2026-06,West Puente Valley,Private room | Monthly (30+n),1,1,False
+2026-06,West Puente Valley,Private room | Short-stay (<30n),2,1,False
+2026-06,West Whittier-Los Nietos,Entire home/apt | Monthly (30+n),3,3,False
+2026-06,West Whittier-Los Nietos,Entire home/apt | Short-stay (<30n),17,14,False
+2026-06,West Whittier-Los Nietos,Private room | Short-stay (<30n),7,5,False
+2026-06,Westchester,Hotel room | Short-stay (<30n),15,15,False
+2026-06,Westchester,Private room | Short-stay (<30n),17,10,False
+2026-06,Westlake,Private room | Short-stay (<30n),18,13,False
+2026-06,Westlake,Shared room | Monthly (30+n),7,7,False
+2026-06,Westlake Village,Entire home/apt | Monthly (30+n),1,1,False
+2026-06,Westlake Village,Entire home/apt | Short-stay (<30n),9,8,False
+2026-06,Westlake Village,Private room | Short-stay (<30n),1,1,False
+2026-06,Westmont,Entire home/apt | Monthly (30+n),9,6,False
+2026-06,Westmont,Private room | Short-stay (<30n),7,5,False
+2026-06,Westwood,Entire home/apt | Short-stay (<30n),16,16,False
+2026-06,Westwood,Private room | Short-stay (<30n),21,13,False
+2026-06,Westwood,Shared room | Monthly (30+n),2,1,False
+2026-06,Whittier,Entire home/apt | Monthly (30+n),4,3,False
+2026-06,Whittier,Private room | Monthly (30+n),4,4,False
+2026-06,Willowbrook,Entire home/apt | Short-stay (<30n),19,16,False
+2026-06,Willowbrook,Private room | Short-stay (<30n),21,19,False
+2026-06,Wilmington,Entire home/apt | Monthly (30+n),8,8,False
+2026-06,Wilmington,Entire home/apt | Short-stay (<30n),3,3,False
+2026-06,Wilmington,Hotel room | Monthly (30+n),1,1,False
+2026-06,Wilmington,Private room | Monthly (30+n),3,3,False
+2026-06,Windsor Square,Entire home/apt | Monthly (30+n),10,9,False
+2026-06,Windsor Square,Entire home/apt | Short-stay (<30n),6,5,False
+2026-06,Windsor Square,Private room | Monthly (30+n),3,3,False
+2026-06,Windsor Square,Private room | Short-stay (<30n),1,1,False
+2026-06,Winnetka,Private room | Short-stay (<30n),15,15,False
+2026-06,Woodland Hills,Private room | Short-stay (<30n),8,8,False
+2026-06,Woodland Hills,Shared room | Monthly (30+n),1,1,False

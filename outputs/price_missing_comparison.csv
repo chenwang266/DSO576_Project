@@ -1,0 +1,5 @@
+snapshot,price_missing,rows,share_previous_scrape,median_availability_30,median_estimated_occupancy_l365d,median_number_of_reviews_ltm,median_number_of_reviews,share_has_availability_true
+2026-03,False,37178,0.06861584808219914,18.0,36.0,2.0,8.0,0.9921944392108308
+2026-03,True,8910,0.8673400673400673,0.0,0.0,0.0,1.0,0.9925387054653982
+2026-06,False,38186,0.03278688524590164,15.0,30.0,1.0,7.0,0.995911842553526
+2026-06,True,5565,0.8639712488769092,0.0,0.0,0.0,4.0,0.988671875

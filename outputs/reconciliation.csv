@@ -1,0 +1,19 @@
+snapshot,step,rows,rows_lost,reason
+2026-03,1 all listings (raw),46088,,
+2026-03,2 after cleaning (no rows removed),46088,0,R07 exact duplicates (0)
+2026-03,3 with a price,37178,8910,R08 price missing
+2026-03,4 known stay type,37171,7,R04a min stay unknown
+2026-03,5 in rankable segment (n>=20),33123,4048,R17 segment < 20 priced listings
+2026-03,(info) of which price_outlier,183,,R13 kept in main run; sensitivity in outlier_sensitivity.csv
+2026-06,1 all listings (raw),43751,,
+2026-06,2 after cleaning (no rows removed),43751,0,R07 exact duplicates (0)
+2026-06,3 with a price,38186,5565,R08 price missing
+2026-06,4 known stay type,38177,9,R04a min stay unknown
+2026-06,5 in rankable segment (n>=20),34038,4139,R17 segment < 20 priced listings
+2026-06,(info) of which price_outlier,141,,R13 kept in main run; sensitivity in outlier_sensitivity.csv
+all,1 all listings (raw),89839,,
+all,2 after cleaning (no rows removed),89839,0,R07 exact duplicates (0)
+all,3 with a price,75364,14475,R08 price missing
+all,4 known stay type,75348,16,R04a min stay unknown
+all,5 in rankable segment (n>=20),67161,8187,R17 segment < 20 priced listings
+all,(info) of which price_outlier,324,,R13 kept in main run; sensitivity in outlier_sensitivity.csv
