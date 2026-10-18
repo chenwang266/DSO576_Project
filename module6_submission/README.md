@@ -37,15 +37,15 @@ python module6_submission/code/build_report.py
 
 From an extracted ZIP, set `--source-dir /path/to/original/csv/folder`; output defaults to the package's `data_and_evidence` folder. No network requests occur during cleaning. No manual spreadsheet edits are required. Cleaning starts from both originals every run.
 
-Expected outputs: `cleaned_listings.csv` (89,839 listing-snapshot rows, 55 columns); `listing_comparison.csv` (51,737 IDs); `sample_cleaned_50.csv` (50 rows, all cleaned columns); `column_audit.csv`; `text_examples.csv`; `neighbourhood_metrics.csv`; `full_data_checks.json`; `record_checks.json`; `independent_validation.json`. `reproducibility.json` records the submitted fresh-process comparison, and `notebook_execution.json` records notebook execution; they are verification evidence rather than cleaning outputs. `build_report.py` uses those files to recreate the report.
+Expected outputs: `cleaned_listings.csv` (89,839 listing-snapshot rows, 57 columns); `listing_comparison.csv` (51,737 IDs); `sample_cleaned_50.csv` (50 rows, all cleaned columns); `column_audit.csv`; `text_examples.csv`; `neighbourhood_metrics.csv`; `full_data_checks.json`; `record_checks.json`; `independent_validation.json`. `reproducibility.json` records the submitted fresh-process comparison, and `notebook_execution.json` records notebook execution; they are verification evidence rather than cleaning outputs. `build_report.py` uses those files to recreate the report.
 
 ## Notebook
 
-Open `code/data_cleaning.ipynb` in Jupyter or VS Code and choose the environment containing the requirements. Use **Restart Kernel and Run All**. The setup cell supports launching from `project`, `module6_submission`, or `code`; edit `SOURCE_DIR` if the originals live elsewhere. The notebook calls the submitted script, runs independent validation, and displays real full-data evidence. The pipeline does not depend on hidden notebook state. The executed notebook is included.
+Open `code/data_cleaning.ipynb` in Jupyter or VS Code and choose the environment containing the requirements. Use **Restart Kernel and Run All**. The setup cell supports launching from `project`, `module6_submission`, or `code`; edit `SOURCE_DIR` if the originals live elsewhere. The notebook calls the submitted script, runs independent validation, and displays real full-data evidence. The pipeline does not depend on hidden notebook state. The notebook is included; its outputs were cleared after the Phase 2 schema change. Run it in the documented notebook environment; current direct-script validation passed.
 
 ## Interpretation and sample
 
-One row is a listing in a snapshot, unique by `(snapshot_date, id)`. The cleaned data intentionally selects 28 useful original fields and adds provenance/quality indicators. Excluded source fields are listed by purpose in the decision log. IDs remain strings. `source_row` is the one-based CSV record position including the header (not a physical line number for multiline CSV fields). `snapshot_date` is the version label; `last_scraped` is the actual record date.
+One row is a listing in a snapshot, unique by `(snapshot_date, id)`. The cleaned data intentionally selects 29 useful original fields and adds provenance/quality indicators. Excluded source fields are listed by purpose in the decision log. IDs remain strings. `source_row` is the one-based CSV record position including the header (not a physical line number for multiline CSV fields). `snapshot_date` is the version label; `last_scraped` is the actual record date.
 
 Missing prices/ratings remain missing; all listings contribute to listing counts, while numeric metrics use their own nonmissing counts. `eligible_price_analysis` also excludes unknown room types; none occur in these sources. Numerical group metrics include retained extreme positive values: use medians and compare results excluding `flag_high_price` when interpreting means. The price sum is a reconciliation statistic, not market revenue. Availability is not occupancy. Paired changes use the 31,893 matched listings with valid prices at both dates.
 
@@ -54,3 +54,7 @@ The 50-row sample prioritizes five difficult checks, the first example of each p
 ## GitHub and group submission
 
 The Python files, executed notebook, sample, report, and small evidence files belong on the student's `chenwang` branch. Large original/cleaned data and the ZIP are ignored for Git; the ZIP includes the full cleaned data. Team members must review/reconcile the individual methods before submitting their one group PDF. This package does not invent a consensus or missing stakeholder confirmation.
+
+## Phase 2 update October 18 2026
+
+The current pipeline also retains and independently validates `review_scores_value`. Current outputs contain 57 columns. The October 5 report PDF/Markdown and ZIP are historical submissions, not regenerated Phase 2 reports. See [Phase 2 analysis](../phase2/README.md) for reusable bedroom-level segment, peer, quartile, persistence, and ranking functions. Execution evidence now records the current revision and actual verification environment. Team reconciliation is still required.

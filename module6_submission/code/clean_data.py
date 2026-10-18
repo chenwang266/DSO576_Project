@@ -10,7 +10,7 @@ SOURCES = [('2026-03-16', 'listings 16 March, 2026.csv'),
 NUMERIC = ['accommodates', 'bathrooms', 'bedrooms', 'beds', 'price',
            'minimum_nights', 'maximum_nights', 'availability_30', 'availability_60',
            'availability_90', 'availability_365', 'number_of_reviews',
-           'number_of_reviews_ltm', 'number_of_reviews_l30d', 'review_scores_rating',
+           'number_of_reviews_ltm', 'number_of_reviews_l30d', 'review_scores_rating', 'review_scores_value',
            'reviews_per_month']
 TEXT = ['neighbourhood_cleansed', 'neighbourhood_group_cleansed', 'property_type', 'room_type']
 DATES = ['last_scraped', 'first_review', 'last_review', 'calendar_last_scraped']
@@ -80,9 +80,9 @@ def run(source_dir, output_dir):
                 invalid |= d[col].eq(0).fillna(False)
             if col.startswith('availability_'):
                 invalid |= d[col].gt(int(col.split('_')[1])).fillna(False)
-            if col == 'review_scores_rating':
+            if col in ['review_scores_rating', 'review_scores_value']:
                 invalid |= d[col].gt(5).fillna(False)
-            if col not in ['bathrooms', 'price', 'review_scores_rating', 'reviews_per_month']:
+            if col not in ['bathrooms', 'price', 'review_scores_rating', 'review_scores_value', 'reviews_per_month']:
                 invalid |= d[col].mod(1).ne(0).fillna(False)
             d[f'invalid_{col}'] = invalid
             audit[f'invalid_{col}'] = int(invalid.sum())

@@ -22,3 +22,7 @@ Rule revisions: none at proposal time. Any later changes must be recorded here.
 Limitations: advertised prices are not realized revenue; availability includes blocked days and is not occupancy; snapshots have different scrape windows and seasonal/composition effects; missing prices may be systematic; public records can be stale; Los Angeles-region neighborhoods include separate municipalities. No causal conclusions or regulatory status are inferred.
 
 Execution revision: instant_bookable is entirely missing in both inputs. Retained as missing and switched the boolean record-check example to host_is_superhost; no cleaning rule changed.
+
+## Phase 2 revision October 18 2026
+
+Retain `review_scores_value` separately from `review_scores_rating`, because Phase 1 requires guest value context. Parse it as numeric, preserve missing values, and flag/set values outside 0-5 to missing. This adds one source field and one invalid-value flag: 29 selected source fields and 57 total columns. Independently validate every exported value rating against its source. No new imputation, deduplication, or price exclusion rule. The October 5 completed report and ZIP remain historical submissions; see ../../phase2/README.md for current analysis definitions and limitations. Team cleaning reconciliation remains pending.

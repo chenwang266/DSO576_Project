@@ -1,5 +1,5 @@
 {
-  "status": "PASS",
-  "code_cells": 4,
-  "procedure": "Fresh kernel; execute every cell in order with nbclient; no errors"
+  "status": "NOT_RUN",
+  "updated_on": "2026-10-18",
+  "reason": "Notebook outputs cleared after Phase 2 schema change. Current runtime lacks nbformat; cleaning and validation scripts were run directly and passed. Restart Kernel and Run All in the notebook environment to verify notebook execution."
 }

@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "verified_on": "2026-10-18",
+  "clean_rows": 89839,
+  "clean_columns": 57,
+  "segments": 4201,
+  "ranked_segments": 315,
+  "rows_without_complete_segment_keys": 12768,
+  "checks": [
+    "segment listing and price denominators reconcile",
+    "Hollywood 1-bedroom entire-home March count, median, quartiles independently match raw source",
+    "ranked scores descending and persistent only"
+  ],
+  "hollywood_example": {
+    "priced_listings": 414,
+    "median": 162.91,
+    "q1": 109.81,
+    "q3": 232.615
+  }
+}

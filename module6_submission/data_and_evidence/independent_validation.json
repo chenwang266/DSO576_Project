@@ -4,6 +4,7 @@
   "checks": [
     "source/output row and ID reconciliation",
     "all exported prices equal independently parsed source prices",
+    "all exported value ratings equal independently parsed source values",
     "numeric bounds",
     "outer-merge union and intersection",
     "group and price denominators",

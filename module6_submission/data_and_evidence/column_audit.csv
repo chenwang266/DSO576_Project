@@ -19,6 +19,7 @@ snapshot_date,column,input_type,output_type,missing_before,missing_after,convers
 2026-03-16,number_of_reviews_ltm,string,Float64,0,0,0,0
 2026-03-16,number_of_reviews_l30d,string,Float64,0,0,0,0
 2026-03-16,review_scores_rating,string,Float64,12519,12519,0,0
+2026-03-16,review_scores_value,string,Float64,12532,12532,0,0
 2026-03-16,reviews_per_month,string,Float64,12519,12519,0,0
 2026-03-16,last_scraped,string,string,0,0,0,0
 2026-03-16,first_review,string,string,12519,12519,0,0
@@ -47,6 +48,7 @@ snapshot_date,column,input_type,output_type,missing_before,missing_after,convers
 2026-06-15,number_of_reviews_ltm,string,Float64,0,0,0,0
 2026-06-15,number_of_reviews_l30d,string,Float64,0,0,0,0
 2026-06-15,review_scores_rating,string,Float64,11257,11257,0,0
+2026-06-15,review_scores_value,string,Float64,11266,11266,0,0
 2026-06-15,reviews_per_month,string,Float64,11257,11257,0,0
 2026-06-15,last_scraped,string,string,0,0,0,0
 2026-06-15,first_review,string,string,11257,11257,0,0
