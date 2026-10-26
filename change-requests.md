@@ -108,3 +108,20 @@ Record findings without undoing a teammate's work. Mark a request resolved only 
 - Requested change: Set `is_small_sample` from `priced_rows < 20` regardless of user threshold. Keep a separate `sufficient_data` or qualification field for the adjustable minimum.
 - Verification check and expected result: On the Altadena example, minimum 20 and 30 both show `is_small_sample=False`; at 30, `sufficient_data=False` and premium unavailable. Add a boundary check for 19/20 priced listings with minimum 30.
 - Implementation commit and verification result, if resolved:
+
+## Completed checks
+
+### AUDIT-RL-01 March–June comparison and price change
+
+- Author: Riley Lyu
+- Status: checked; no defect found in these cases
+- App version or commit checked: `audit-riley-chapter3@4bdd0a3`
+- Feature or number and its intended behavior or definition: BUILD_SPEC §3. Compare the same segment in March and June. Dollar change is June median minus March median; percentage change uses March as the denominator.
+- Inputs and steps to reproduce: Select Hollywood / Entire home/apt / 1 bedroom, all stays and sources, minimum 20. Open March–June Comparison. Switch the detail snapshot to March, change the neighborhood to Venice, then click Reset. Also test March prices [100, 200, missing] and June prices [150, 250, missing].
+- Expected result: Hollywood shows a $2.04 decrease, about 1.3%. Switching the detail snapshot leaves the comparison unchanged. Changing neighborhoods updates both dates. Reset restores June and Hollywood. The small case gives a $50 increase and 33.3%.
+- Actual result: All of these matched. Hollywood medians were $162.91 and $160.87. Venice showed a 2.1% increase. A June-only test segment showed March and the change as unavailable.
+- Evidence (including file, function, and relevant lines if code was checked): `generated_dashboard/src/history.py`, `snapshot_comparison`, lines 10 and 18–20. [Test code](https://github.com/chenwang266/DSO576_Project/blob/4bdd0a3c37a631e33c3e2d625ed8f44b12ada29c/generated_dashboard/tests/test_chapter3.py) and [full-data results](https://github.com/chenwang266/DSO576_Project/blob/4bdd0a3c37a631e33c3e2d625ed8f44b12ada29c/generated_dashboard/audit_full_data_results.json). Codex ran the checks using Streamlit AppTest and separate raw-file calculations.
+- Likely cause, if established, and remaining uncertainty: No cause to investigate in this scope. Browser layout, every segment and all export interactions were not checked. This does not clear issues found by other team members.
+- Requested change: None for the tested comparison and price-change calculation. Keep the checks for future updates.
+- Verification check and expected result: Run `uv run pytest -q` and `uv run python tests/audit_full_data.py` from `generated_dashboard` with the supplied data. Hollywood should remain -$2.04 and about -1.3%; a missing or nonpositive March baseline should give an unavailable percentage.
+- Implementation commit and verification result, if resolved: Not applicable; no fix was made. At `4bdd0a3`, 17 test cases and the separate full-data checks passed. This is a completed check, not a resolved bug request.
