@@ -9,9 +9,10 @@ Add your name and what you will audit. Choose a different scope from your teamma
 | Author | Feature | Number | Distinct scope or new evidence |
 | --- | --- | --- | --- |
 | | | | |
-| Christos Georgaklis | §2 Data and cleaning: price-status handling and coverage warning, as shown in Data Quality & Methodology panel and Segment Detail | Price status counts and price coverage (priced ÷ valid-dimension listings) per snapshot | Independent csv-module recount from raw snapshots (no pandas/team code) plus 10 synthetic price strings run through the team's price() parser; distinct from Will's bedroom scope and Riley's §3 scope |
 | Will Samuels | §1 Prioritize use case: ranked review shortlist | Segment premium (%) and review score | Independent recomputation from raw snapshots (not the team cleaner); bedroom-completeness effect on June private-room segments; 6+ bedroom grouping |
+| Christos Georgaklis | §2 Data and cleaning: price-status handling and coverage warning, as shown in Data Quality & Methodology panel and Segment Detail | Price status counts and price coverage (priced ÷ valid-dimension listings) per snapshot | Independent csv-module recount from raw snapshots (no pandas/team code) plus 10 synthetic price strings run through the team's price() parser; distinct from Will's bedroom scope and Riley's §3 scope |
 | Riley Lyu | §3 Analysis definitions: March–June same-segment comparison, snapshot independence and missing-date behavior | Change in median advertised price (USD and percent of March median) | New BUILD_SPEC-generated candidate `audit-riley-chapter3@4bdd0a3`; independent raw-file Hollywood/Venice medians plus synthetic boundary checks and Streamlit widget interactions. Evidence: [tests](https://github.com/chenwang266/DSO576_Project/tree/4bdd0a3c37a631e33c3e2d625ed8f44b12ada29c/generated_dashboard/tests), [aggregate results](https://github.com/chenwang266/DSO576_Project/blob/4bdd0a3c37a631e33c3e2d625ed8f44b12ada29c/generated_dashboard/audit_full_data_results.json). No actionable defect established in this tested scope; personal conclusions remain in my-audit.md. Team adoption of the candidate is not assumed; existing requests against older implementations remain open. |
+| Vincent Liang | §4 Review Shortlist row warnings | Fixed `is_small_sample` flag under adjusted minimum | Reproduced on the newer `audit-riley-chapter3@4bdd0a3` Streamlit candidate with exact full raw snapshots and UI output; separate from prior requests against older branches. |
 
 ## Requests
 
@@ -77,4 +78,33 @@ Record findings without undoing a teammate's work. Mark a request resolved only 
 - Likely cause, if established, and remaining uncertainty: Backend predates the final spec. The premium and score math itself is correct (verified independently).
 - Requested change: Add the status label, direction, small-sample and coverage flags, a direction argument for ranking, and stay/source filters recalculated from listings.
 - Verification check and expected result: Segments with opposite-sign premiums show `Reversed`. Filtering direction=discount returns only negative-premium rows (185 under current defaults). Rows with coverage below 80% carry a warning.
+- Implementation commit and verification result, if resolved:
+
+### AUDIT-VL-01 Shortlist omits row-specific low-coverage warnings
+- Author: Vincent Liang
+- Status: resolved locally; awaiting team merge
+- App version or commit checked: `audit-riley-chapter3@4bdd0a3`
+- Feature or number and intended behavior: `BUILD_SPEC.md` §4 Review Shortlist must show and export warnings for each row; default price-coverage warning is below 80%.
+- Inputs and steps to reproduce: Use the March/June raw files with SHA-256 `ffdef08a…` / `ebc99e8a…`; run the candidate cleaner and app at defaults. Inspect rank 5, Malibu / Entire home/apt / 3 bedrooms, in Review Shortlist and its CSV export.
+- Expected result: This row states that March local price coverage is below 80%; counts and denominator remain visible.
+- Actual result: March is 68 priced / 86 listings = 79.069767%, June is 73 / 86 = 84.883721%. The row's `warnings` value contains only generic bedroom and source cautions. Across the 319 ranked rows, 80 have at least one date below 80% local coverage and none receives a row-specific coverage warning.
+- Evidence: Streamlit AppTest on full data showed the rank-5 `warnings` value. `generated_dashboard/app.py` lines 95–96, 164–169 assign the same warnings to all rows; lines 141–145 implement coverage warnings only in Comparison. Individual audit: `my-audit.md` Feature Audit.
+- Likely cause and uncertainty: Shortlist export reuses global warning text instead of calculating warnings from each row's March/June coverage. This finding is for the candidate branch only.
+- Requested change: Derive warnings from each shortlist row's local and peer coverage and current warning threshold. Include the affected date/population in the on-screen row and CSV; preserve existing bedroom/source cautions.
+- Verification check and expected result: At default 80%, Malibu rank 5 says March local coverage below 80% in the displayed row and export. Set warning threshold to 75%: that specific coverage warning disappears while counts remain 68/86. A row above threshold remains unflagged.
+- Implementation commit and verification result, if resolved: local branch `audit-vl-01-shortlist-warnings@216ee92a8d6f7523902bab6c17032aa9e4f18174`. Added `add_shortlist_warnings()` and a regression test. Candidate suite: 18 passed. With the full canonical data, Malibu / Entire home/apt / 3 bedrooms remains rank 5 and now shows `March local price coverage 79.1% is below the 80% warning threshold.` both in the Streamlit shortlist and its export frame. No application exceptions in Streamlit AppTest.
+
+### AUDIT-VL-02 Adjustable minimum incorrectly changes canonical small-sample number flag
+
+- Author: Vincent Liang
+- Status: open
+- App version or commit checked: `audit-riley-chapter3@4bdd0a3`
+- Feature or number and intended behavior: `BUILD_SPEC.md` §3 fixes `is_small_sample = priced_rows < 20`; the adjustable minimum only determines premium qualification.
+- Inputs and steps to reproduce: Use the full canonical data and select June / Altadena / Entire home/apt / 3 bedrooms. Set minimum priced count to 20, then 30. Inspect `is_small_sample_june` and `sufficient_data_june` in March–June Comparison or call `segment_metrics` with each setting.
+- Expected result: With 23 listings and exactly 20 valid prices, `is_small_sample_june=False` at both settings. At minimum 30, `sufficient_data_june=False` and premium is suppressed.
+- Actual result: At minimum 20, `is_small_sample_june=False`; at minimum 30, `is_small_sample_june=True`. AppTest rendered 20 priced, `is_small_sample_june=True`, `sufficient_data_june=False` at 30.
+- Evidence: `generated_dashboard/src/pricing.py` line 32 uses `values['priced_rows'] < min_priced`; `segment_metrics` passes the adjustable value at lines 51–53; `generated_dashboard/app.py` lines 87 and 92 provide the UI setting. Individual audit: `my-audit.md` Number Audit.
+- Likely cause and uncertainty: The canonical quality flag and exploratory qualification threshold share one variable. The premium suppression itself was correct.
+- Requested change: Set `is_small_sample` from `priced_rows < 20` regardless of user threshold. Keep a separate `sufficient_data` or qualification field for the adjustable minimum.
+- Verification check and expected result: On the Altadena example, minimum 20 and 30 both show `is_small_sample=False`; at 30, `sufficient_data=False` and premium unavailable. Add a boundary check for 19/20 priced listings with minimum 30.
 - Implementation commit and verification result, if resolved:

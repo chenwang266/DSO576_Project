@@ -1,0 +1,46 @@
+{
+  "snapshots": [
+    {
+      "snapshot_name": "march_2026",
+      "snapshot_date": "2026-03-16",
+      "input_file": "listings-2026-03-16.csv.gz",
+      "input_bytes": 27922658,
+      "input_sha256": "ffdef08afe58b62e57cffb9da0f1daa97bf76e223fe98ce9e2022dd330976fc6",
+      "source_rows": 46088,
+      "clean_rows": 46088,
+      "valid_price_rows": 37178,
+      "invalid_price_rows": 8910,
+      "unknown_neighbourhood_rows": 0,
+      "unknown_room_type_rows": 0,
+      "unknown_bedroom_rows": 3196
+    },
+    {
+      "snapshot_name": "june_2026",
+      "snapshot_date": "2026-06-15",
+      "input_file": "listings-2026-06-15.csv.gz",
+      "input_bytes": 26839900,
+      "input_sha256": "ebc99e8a5ff2f60cbd91323571c2bdf1f8c2c74fe3ac9669d7c9a24d2294dec5",
+      "source_rows": 43751,
+      "clean_rows": 43751,
+      "valid_price_rows": 38186,
+      "invalid_price_rows": 5565,
+      "unknown_neighbourhood_rows": 0,
+      "unknown_room_type_rows": 0,
+      "unknown_bedroom_rows": 9572
+    }
+  ],
+  "matched_listings": 38102,
+  "matched_listings_with_valid_price_both": 31893,
+  "matched_listings_with_segment_change": 7604,
+  "segment_comparison": {
+    "segments_in_both_snapshots": 1849,
+    "march_only_segments": 374,
+    "june_only_segments": 395
+  },
+  "outputs": [
+    "la_listings_cleaned.csv",
+    "la_price_segments.csv",
+    "la_price_segment_changes.csv",
+    "la_matched_listing_price_trends.csv"
+  ]
+}
