@@ -132,4 +132,4 @@ The formula is implemented correctly. The risk is in **which listings form the s
 
 - **AI use:** I used Claude Code (Claude Opus 5.5) to explore the team branches, write the independent check script from the spec text, run it on the raw files, compare its output with Chen's exported CSVs, and draft this audit and the change requests.
 - **My contribution:** I chose the requirement to audit (BUILD_SPEC.md §1) and prompted Claude Code with the assignment's audit guidelines. Claude Code chose the Prioritize use case and the premium/review-score metric within §1, found the implementation on the team branches, and did the analysis, findings, and writing. The raw snapshots used in the check are the ones I committed to `origin/wsamuels` for Module 6, but I did not collect them for this audit. I reran the check using the wsamuels_premium_check.py, and can confirm that outputs were as expected. For example, Hollywood's -3.7% March premium matched Chen's CSV.
-- **Committed check:** `audit_checks/wsamuels_premium_check.py`. _[Add commit hash after committing.]_
+- **Committed check:** `audit_checks/wsamuels_premium_check.py`. _b2f05d62715cffcad2a010c73685e0de6b132a7d_
