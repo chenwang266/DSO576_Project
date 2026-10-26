@@ -1,0 +1,135 @@
+{
+  "status": "PASS",
+  "source_bundle_sha256": "54f049cb052cc0dfb2d334ae302f3d1c82422bd002b526cc4a72b79980701a7b",
+  "source_files": {
+    "app.py": "f9b657e2445512b81e329654babb2dc4c6ba783da7c54c7f0229c54adf2c12c7",
+    "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "src/charts.py": "a4cdee124cfb699c4a7e6f5d246f31ea6d95c36e38c1ee297737cca23c8d4c20",
+    "src/data_access.py": "bbedce9c914a4195bb974dd3f1080d21663b0cb87e492e2d6c90256992d89f8e",
+    "src/filters.py": "7c9e8ab1303891c38e277636f11be29224c060e823862317536073b3f44f7811",
+    "src/history.py": "3165f7d7aba48c2fccedaee204c2f463b6d768ea42508cf27c54b04ce87b258b",
+    "src/pricing.py": "c7f9445d84a5e8f4cb626265a7cce2ee86e8df0c4be84d8459668b6f949ef808",
+    "scripts/canonical_clean.py": "f695f36f5742a9f9f385d2bfb921528edac32865018e801b1eeeddd517eb3447",
+    "uv.lock": "1838d9074beae8b790b2b86c133c85255360156895e4e1242b8a2a990a9c2e29"
+  },
+  "rows": 89839,
+  "raw_unchanged": true,
+  "input_sha256": {
+    "E:\\dso576\\project\\group data\\2026-03-16\\listings.csv.gz": "ffdef08afe58b62e57cffb9da0f1daa97bf76e223fe98ce9e2022dd330976fc6",
+    "E:\\dso576\\project\\group data\\2026-06-15\\listings.csv.gz": "ebc99e8a5ff2f60cbd91323571c2bdf1f8c2c74fe3ac9669d7c9a24d2294dec5"
+  },
+  "independent_raw_calculations": {
+    "Hollywood": {
+      "2026-03-16": {
+        "listings": 575,
+        "priced": 414,
+        "median": 162.91,
+        "coverage": 0.72,
+        "peer_n": 9534,
+        "peer_median": 169.175,
+        "premium_pct": -3.7032658489729697
+      },
+      "2026-06-15": {
+        "listings": 482,
+        "priced": 403,
+        "median": 160.87,
+        "coverage": 0.8360995850622407,
+        "peer_n": 9685,
+        "peer_median": 180.66,
+        "premium_pct": -10.954278755673641
+      },
+      "expected_change_usd": -2.039999999999992,
+      "expected_change_pct": -1.25222515499355
+    },
+    "Venice": {
+      "2026-03-16": {
+        "listings": 479,
+        "priced": 374,
+        "median": 189.725,
+        "coverage": 0.7807933194154488,
+        "peer_n": 9534,
+        "peer_median": 169.175,
+        "premium_pct": 12.14718486774049
+      },
+      "2026-06-15": {
+        "listings": 456,
+        "priced": 372,
+        "median": 193.7,
+        "coverage": 0.8157894736842105,
+        "peer_n": 9685,
+        "peer_median": 180.66,
+        "premium_pct": 7.217978523192725
+      },
+      "expected_change_usd": 3.9749999999999943,
+      "expected_change_pct": 2.0951376993016178
+    }
+  },
+  "app_interactions": [
+    {
+      "step": "Initial June / Hollywood / Entire home/apt / 1 bedroom",
+      "snapshot": "2026-06-15",
+      "neighborhood": "Hollywood",
+      "displayed_metrics": {
+        "Local median": "$160.87",
+        "Local coverage": "83.6%",
+        "Price premium": "-11.0%",
+        "Priced / listings": "403 / 482",
+        "March median": "$162.91",
+        "June median": "$160.87",
+        "Median change (USD)": "$-2.04",
+        "Median change (%)": "-1.3%"
+      }
+    },
+    {
+      "step": "Switch detail snapshot to March; history must stay identical",
+      "snapshot": "2026-03-16",
+      "neighborhood": "Hollywood",
+      "displayed_metrics": {
+        "Local median": "$162.91",
+        "Local coverage": "72.0%",
+        "Price premium": "-3.7%",
+        "Priced / listings": "414 / 575",
+        "March median": "$162.91",
+        "June median": "$160.87",
+        "Median change (USD)": "$-2.04",
+        "Median change (%)": "-1.3%"
+      }
+    },
+    {
+      "step": "Switch neighborhood to Venice; both comparison dates update",
+      "snapshot": "2026-03-16",
+      "neighborhood": "Venice",
+      "displayed_metrics": {
+        "Local median": "$189.72",
+        "Local coverage": "78.1%",
+        "Price premium": "12.1%",
+        "Priced / listings": "374 / 479",
+        "March median": "$189.72",
+        "June median": "$193.70",
+        "Median change (USD)": "$3.97",
+        "Median change (%)": "2.1%"
+      }
+    },
+    {
+      "step": "Reset restores June and Hollywood",
+      "snapshot": "2026-06-15",
+      "neighborhood": "Hollywood",
+      "displayed_metrics": {
+        "Local median": "$160.87",
+        "Local coverage": "83.6%",
+        "Price premium": "-11.0%",
+        "Priced / listings": "403 / 482",
+        "March median": "$162.91",
+        "June median": "$160.87",
+        "Median change (USD)": "$-2.04",
+        "Median change (%)": "-1.3%"
+      }
+    }
+  ],
+  "first_apptest_execution_seconds": 9.004,
+  "limitations": [
+    "AppTest exercises real Streamlit widgets and rendered element values, not browser pixel layout.",
+    "No fresh-agent build test or production deployment performed.",
+    "Timing is AppTest execution, not measured browser cold-load latency."
+  ]
+}

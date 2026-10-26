@@ -1,0 +1,7 @@
+{
+  "march": "../group data/2026-03-16/listings.csv.gz",
+  "june": "../group data/2026-06-15/listings.csv.gz",
+  "processed": "data/processed",
+  "min_priced": 20,
+  "coverage_warning": 0.8
+}
