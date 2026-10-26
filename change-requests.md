@@ -10,6 +10,7 @@ Add your name and what you will audit. Choose a different scope from your teamma
 | --- | --- | --- | --- |
 | | | | |
 | Will Samuels | §1 Prioritize use case: ranked review shortlist | Segment premium (%) and review score | Independent recomputation from raw snapshots (not the team cleaner); bedroom-completeness effect on June private-room segments; 6+ bedroom grouping |
+| Riley Lyu | §3 Analysis definitions: March–June same-segment comparison, snapshot independence and missing-date behavior | Change in median advertised price (USD and percent of March median) | New BUILD_SPEC-generated candidate `audit-riley-chapter3@4bdd0a3`; independent raw-file Hollywood/Venice medians plus synthetic boundary checks and Streamlit widget interactions. Evidence: [tests](https://github.com/chenwang266/DSO576_Project/tree/4bdd0a3c37a631e33c3e2d625ed8f44b12ada29c/generated_dashboard/tests), [aggregate results](https://github.com/chenwang266/DSO576_Project/blob/4bdd0a3c37a631e33c3e2d625ed8f44b12ada29c/generated_dashboard/audit_full_data_results.json). No actionable defect established in this tested scope; personal conclusions remain in my-audit.md. Team adoption of the candidate is not assumed; existing requests against older implementations remain open. |
 
 ## Requests
 
