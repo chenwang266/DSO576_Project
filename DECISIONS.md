@@ -4,9 +4,9 @@ This build implements **Phase 2** of [BUILD_SPEC.md](BUILD_SPEC.md) (canonical d
 
 ## Provenance
 
-- Base commit: `main@ab3f030ea55e2bd33d53464007e89264e32fbaf0` (2026-10-26). The Phase 2 files are uncommitted on top of this commit until the team commits them. Record that commit in this section when it is made.
+- Base commit: `main@ab3f030ea55e2bd33d53464007e89264e32fbaf0` (2026-10-26). The Phase 2 and Phase 3 files were committed together on 2026-11-04 as `cd5a7ea` on branch `phase3-dashboard` (pushed to origin; not merged into main).
 - Built on 2026-10-28 by Claude Code (Opus 5.5) at Will Samuels' request, working only from BUILD_SPEC.md and an inspection of the repository. A student still needs to review this build, and team adoption is not assumed.
-- Phase 3 (dashboard) added on 2026-11-04 by Claude Code (Opus 5.5) at Will Samuels' request, still uncommitted on top of the same base commit.
+- Phase 3 (dashboard) added on 2026-11-04 by Claude Code (Opus 5.5) at Will Samuels' request, in the same commit `cd5a7ea`.
 - Environment: Python 3.13.15, pandas 2.3.3, numpy 2.5.4, uv 0.12.5, macOS on an Apple M1. Dependencies are pinned in `uv.lock`.
 
 ## Repository and input audit
@@ -132,7 +132,9 @@ Files: `app.py`, `src/charts.py`, `src/presentation.py`, `tests/test_app.py`, `t
 - **Timing (AppTest, headless):** cold first run, including import, data load and validation, **2.4–3.9 s**; switching to an already computed tab **0.03–0.08 s**; changing the stay filter (recompute from listings) **0.36–0.38 s**; returning to cached filters **0.04–0.05 s**. These meet the spec's ≤10 s and ≤2 s targets in this environment. Not measured on Streamlit Community Cloud.
 - Peak memory for loading and comparing the full data: about 370 MB resident.
 
-**Deployment.** Planned target is Streamlit Community Cloud from this private repository (steps in README). The repository and data stay private; the deployed app URL is public and shows only aggregated Inside Airbnb figures (CC BY 4.0, attributed in the app). **Not yet deployed**: the code and canonical data must be committed and pushed first, and a team member must sign in to share.streamlit.io. Whether a public app is acceptable for the course is a **team decision**.
+**Deployment.** Planned target is Streamlit Community Cloud from this private repository (steps in README). The repository and data stay private; the deployed app URL is public and shows only aggregated Inside Airbnb figures (CC BY 4.0, attributed in the app). **Not yet deployed**: the code and canonical data are pushed on `phase3-dashboard`; a team member must sign in to share.streamlit.io and deploy that branch.
+
+**Fresh clone (2026-11-04).** `git clone --branch phase3-dashboard https://github.com/chenwang266/DSO576_Project` into an empty directory, then `uv sync --locked` succeeded and `uv run pytest` gave **76 passed**. The cloned canonical files have the SHA-256 values listed under Phase 2. Whether a public app is acceptable for the course is a **team decision**.
 
 ## Open items and unapproved defaults
 
@@ -143,7 +145,6 @@ Files: `app.py`, `src/charts.py`, `src/presentation.py`, `tests/test_app.py`, `t
   - publishing the dashboard at a public Streamlit Community Cloud URL
   - whether to remove the legacy processed files that contain host IDs and coordinates
 - Still to do:
-  - commit and push the Phase 2 and Phase 3 files, then record the commit here
+  - review and merge `phase3-dashboard` into main (or deploy from the branch)
   - deploy to Community Cloud and measure cold/cached timing there
-  - a real fresh `git clone` of the pushed commit (only a copied-directory simulation has been run)
 - Fresh-agent verification (a new agent given only the repository and the spec) has **not** been performed.
