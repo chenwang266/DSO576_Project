@@ -1,0 +1,20 @@
+{
+  "snapshots": [
+    {"label": "March", "date": "2026-03-16", "path": "data/raw/listings-2026-03-16.csv.gz"},
+    {"label": "June", "date": "2026-06-15", "path": "data/raw/listings-2026-06-15.csv.gz"}
+  ],
+  "processed_dir": "data/processed",
+  "min_priced_count": 20,
+  "coverage_warning": 0.8,
+  "small_sample_threshold": 20,
+  "histogram_bins": 20,
+  "unknown_bedroom_warning": 0.1,
+  "default_selection": {
+    "snapshot": "2026-06-15",
+    "neighbourhood": "Hollywood",
+    "room_type": "Entire home/apt",
+    "bedroom_segment": "1 bedroom",
+    "stay": null,
+    "source": null
+  }
+}

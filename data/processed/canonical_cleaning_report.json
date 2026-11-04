@@ -1,0 +1,374 @@
+{
+  "source": "Inside Airbnb, Los Angeles detailed listings (source extract geography)",
+  "inputs": [
+    {
+      "label": "March",
+      "nominal_date": "2026-03-16",
+      "file": "listings-2026-03-16.csv.gz",
+      "bytes": 27922658,
+      "sha256_before": "ffdef08afe58b62e57cffb9da0f1daa97bf76e223fe98ce9e2022dd330976fc6",
+      "sha256_after": "ffdef08afe58b62e57cffb9da0f1daa97bf76e223fe98ce9e2022dd330976fc6",
+      "unchanged": true
+    },
+    {
+      "label": "June",
+      "nominal_date": "2026-06-15",
+      "file": "listings-2026-06-15.csv.gz",
+      "bytes": 26839900,
+      "sha256_before": "ebc99e8a5ff2f60cbd91323571c2bdf1f8c2c74fe3ac9669d7c9a24d2294dec5",
+      "sha256_after": "ebc99e8a5ff2f60cbd91323571c2bdf1f8c2c74fe3ac9669d7c9a24d2294dec5",
+      "unchanged": true
+    }
+  ],
+  "outputs": {
+    "canonical_listings_clean.csv": {
+      "sha256": "a0399e13c9ba6d9f5cc62946bbd958b22f901a3301daa6970365e6eda784a0e6",
+      "rows": 89839
+    },
+    "canonical_price_segments.csv": {
+      "sha256": "3549e7d68ef39699baf24f11edf0e7149bcbec72c93d1d2f389b38fae59268e3",
+      "rows": 3995
+    }
+  },
+  "row_counts": {
+    "total": 89839,
+    "2026-03-16": 46088,
+    "2026-06-15": 43751
+  },
+  "segment_rows": {
+    "2026-03-16": 2160,
+    "2026-06-15": 1835
+  },
+  "snapshots": [
+    {
+      "label": "March",
+      "nominal_date": "2026-03-16",
+      "actual_scrape_dates": {
+        "2026-03-16": 12928,
+        "2026-03-17": 29498,
+        "2026-03-18": 3662
+      },
+      "rows": 46088,
+      "price_status": {
+        "missing": 8910,
+        "valid": 37178
+      },
+      "has_valid_price": 37178,
+      "has_valid_dimensions": 42892,
+      "pricing_eligible": 36537,
+      "bedrooms": {
+        "status": {
+          "missing": 3196,
+          "valid": 42892
+        },
+        "segments": {
+          "1 bedroom": 20782,
+          "2 bedrooms": 9154,
+          "3 bedrooms": 5657,
+          "Unknown": 3196,
+          "4 bedrooms": 2914,
+          "Studio": 2570,
+          "5 bedrooms": 1195,
+          "6+ bedrooms": 620
+        },
+        "zero_bedrooms": 2570,
+        "known_share": 0.9306544002777296
+      },
+      "unknown_neighbourhood": 0,
+      "unknown_room_type": 0,
+      "room_type": {
+        "Entire home/apt": 33676,
+        "Hotel room": 267,
+        "Private room": 11754,
+        "Shared room": 391
+      },
+      "stay_category": {
+        "Long stay (30+ nights)": 22586,
+        "Short stay (<30 nights)": 23495,
+        "Unknown": 7
+      },
+      "source_category": {
+        "city scrape": 35809,
+        "previous scrape": 10279
+      },
+      "field_status": {
+        "availability_30": {
+          "valid": 46088
+        },
+        "availability_60": {
+          "valid": 46088
+        },
+        "availability_90": {
+          "valid": 46088
+        },
+        "availability_365": {
+          "valid": 46088
+        },
+        "number_of_reviews_ltm": {
+          "valid": 46088
+        },
+        "number_of_reviews_l30d": {
+          "valid": 46088
+        },
+        "review_scores_value": {
+          "missing": 12532,
+          "valid": 33556
+        },
+        "minimum_nights": {
+          "missing": 7,
+          "valid": 46081
+        },
+        "number_of_reviews": {
+          "valid": 46088
+        },
+        "reviews_per_month": {
+          "missing": 12519,
+          "valid": 33569
+        }
+      },
+      "value_score_zero": 5,
+      "optional_fields_unavailable": [],
+      "reference_check": {
+        "reference": {
+          "rows": 46088,
+          "missing_price": 8910,
+          "zero_bedrooms": 2570,
+          "missing_bedrooms": 3196
+        },
+        "recalculated": {
+          "rows": 46088,
+          "missing_price": 8910,
+          "zero_bedrooms": 2570,
+          "missing_bedrooms": 3196
+        },
+        "matches": {
+          "rows": true,
+          "missing_price": true,
+          "zero_bedrooms": true,
+          "missing_bedrooms": true
+        }
+      }
+    },
+    {
+      "label": "June",
+      "nominal_date": "2026-06-15",
+      "actual_scrape_dates": {
+        "2026-06-15": 8755,
+        "2026-06-16": 17085,
+        "2026-06-17": 11999,
+        "2026-06-22": 1680,
+        "2026-06-23": 4232
+      },
+      "rows": 43751,
+      "price_status": {
+        "missing": 5565,
+        "valid": 38186
+      },
+      "has_valid_price": 38186,
+      "has_valid_dimensions": 34179,
+      "pricing_eligible": 30174,
+      "bedrooms": {
+        "status": {
+          "missing": 9572,
+          "valid": 34179
+        },
+        "segments": {
+          "1 bedroom": 14998,
+          "Unknown": 9572,
+          "2 bedrooms": 8813,
+          "3 bedrooms": 5711,
+          "4 bedrooms": 2885,
+          "5 bedrooms": 1158,
+          "6+ bedrooms": 605,
+          "Studio": 9
+        },
+        "zero_bedrooms": 9,
+        "known_share": 0.781216429338758
+      },
+      "unknown_neighbourhood": 0,
+      "unknown_room_type": 0,
+      "room_type": {
+        "Entire home/apt": 32454,
+        "Hotel room": 415,
+        "Private room": 10590,
+        "Shared room": 292
+      },
+      "stay_category": {
+        "Long stay (30+ nights)": 20481,
+        "Short stay (<30 nights)": 23259,
+        "Unknown": 11
+      },
+      "source_category": {
+        "city scrape": 37691,
+        "previous scrape": 6060
+      },
+      "field_status": {
+        "availability_30": {
+          "valid": 43751
+        },
+        "availability_60": {
+          "valid": 43751
+        },
+        "availability_90": {
+          "valid": 43751
+        },
+        "availability_365": {
+          "valid": 43751
+        },
+        "number_of_reviews_ltm": {
+          "valid": 43751
+        },
+        "number_of_reviews_l30d": {
+          "valid": 43751
+        },
+        "review_scores_value": {
+          "missing": 11266,
+          "valid": 32485
+        },
+        "minimum_nights": {
+          "missing": 11,
+          "valid": 43740
+        },
+        "number_of_reviews": {
+          "valid": 43751
+        },
+        "reviews_per_month": {
+          "missing": 11257,
+          "valid": 32494
+        }
+      },
+      "value_score_zero": 1,
+      "optional_fields_unavailable": [],
+      "reference_check": {
+        "reference": {
+          "rows": 43751,
+          "missing_price": 5565,
+          "zero_bedrooms": 9,
+          "missing_bedrooms": 9572
+        },
+        "recalculated": {
+          "rows": 43751,
+          "missing_price": 5565,
+          "zero_bedrooms": 9,
+          "missing_bedrooms": 9572
+        },
+        "matches": {
+          "rows": true,
+          "missing_price": true,
+          "zero_bedrooms": true,
+          "missing_bedrooms": true
+        }
+      }
+    }
+  ],
+  "schema": {
+    "listings": {
+      "snapshot_date": "string",
+      "snapshot_label": "string",
+      "listing_id": "string",
+      "source_file": "string",
+      "source_row": "int64",
+      "input_sha256": "string",
+      "last_scraped": "string",
+      "source_raw": "string",
+      "source_category": "string",
+      "price_raw": "string",
+      "price_usd": "float64",
+      "price_status": "string",
+      "neighbourhood_raw": "string",
+      "neighbourhood": "string",
+      "room_type_raw": "string",
+      "room_type": "string",
+      "bedrooms_raw": "string",
+      "bedrooms": "Int64",
+      "bedrooms_status": "string",
+      "bedroom_segment": "string",
+      "bedroom_order": "Int64",
+      "minimum_nights_raw": "string",
+      "minimum_nights": "Int64",
+      "minimum_nights_status": "string",
+      "stay_category": "string",
+      "availability_30": "Int64",
+      "availability_60": "Int64",
+      "availability_90": "Int64",
+      "availability_365": "Int64",
+      "availability_30_status": "string",
+      "availability_60_status": "string",
+      "availability_90_status": "string",
+      "availability_365_status": "string",
+      "number_of_reviews_ltm": "Int64",
+      "number_of_reviews_ltm_status": "string",
+      "number_of_reviews_l30d": "Int64",
+      "number_of_reviews_l30d_status": "string",
+      "review_scores_value": "float64",
+      "review_scores_value_status": "string",
+      "value_score_is_zero": "boolean",
+      "number_of_reviews": "Int64",
+      "number_of_reviews_status": "string",
+      "reviews_per_month": "float64",
+      "reviews_per_month_status": "string",
+      "first_review": "string",
+      "last_review": "string",
+      "has_valid_price": "boolean",
+      "has_valid_dimensions": "boolean",
+      "pricing_eligible": "boolean",
+      "segment_key": "string"
+    },
+    "segments": {
+      "snapshot_date": "string",
+      "segment_key": "object",
+      "neighbourhood": "string",
+      "room_type": "string",
+      "bedroom_segment": "string",
+      "bedroom_order": "int64",
+      "listing_rows": "int64",
+      "priced_rows": "int64",
+      "price_coverage": "float64",
+      "median_price_usd": "float64",
+      "p25_price_usd": "float64",
+      "p75_price_usd": "float64",
+      "price_iqr_usd": "float64",
+      "min_price_usd": "float64",
+      "max_price_usd": "float64",
+      "is_small_sample": "bool"
+    }
+  },
+  "required_fields": [
+    "id",
+    "price",
+    "neighbourhood_cleansed",
+    "room_type",
+    "bedrooms",
+    "availability_30",
+    "availability_60",
+    "availability_90",
+    "availability_365",
+    "number_of_reviews_ltm",
+    "number_of_reviews_l30d",
+    "review_scores_value"
+  ],
+  "optional_fields": [
+    "minimum_nights",
+    "source",
+    "last_scraped",
+    "first_review",
+    "last_review",
+    "number_of_reviews",
+    "reviews_per_month"
+  ],
+  "small_sample_threshold": 20,
+  "policies": [
+    "Grain: one row per (snapshot_date, listing_id); IDs are trimmed strings; missing or duplicate IDs fail.",
+    "Prices: strict USD parsing; missing, malformed and nonpositive prices are retained but excluded from statistics.",
+    "No price imputation, caps or trimming; extreme positive prices are kept.",
+    "No exclusions by stay length or source category by default.",
+    "Bedrooms: 0 = Studio, 1-5 separate, >=6 = 6+ bedrooms; missing/invalid = Unknown, never Studio.",
+    "Minimum nights: 1-29 short stay, >=30 long stay; zero/missing/invalid = Unknown stay.",
+    "Availability cannot exceed its horizon; out-of-range values are nulled and flagged.",
+    "Value score must be within 0-5; zero scores are flagged, missing stays missing.",
+    "Pricing eligibility = valid price + known neighbourhood + known room type + valid bedrooms.",
+    "Unknown dimensions remain in listings but cannot form comparable segments.",
+    "Missing optional fields stay unavailable; missing required fields fail.",
+    "Host details, listing text and coordinates are excluded from canonical outputs."
+  ]
+}

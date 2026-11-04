@@ -1,0 +1,18 @@
+[project]
+name = "la-pricing-review"
+version = "0.2.0"
+description = "LA Airbnb neighborhood-property pricing review: canonical data and reusable analysis backends."
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "pandas>=2.2,<3",
+    "numpy>=2,<3",
+    "plotly>=5.24,<7",
+    "streamlit>=1.40,<2",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
