@@ -1,0 +1,11 @@
+{
+  "processed_dir": "data/processed",
+  "march_path": "../data/raw/listings-2026-03-16.csv.gz",
+  "june_path": "../data/raw/listings-2026-06-15.csv.gz",
+  "dates": [
+    "2026-03-16",
+    "2026-06-15"
+  ],
+  "min_priced": 20,
+  "coverage_warning": 0.8
+}
