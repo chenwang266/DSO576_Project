@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "final_url": "https://la-pricing-review-visual.belovedferret.chatgpt.site/",
+    "bytes": 4647,
+    "sha256": "768bb03447f3e0165dde18bb182ce8d81bc76fa4a61a287c53d0f4fd9a6db0ec",
+    "cookies_sent": false
+  },
+  {
+    "path": "/app.js",
+    "status": 200,
+    "final_url": "https://la-pricing-review-visual.belovedferret.chatgpt.site/app.js",
+    "bytes": 28839,
+    "sha256": "bf35139b6b553dffe8d818591e8df25783b1fc155928d17cbff40c535f73b4a8",
+    "cookies_sent": false
+  },
+  {
+    "path": "/assets/catalog.json",
+    "status": 200,
+    "final_url": "https://la-pricing-review-visual.belovedferret.chatgpt.site/assets/catalog.json",
+    "bytes": 5777,
+    "sha256": "29d8642d0b9cbf5e6bf9c31e95f16e9de9d9a194149a2ece2884df5d77a14335",
+    "cookies_sent": false
+  },
+  {
+    "path": "/assets/evidence-0-0.json",
+    "status": 200,
+    "final_url": "https://la-pricing-review-visual.belovedferret.chatgpt.site/assets/evidence-0-0.json",
+    "bytes": 3430920,
+    "sha256": "4429260922bc8e86fd843d568bbbd938989abb6b1e837ff3cc049641891b59b9",
+    "cookies_sent": false
+  },
+  {
+    "path": "/assets/evidence-2-1.json",
+    "status": 200,
+    "final_url": "https://la-pricing-review-visual.belovedferret.chatgpt.site/assets/evidence-2-1.json",
+    "bytes": 2303232,
+    "sha256": "a0a9ef9100333220712f98daf9a8d6401e878fdbac907cbfebd63b497a9d8787",
+    "cookies_sent": false
+  }
+]

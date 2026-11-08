@@ -1,0 +1,6 @@
+{
+  "status": "passed",
+  "filter_and_threshold_cases": 36,
+  "segmentComparisons": 42303,
+  "scope": "12 stay/source bundles × 3 evidence settings; Python/browser medians, coverage, premiums, statuses, fixed flags and complete rank order; CSV headers and targeted warning cases"
+}

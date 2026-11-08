@@ -1,0 +1,39 @@
+{
+  "url": "https://la-pricing-review-visual.belovedferret.chatgpt.site/",
+  "access_mode": "public",
+  "site_status": "active",
+  "python_tests": {
+    "passed": 55
+  },
+  "parity": {
+    "status": "passed",
+    "filter_and_threshold_cases": 36,
+    "segmentComparisons": 42303,
+    "scope": "12 stay/source bundles \u00d7 3 evidence settings; Python/browser medians, coverage, premiums, statuses, fixed flags and complete rank order; CSV headers and targeted warning cases"
+  },
+  "browser_checks": {
+    "public_dashboard_rendered": true,
+    "two_filter_cases_match_local": true,
+    "hollywood_june_median": 160.87,
+    "venice_private_june_median": 265.07,
+    "empty_result_message_verified": true,
+    "charts_rendered": true,
+    "actual_csv_download_verified": true,
+    "download_case": "Hollywood / Entire home/apt / 1 bedroom / All stays / All sources",
+    "csv_rows": 1,
+    "csv_sha256": "2ed1857c4be16a46aab114645f69319417017b9dab4df02729f81733bfb17be8"
+  },
+  "remaining_course_handoff": [
+    "Teammate smoke check on another physical device",
+    "Instructor-accessible demo video URL",
+    "Final team Gradescope submission"
+  ],
+  "repository_root_tests": {
+    "passed": 5,
+    "environment": "visual_dashboard locked environment; existing root implementation unchanged"
+  },
+  "site_source_commit": "ccc6361db9d9077ec26f91bea531bc6f9a8ede85",
+  "saved_site_version": 3,
+  "deployment_status": "succeeded",
+  "deployment_id": "appgdep_6aefcf8ee99081919ec73895fd97a607"
+}

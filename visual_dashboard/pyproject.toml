@@ -1,0 +1,13 @@
+[project]
+name = "dso576-la-pricing-review"
+version = "1.0.0"
+description = "Auditable Los Angeles Airbnb segment pricing review"
+requires-python = ">=3.11,<3.14"
+dependencies = ["pandas==2.3.3", "plotly==6.3.1", "streamlit==1.50.0"]
+
+[dependency-groups]
+dev = ["pytest==8.4.2"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
