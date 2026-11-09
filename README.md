@@ -11,4 +11,4 @@ The public Site uses aggregate evidence from two Inside Airbnb Los Angeles snaps
 
 **Run the deployed frontend locally:** from this repository's root, run `python3 -m http.server 8502 --directory site/dist` and open `http://localhost:8502/`. The source and required aggregate data are in `site/`; no Python analysis server is needed for this view. See [visual analysis and local Streamlit instructions](visual_dashboard/README.md) for the canonical pipeline, tests, and data regeneration. The separate [root Streamlit setup](STREAMLIT_SETUP.md) remains available.
 
-**Demo video:** add the instructor-accessible recording link when it is ready.
+**Demo video:** https://drive.google.com/file/d/1_y--C8Kjcek-AQx0iDLNzHG5sSXjwh9I/view?usp=sharing
